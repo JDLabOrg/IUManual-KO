@@ -1,5 +1,5 @@
 
-
+.. image:: resource/widget/IUPage.png
 페이지 Page
 ============
 
