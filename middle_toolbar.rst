@@ -1,24 +1,21 @@
 .. _Go To Widget Property: ./widget_property.html
 
 
-Middle Toolbar
-==============
+중앙 툴바 Middle Toolbar
+====================
 
 .. image:: resource/iu_manual_middle_toolbar.png
 
-**Middle Toolbar** placed top of Canvas, and contains ``Widgets``, ``Position``, ``Frame``, ``Align``, ``Background-Color`` area.
-
+중앙 툴바는 스테이지 바로 상단에 위치하며, **1)위젯 2)포지션 3)높이/너비 4)정렬 5)배경컬러** 영역으로 구분됩니다.
 
 ----------
 
 
 
-Widgets
--------
+위젯 Widget
+----------
 
-Widget area contains Widgets (``basic``, ``complex``, ``programming``).
-
-You can add Widget into your canvas by activate Widget and click & drag on your Canvas.
+위젯 영역에는 아이유에디터에서 사용 가능한 모든 위젯들이 보여집니다. 기본적으로 **박스 / 텍스트 / 이미지** 위젯을 제공하며, 다양한 위젯을 지원합니다. 
 
 `Go To Widget Property`_
 
@@ -27,46 +24,45 @@ You can add Widget into your canvas by activate Widget and click & drag on your 
 
 
 
-Position
---------
+포지션 Position
+-------------
 
-Position area contains input fields & stepper for ``x-position``, ``y-position``. 
-
-
-* X posiition input field & Stepper : You can change **X** value by typing value into textfield or clicking stepper. (px or %)
-* Y posiition input field & Stepper : You can change **Y** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can change ``position``, ``overflow``, ``z-index`` properties in additional popup window.
+선택된 요소의 포지션을 설정합니다. (단위를 % 로 바꿀 경우, x/y 값은 드래그로 변경되지 않으며 w/h 값 역시 드래그로 변경되지 않습니다.)
 
 
-----------
-
-
-Frame
------
-
-Frame area contains input fields & stepper for ``width``, ``height``. 
-
-* Width input field & Stepper : You can change **Width** value by typing value into textfield or clicking stepper. (px or %)
-* Height input field & Stepper : You can change **Height** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can set ``min-width``, ``max-width``, ``min-height``, ``max-height``, ``calc-width``, ``calc-height`` properties in additional popup window.
+* ``x 좌표 입력필드 & 스텝퍼 X position input field & Stepper`` : 요소의 x 좌표를 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
+* ``y 좌표 입력필드 & 스텝퍼 Y position input field & Stepper`` : 요소의 y 좌표를 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
+* ``포지션 속성 설정 팝업 Position setting popup`` : 요소의 포지션 Position, 오버플로우 Overflow, z-index 속성을 변경할 수 있습니다.
 
 
 ----------
 
 
-Align
------
+프레임 Frame
+----------
 
-Align area contains ``set vertical align``, ``set horizontal align`` buttons.
-``set vertical align`` will apply only **Position : Absolute** widgets.
+선택된 요소의 높이와 너비값을 설정합니다.
+
+
+* ``Width 값 입력필드 & 스텝퍼 Width value input field & Stepper`` : 요소의 width 값을 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
+* ``Height 값 입력필드 & 스텝퍼 Height value input field & Stepper`` : 요소의 height 값을 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
+* ``최소/최대 크기 설정 팝업 Min/Max-width & Min/Max-height setting popup`` : 요소의 최소/최대 높이 또는 너비를 설정할 수 있습니다.
+
 
 
 ----------
 
 
-Background Color
-----------------
+정렬 Align
+---------
 
-Background Color area contains ``background color`` button. You can input background color or gradient to selected widget.
+선택된 요소를 가운데로 고정 시킬수 있습니다. 포지션 옵션이 Relative인 요소는 가로 정렬만 가능합니다. 
+
+
+----------
+
+
+배경컬러 Background Color
+-----------------------
+
+선택된 요소의 배경색을 선택하거나 투명값으로 설정할수 있습니다. 
