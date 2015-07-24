@@ -23,8 +23,7 @@
 ----------------------------
 
 
-**헤더 Header** 
-.. image:: resource/widget/IUHeader.png
+.. image:: resource/widget/IUHeader.png **헤더 Header**
 
 페이지의 상단에 위치하는 영역입니다. 헤더영역에는 헤더 컴포지션이나 다른 컴포지션을 임포트 할 수 있습니다.
 
