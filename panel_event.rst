@@ -16,11 +16,9 @@
 
 
 * **X-Position** : X 위치 값에 대한 애니메이션을 추가합니다.
-
-
+|
 * **Y-Position** : Y 위치 값에 대한 애니메이션을 추가합니다.
-
-
+|
 * **Opacity** : Opacity 투명도 값에 대한 애니메이션을 추가합니다.
 
 
@@ -36,11 +34,15 @@
 
 * **Variable Name** : 현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Triggered Widget 리스트를 볼 수 있습니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
 
+|
 * **Triggered Widget** : Variable Name 에서 선택한 Variable을 사용하는 Triggered Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 New Variable Name에서 삭제하면 Triggered Widget 리스트에서 삭제 됩니다.
 
+|
 * **New Variable Name** : 트리거의 변수값을 설정합니다. ID나 Name과 같은 역할을 합니다.
 
+
 * **Value Count** : 트리거의 초기값과, 최대 몇 개의 리시버를 가질지 최대값을 설정합니다.
+
 
 * **Trigger Action** : 마우스오버 또는 클릭 시 트리거가 동작하도록 설정합니다.
 
