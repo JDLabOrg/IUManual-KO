@@ -1,9 +1,9 @@
 
-.. image:: resource/widget/IUPage.png
+
 페이지 Page
 ============
 
-
+.. image:: resource/widget/IUPage.png
 
 페이지 레이아웃 Page Layout
 -----------------------
