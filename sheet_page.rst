@@ -1,8 +1,6 @@
 
 
 페이지 Page
-
-.. image:: resource/widget/IUPage.png
 ============
 
 
