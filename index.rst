@@ -53,8 +53,8 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 시트 Sheet
    
-   page
-   composition
+   sheet_page
+   sheet_composition
    
    
 .. toctree::
