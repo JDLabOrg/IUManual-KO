@@ -66,3 +66,23 @@ IUEditor Manual
    widget_programming
    
  
+  
+.. toctree::
+   :maxdepth: 2
+   :caption: 알려진 버그 Known Bugs 
+      
+   known_bug_list
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 튜토리얼 Tutorials
+   
+   tutorial
+   
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 부록 Appendix
+   
+   appendix
