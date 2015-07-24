@@ -11,7 +11,7 @@
 트랜지션 Transition
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUTransition.png
+.. image:: resource/iu_manual_prop_complex_IUTransition.png
 
 트랜지션 위젯입니다.
 트랜지션 위젯은 하위에 2개의 아이템을 가지고 있으며, 클릭 혹은 마우스오버시 1번 아이템에서 2번 아이템으로 전환됩니다.
@@ -35,7 +35,7 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 캐러젤 Carousel 
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUCarousel.png
+.. image:: resource/iu_manual_prop_complex_IUCarousel.png
 
 캐러젤 위젯입니다.
 하위 아이템은 Box와 속성이 동일하므로 자유롭게 요소를 추가할수 있습니다. Property에서 아이템 개수를 추가하거나 컨트롤러나 오토플레이 등의 옵션을 설정할 수 있습니다. 
@@ -58,7 +58,7 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 구글맵 Google Map
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUGoogleMap.png
+.. image:: resource/iu_manual_prop_complex_IUGoogleMap.png
 
 구글맵 위젯입니다. 좌표값을 설정하면 원하는 위치를 보여줄 수 있습니다.
 
@@ -87,7 +87,7 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 웹무비 WebMovie 
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUWebMovie.png
+.. image:: resource/iu_manual_prop_complex_IUWebMovie.png
 
 웹무비 위젯입니다.
 Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
@@ -117,7 +117,7 @@ Youtube : http://youtu.be/영상주소
 비디오클립 Video Clip
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUMovie.png
+.. image:: resource/iu_manual_prop_complex_IUMovie.png
 
 비디오클립 위젯입니다.
 라이브러리에 추가 된 영상을 불러올수 있습니다. (.mp4 지원) 
@@ -142,7 +142,7 @@ Youtube : http://youtu.be/영상주소
 탭 뷰 Tab View
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUTabView.png
+.. image:: resource/iu_manual_prop_complex_IUTabView.png
 
 탭 뷰 위젯입니다.
 탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다. 
@@ -166,7 +166,7 @@ Youtube : http://youtu.be/영상주소
 컬랩시블 Collapsible 
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUCollapsible.png
+.. image:: resource/iu_manual_prop_complex_IUCollapsible.png
 
 컬랩시블 위젯입니다.
 컬랩시블 아이템을 선택 시 컨텐츠 영역을 보여줍니다. 트랜지션 효과와 타이밍 등을 설정할 수 있습니다. 
@@ -191,7 +191,7 @@ Youtube : http://youtu.be/영상주소
 임포트 Import
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUImport.png
+.. image:: resource/iu_manual_prop_complex_IUImport.png
 
 
 컴포지션을 불러오는 임포트 위젯입니다.
@@ -219,7 +219,7 @@ Youtube : http://youtu.be/영상주소
 트위터 공유 버튼 Tweet Share Button
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUTweetButton.png
+.. image:: resource/iu_manual_prop_complex_IUTweetButton.png
 
 현재 페이지를 트위터로 공유할 수 있는 트위터 위젯입니다.
 Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니다. 
@@ -244,7 +244,7 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 페이스북 좋아요 버튼 Facebook Like Button
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUFBLike.png
+.. image:: resource/iu_manual_prop_complex_IUFBLike.png
 
 현재 페이지를 페이스북으로 공유할 수 있는 페이스북 위젯입니다.
 Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으나 크기는 조정되지 않습니다. 
@@ -270,7 +270,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 센터박스 Centered Box
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUCenterBox.png
+.. image:: resource/iu_manual_prop_complex_IUCenterBox.png
 
 
 페이지의 요소를 가운데로 정렬시켜주는 센터박스 위젯입니다.
@@ -298,7 +298,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 프로그레스 바 Progress Bar
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUProgressBar.png
+.. image:: resource/iu_manual_prop_complex_IUProgressBar.png
 
 
 최대치 대비 현재 비율을 나타태주는 프로그레스 바를 그릴 수 있는 위젯입니다.
@@ -324,7 +324,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 SVG (Scalable Vector Graphics) 
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUSVG.png
+.. image:: resource/iu_manual_prop_complex_IUSVG.png
 
 
 SVG를 사용할 수 있는 위젯입니다.
