@@ -62,6 +62,5 @@
 
 *네이밍에 사용할 수 없는 단어*
 
-.. code-block:: html
-id ifdef default : 이 단어들은 네이밍에 사용할 수 없습니다.
+.. note:: id | ifdef | default - 이 단어들은 네이밍에 사용할 수 없습니다.
 
