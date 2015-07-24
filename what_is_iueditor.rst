@@ -1,24 +1,31 @@
 
-What is IUEditor?
+아이유에디터가 뭐에요?
 =================
 
 
-**IUEditor** is Web-Editor Application which type of **WYSIWYG** (What You See Is What You Get), operates on **Mac OS X**. **IUEditor** is optimized to simplify the complex process of design and development.
+**아이유에디터 IUEditor** (이하 아이유에디터) 는 디자인 & 개발 프로세스를 단순화하는데 최적화되어 있는 웹에디터 입니다.
 
-
-Advantages
 ----------
 
-* IUEditor is a GUI-based program which allows users to design a prototype without any coding. 
-* Also, IUEditor allows users to develop a product or a website that supports multi-screen devices with just one IU project file.
-* IUEditor is integrated via backend layers such as python.
+장점
+---
 
-Values
+* 아이유에디터는 GUI 기반 프로그램으로 사용자가 코딩없이 프로토타입을 디자인할 수 있습니다.
+* 하나의 프로젝트 파일로 여러 크기의 디바이스에 대응할 수 있는 프로덕트나 웹사이트를 개발할 수 있습니다.
+* 파이썬 Python 과 같은 백엔드 Backend 와 통합되어 있습니다. 
+
+----------
+
+가치
+---
+
+* 아이유에디터는 디자이너가 퍼블리셔의 도움없이 개발자와 협업할 수 있게하여, 여러분의 팀, 회사의 시간과 비용을 절약할 수 있습니다.
+* 여러분의 회사나 팀이 프로덕트나 웹사이트를 빠르게 출시할 수 있게 하여, 린 프로세스 Lean Process를 도입하고 더 나은 결과물을 만들 수 있습니다.
+
+----------
+
+가격 정책
 ------
-* IUEditor enables designers to work together with developers without publishers so that your team or company can save cost and time.
-* Furthermore, IUEditor enables your team or company to ship products early, so you can adopt a lean process and iterate to build a better product or website.
 
-Software License Policy
------------------------
-* For Company, we offer a software license of IUEditor to $1,750. (Single License)
-* Anyone can use IUEditor but only for personal and non-commercial project. (IUEditor offers free user license until 30 September, 2015)
+* 아이유에디터는 개인/기업용 라이센스 가격을 다르게 책정하고 있습니다.(기업용은 1 copy 당 200만원 / 개인용은 가격 미정)
+* 현재 (2015년 7월 10일) 는 아이유에디터 홈페이지에서 무료로 다운로드 하실 수 있으며, 2015년 9월 30일까지 비상업적인 용도 (개인)에 한하여 자유롭게 사용이 가능합니다. 

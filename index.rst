@@ -5,22 +5,24 @@ IUEditor Manual
 
 .. image:: resource/iueditor-facebook-ad-img-A03.png
 
-Welcome to **IUEditor** Manual.
-You can download **IUEditor** from website below.
+환영합니다! **아이유에디터** 공식 메뉴얼입니다.
+
+프로그램은 아래 홈페이지에서 다운받아 주세요.
 
 * IUEditor Homepage : http://iueditor.org
 * IUEditor Facebook Page (Korean): https://www.facebook.com/iueditor
 
 
-.. note:: Currently IUEditor offers Free User License until 30 September, 2015. Anyone can use IUEditor but only for personal and non-commercial project.
+.. note:: 아이유에디터는 현재 개인용 그리고 비상업적 용도에 한하여 누구나 무료로 사용하실 수 있습니다. (2015년 9월 30일 까지)
+
+
 
 ---------
 
-.. _introduction:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Introduction
+   :caption: 소개 Introduction
    
    what_is_iueditor
    environment
@@ -28,10 +30,58 @@ You can download **IUEditor** from website below.
    
 .. toctree::
    :maxdepth: 2
-   :caption: Basic Feature
+   :caption: 기본 기능 Basic Feature
    
    top_toolbar
    middle_toolbar
    navigation
    canvas
    
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 패널 Panel
+      
+   panel_resource
+   panel_event
+   panel_memo
+   panel_custom_code
+   panel_import_widget
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 시트 Sheet
+   
+   page
+   composition
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 위젯 Widget
+   
+   widget_basic
+   widget_complex
+   widget_programming
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 알려진 버그 Known Bugs 
+      
+   known_bug_list
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 튜토리얼 Tutorials
+   
+   tutorial
+   
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 부록 Appendix
+   
+   appendix
