@@ -1,72 +1,67 @@
-.. _Go To Widget Property: ./widget_property.html
 
 
-Navigation
+네비게이션 Navigation
 ==========
 
 .. image:: resource/iu_manual_navigation.png
 
-**Middle Toolbar** placed top of Canvas, and contains ``Widgets``, ``Position``, ``Frame``, ``Align``, ``Background-Color`` area.
-
 
 ----------
 
 
-
-Widgets
--------
-
-Widget area contains Widgets (``basic``, ``complex``, ``programming``).
-
-You can add Widget into your canvas by activate Widget and click & drag on your Canvas.
-
-`Go To Widget Property`_
-
-
-----------
-
-
-
-Position
---------
-
-Position area contains input fields & stepper for ``x-position``, ``y-position``. 
-
-
-* X posiition input field & Stepper : You can change **X** value by typing value into textfield or clicking stepper. (px or %)
-* Y posiition input field & Stepper : You can change **Y** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can change ``position``, ``overflow``, ``z-index`` properties in additional popup window.
-
-
-----------
-
-
-Frame
------
-
-Frame area contains input fields & stepper for ``width``, ``height``. 
-
-* Width input field & Stepper : You can change **Width** value by typing value into textfield or clicking stepper. (px or %)
-* Height input field & Stepper : You can change **Height** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can set ``min-width``, ``max-width``, ``min-height``, ``max-height``, ``calc-width``, ``calc-height`` properties in additional popup window.
-
-
-----------
-
-
-Align
------
-
-Align area contains ``set vertical align``, ``set horizontal align`` buttons.
-``set vertical align`` will apply only **Position : Absolute** widgets.
-
-
-----------
-
-
-Background Color
+스트럭쳐 Structure
 ----------------
 
-Background Color area contains ``background color`` button. You can input background color or gradient to selected widget.
+현재 선택한 페이지에 속한 요소들 (섹션, 헤더, 푸터, 페이지컨텐트, 위젯 등)의 구조를 트리형태로 보여주는 패널입니다. **요소를 삭제** 하거나, **드래그 앤 드롭으로 위치를 이동** 할 수도 있으며, **새로운 섹션을 추가** 할 수 있습니다. 스트럭쳐에 추가된 요소들의 이름은 사용자가 원하는 이름으로 수정가능합니다.
+
+* ``팝업 추가 버튼 Add New Popup Button`` : 새로운 팝업을 추가합니다.
+* ``패널 추가 버튼 Add New Panel Button`` : 새로운 패널을 추가합니다.
+* ``섹션 추가 버튼 Add New Section Button`` : 새로운 섹션을 추가합니다.
+* ``삭제 버튼 Delete Button`` : 선택된 위젯을 삭제합니다.
+
+----------
+
+
+
+페이지 Pages
+-----------
+
+프로젝트에서 사용되는 모든 페이지들을 관리하는 패널입니다. 새로운 **페이지/폴더를 생성** 하거나 **삭제** 할 수 있습니다. 또한 페이지 설정을 통해 페이지의 레이아웃이나 정보를 변경할 수 있습니다. 페이지에 추가된 요소들의 이름은 사용자가 원하는 이름으로 수정가능합니다.
+
+* ``커스템 페이지 추가 버튼 Add New Custom Page Button`` : 새로운 템플릿 페이지를 추가합니다.
+* ``페이지 추가 버튼 Add New Page Button`` : 새로운 페이지를 추가합니다.
+* ``그룹 추가 버튼 Add New Group Button`` : 새로운 페이지 그룹을 추가합니다.
+* ``삭제 버튼 Delete Button`` : 선택된 페이지나 그룹을 삭제합니다.
+
+페이지에 마우스 오버시 해당 페이지의 설정을 할 수 있습니다. 페이지 레이아웃이나 기타 해당하는 페이지의 속성을 정합니다.
+
+----------
+
+
+컴포지션 Compositions
+-------------------
+
+임포트 위젯이나 헤더, 푸터, 사이드바로 임포트할 컴포지션을 관리하는 패널입니다. 새로운 컴포지션/폴더를 생성하거나 삭제할 수 있습니다.
+
+
+* ``커스텀 컴포지션 추가 버튼 Add New Custom Composition Button`` : 새로운 커스텀 컴포지션을 추가합니다.
+* ``컴포지션 추가 버튼 Add New Page Button`` : 새로운 컴포지션을 추가합니다.
+* ``그룹 추가 버튼 Add New Group Button`` : 새로운 컴포지션 그룹을 추가합니다.
+* ``삭제 버튼 Delete Button`` : 선택된 컴포지션이나 그룹을 삭제합니다.
+
+
+----------
+
+
+참고사항 References
+----------------
+
+*위젯/파일/그룹 이름 수정*
+
+각 선택된 셀에서 엔터/탭 키를 이용하여 수정모드로 들어갈 수 있습니다. 페이지/컴포지션에서 기본이름으로 정해진 페이지/컴포지션은 이름을 수정할 수 없습니다. 그밖에도 아래에 이름에 사용할 수 없는 단어들이 나열되어 있습니다.
+
+*네이밍에 사용할 수 없는 단어*
+
+.. code-block:: html
+id ifdef default : 이 단어들은 네이밍에 사용할 수 없습니다.
+
