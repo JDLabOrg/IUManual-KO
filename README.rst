@@ -4,6 +4,5 @@
 IUEditor Manual
 ***************
 
-Welcome to IUEditor Manual Page.
-
-You can download program from iueditor.org_.
+아이유에디터 메뉴얼 페이지 입니다.
+iueditor.org_에서 프로그램을 다운받으실 수 있습니다.
