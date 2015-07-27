@@ -85,4 +85,6 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 부록 Appendix
    
+   templates
+   shortcut
    appendix
