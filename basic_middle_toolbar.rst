@@ -1,4 +1,4 @@
-.. _Go To Widget Property: ./widget_property.html
+.. _Go To Widget Property: ./widget_basic.html
 
 
 중앙 툴바 Middle Toolbar
