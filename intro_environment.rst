@@ -1,6 +1,6 @@
 
-구동환경
-========
+구동환경 Environment
+=================
 
 .. image:: resource/os_x_yosemite.jpg
 
