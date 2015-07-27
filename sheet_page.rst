@@ -4,7 +4,6 @@
 ============
 
 .. image:: resource/widget/IUPage.png
-
 -------------
 
 페이지 레이아웃 Page Layout
