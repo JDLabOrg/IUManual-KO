@@ -14,5 +14,11 @@ IUEditor에서 사용할 수 있는 템플릿의 모음입니다. 프로그램 �
 
 
 * `IUPro`_
+.. image :: resource/templates/iupro.png
+
 * `IUPaper`_
+.. image :: resource/templates/paper.png
+
 * `IUAcademy`_
+.. image :: resource/templates/academy.png
+
