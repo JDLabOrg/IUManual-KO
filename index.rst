@@ -24,18 +24,18 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 소개 Introduction
    
-   what_is_iueditor
-   environment
+   intro_what_is_iueditor
+   intro_environment
    
    
 .. toctree::
    :maxdepth: 2
    :caption: 기본 기능 Basic Feature
    
-   top_toolbar
-   middle_toolbar
-   navigation
-   canvas
+   basic_top_toolbar
+   basic_middle_toolbar
+   basic_navigation
+   basic_canvas
    
    
 .. toctree::
@@ -85,6 +85,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 부록 Appendix
    
-   templates
-   shortcut
-   appendix
+   appenddix_templates
+   appenddix_shortcut
+   appenddix_dict
+   
