@@ -40,6 +40,15 @@ IUEditor Manual
    
 .. toctree::
    :maxdepth: 2
+   :caption: 고급 기능 Advanced Feature
+   
+   advanced_scenario_mode
+   advanced_heroku
+   advanced_project_setting
+   
+   
+.. toctree::
+   :maxdepth: 2
    :caption: 패널 Panel
       
    panel_resource
