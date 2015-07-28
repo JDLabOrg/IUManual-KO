@@ -2,6 +2,10 @@
 .. _네비게이션 > 페이지 탭 : ./basic_navigation.html#pages
 .. _네비게이션 > 컴포지션 탭 : ./basic_navigation.html#compositions
 
+.. _위젯 내보내기 Export Widget : #export-widget-iuw
+.. _페이지 내보내기 Export Page : #export-page-iup
+.. _컴포지션 내보내기 Export Composition : #export-composition-iuc
+
 
 
 위젯 내보내기 패널 Export Widget Panel
@@ -9,9 +13,9 @@
 
 위젯 내보내기 패널은
 
-* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 > 위젯 내보내기 Export Widget 실행
-* 페이지를 선택하여 컨택스트 메뉴 > 페이지 내보내기 Export Page 실행
-* 컴포지션을 선택하여 컨텍스트 메뉴 > 컴포지션 내보내기 Export Composition 실행
+* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 > `위젯 내보내기 Export Widget`_ 실행
+* 페이지를 선택하여 컨택스트 메뉴 > `페이지 내보내기 Export Page`_ 실행
+* 컴포지션을 선택하여 컨텍스트 메뉴 > `컴포지션 내보내기 Export Composition`_ 실행
 
 하여 불러올 수 있습니다. 
 
@@ -50,7 +54,7 @@
 
 ----------
 
-컴포지션 내보내기 Export Page (.iuc)
+컴포지션 내보내기 Export Composition (.iuc)
 -----------------------------
 
 .. image:: resource/icon_IUC_128x128.png
