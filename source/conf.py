@@ -120,7 +120,7 @@ html_context = {
 	'css_files':[
 		'http://media.readthedocs.org/css/sphinx_rtd_theme.css',
 		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
-		'custom/css/my_theme.css',
+		'static/css/my_theme.css',
 	],
 }
 
@@ -144,7 +144,7 @@ html_context = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['custom']
+html_static_path = ['static']
 
 html_style = 'css/my_theme.css' 
 
