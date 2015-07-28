@@ -1,6 +1,7 @@
 .. _메모 패널 : ./panel_memo.html
 .. _이벤트 패널 : ./panel_event.html
 .. _속성 탭 : ./basic_top_toolbar.html#tab-menu
+.. _위젯 내보내기 패널 : ./panel_export_widget.html
 
 
 캔버스 Canvas
@@ -19,7 +20,7 @@
 
 .. image:: resource/iu_manual_canvas_context_single.png
 
-위젯을 선택한 상태이거나, 캔버스 상에서 우클릭을 하여 컨텍스트 메뉴를 호출할 수 있습니다. 
+위젯을 선택한 상태이거나, 캔버스 상에서 우클릭을 하면, 컨텍스트 메뉴를 호출할 수 있습니다. 
 
 
 * ``위젯 Widget`` : 현재 마우스 포인터 위치에 있는 모든 위젯을 보여주어 선택을 손쉽게 할 수 있도록 도와줍니다.
@@ -27,6 +28,7 @@
 .. image:: resource/iu_manual_canvas_context_single_widget.png
 
 * ``메모 추가 Add Memo`` : 현재 선택된 위젯에 메모를 추가할 수 있는 `메모 패널`_ 을 불러옵니다.
+* ``위젯 내보내기 Export to Widget`` : 현재 선택된 위젯을 커스텀 위젯 Custom Widget 으로 만들 수 있는 `위젯 내보내기 패널`_ 을 호출합니다.
 * ``이벤트 보기 Show Event`` : 현재 선택된 위젯에 연결된 이벤트를 수정 / 추가 할 수 있는 `이벤트 패널`_ 을 불러옵니다.
 * ``탭 선택  Select Tab`` : 원하는 `속성 탭`_ 으로 바로 이동합니다.
 
@@ -41,7 +43,7 @@
 
 .. image:: resource/iu_manual_canvas_context_multi.png
 
-복수의 위젯을 선택한 상태에서 우클릭을 하여 컨텍스트 메뉴를 호출할 수 있습니다. 
+복수의 위젯을 선택한 상태에서 우클릭을 하면, 컨텍스트 메뉴를 호출할 수 있습니다. 
 
 
 * ``정럴 Align`` : 현재 선택된 위젯들을 정렬하는 기능입니다. ** 좌측 정렬 Align Left, 중앙 정렬 Align Center, 우측 정렬 Align Right, 상단 정렬 Align Top, 세로 중앙 정렬 Align Middle, 하단 정렬 Align Bottom** 이 있습니다.
