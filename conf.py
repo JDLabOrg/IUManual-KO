@@ -114,13 +114,12 @@ html_theme_options = {
 # Add any paths that contain custom themes here, relative to this directory.
 
 html_theme_path = ["sphinx_rtd_theme"]
-#html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 html_context = {
 	'css_files':[
 		'http://media.readthedocs.org/css/sphinx_rtd_theme.css',
 		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
-		'https://github.com/JDLabOrg/IUManual-KO/releases/download/manual/my_theme.css',
+		'http://tutorial.iueditor.org/manual/css/my_theme.css',
 	],
 }
 
@@ -144,7 +143,7 @@ html_context = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['custom']
+html_static_path = ['manual']
 
 html_style = 'css/my_theme.css' 
 
