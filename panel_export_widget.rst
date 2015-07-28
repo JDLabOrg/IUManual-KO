@@ -1,4 +1,4 @@
-.. _위젯 가져오기 패널 : ./panel_import_widget.html
+.. _위젯 불러오기 패널 : ./panel_import_widget.html
 .. _네비게이션 > 페이지 탭 : ./basic_navigation.html#pages
 .. _네비게이션 > 컴포지션 탭 : ./basic_navigation.html#compositions
 
@@ -26,7 +26,7 @@
 
 .. image:: resource/icon_IUW_128x128.png
 
-위 1) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀위젯이름.iuw`` 파일이 생성됩니다. 이 파일은 `위젯 가져오기 패널`_ 에서 불러온 후에 사용 가능합니다.
+위 1) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀위젯이름.iuw`` 파일이 생성됩니다. 이 파일은 `위젯 불러오기 패널`_ 에서 불러온 후에 사용 가능합니다.
 
 
 

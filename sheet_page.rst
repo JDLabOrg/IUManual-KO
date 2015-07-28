@@ -9,7 +9,7 @@
 페이지 세팅 Page Setting
 -----------------------
 
-페이지에는 직접적으로 위젯을 삽입할수 없습니다. 먼저 페이지 설정 버튼을 눌러 페이지 세팅 패널을  을 통해, 페이지의 레이아웃을 정한 후 각각 해당하는 곳에 위젯을 삽입합니다.
+페이지에는 직접적으로 위젯을 삽입할수 없습니다. 먼저 페이지 설정 버튼을 눌러 페이지 세팅 패널을 통해, 페이지의 레이아웃을 정한 후 각각 해당하는 곳에 위젯을 삽입합니다.
 
 .. image:: resource/iu_manual_sheet_page_setting.png
 
@@ -24,6 +24,21 @@
 
 
 -------------
+
+페이지 커스텀 코드 Page Custom Code
+-----------------------
+
+페이지 커스텀 코드 버튼을 눌러 페이지 커스텀 코드 패널을 불러올 수 있습니다.
+
+.. image:: resource/iu_manual_sheet_page_custom_code.png
+
+* **Page Header Custom Code** : 페이지 헤더 Header 부분에 추가할 커스텀 코드를 입력합니다.
+* **Page Header Custom Code for Backend** : 페이지 헤더 Header 부분에 추가할 백엔드 커스텀 코드를 입력합니다.
+
+
+
+-------------
+
 
 
 페이지 기본 위젯 Page Default Widget
