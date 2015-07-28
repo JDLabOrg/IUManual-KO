@@ -1,4 +1,8 @@
 .. _시나리오 모드 Scenario Mode : ./advanced_scenario_mode.html
+.. _커맨드 : #command
+.. _탭 메뉴 : #tab-menu
+.. _스테이지 : #stage
+
 
 
 상단 툴바 Top Toolbar
@@ -7,7 +11,7 @@
 
 .. image:: resource/iu_manual_top_toolbar.png
 
-상단 툴바는 **커맨드 / 탭 메뉴 / 스테이지** 영역으로 구분됩니다.
+상단 툴바는 `커맨드`_ / `탭 메뉴`_ / `스테이지`_ 영역으로 구분됩니다.
 
 
 ----------
