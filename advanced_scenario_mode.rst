@@ -6,7 +6,7 @@
 
 .. image:: resource/iu_manual_advanced_scenario_mode.png
 
-상단 툴바에서 에딧/시나리오 버튼을 클릭하면 시나리오 모드로 진입합니다. 
+상단 툴바에서 ``시나리오 / 에디트 모드 변경 버튼`` 을 클릭하면 시나리오 모드로 진입합니다. 
 
 **수정 이력 Revision History / 프로젝트 워크플로우 Project Workflow / 화면 정의 Screen Definition** 페이지로 구분되며, 우측의 ``도큐먼트 빌드 Document Build`` 버튼을 실행하여 **HTML 시나리오 문서** 를 제작할 수 있습니다.
 
