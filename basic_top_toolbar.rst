@@ -34,7 +34,7 @@
 탭 메뉴 Tab Menu
 -------------
 
-상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 **텍스트 / 속성 / 스타일 / 액션 / 백엔드** 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다. 
+상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 **텍스트 / 속성 / 스타일 / 트랜스폼 / 마우스-오버 / 백엔드** 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다. 
 
 
 ----------
@@ -69,22 +69,30 @@
 
 ----------
 
-.. image:: resource/iu_manual_top_toolbar_tab04_action.png
+.. image:: resource/iu_manual_top_toolbar_tab04_transform.png
 
-액션 탭 Action Tab
+트랜스폼 탭 Transform Tab
 ---------------
 
-액션 텝 메뉴를 선택하면, 마우스 오버시 변화되는 값을 설정할 수 있습니다.
+트랜스폼 텝 메뉴를 선택하면, 회전 값 Rotation 값 등을 설정하여 형태를 변형시킬 수 있습니다.
 
 ----------
 
+.. image:: resource/iu_manual_top_toolbar_tab05_mouse_over.png
 
-.. image:: resource/iu_manual_top_toolbar_tab05_backend.png
+마우스-오버 탭 Mouse-Over Tab
+---------------
+
+마우스 오버 텝 메뉴를 선택하면, 마우스 오버 시 변화하는 값을 설정 할 수 있습니다.
+
+----------
+
+.. image:: resource/iu_manual_top_toolbar_tab06_backend.png
 
 백엔드 탭 Back-End Tab
 -------------------
 
-백엔드 탭 메뉴를 선택하면 특정 위젯에 **변수 Variables**를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.) 
+백엔드 탭 메뉴를 선택하면 특정 위젯에 **변수 Variables** 를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.) 
 
 
 
