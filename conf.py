@@ -135,7 +135,7 @@ html_theme_path = ["sphinx_rtd_theme"]
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['custom']
 
-html_style = 'css/theme.css' 
+html_style = 'css/my_theme.css' 
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
