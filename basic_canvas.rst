@@ -44,11 +44,11 @@
 복수의 위젯을 선택한 상태에서 우클릭을 하여 컨텍스트 메뉴를 호출할 수 있습니다. 
 
 
-* ``정럴 Align`` : 현재 선택된 위젯들을 정렬하는 기능입니다. ``좌측 정렬 Align Left``, ``중앙 정렬 Align Center``, ``우측 정렬 Align Right``, ``상단 정렬 Align Top``, ``세로 중앙 정렬 Align Middle``, ``하단 정렬 Align Bottom`` 이 있습니다.
+* ``정럴 Align`` : 현재 선택된 위젯들을 정렬하는 기능입니다. ** 좌측 정렬 Align Left, 중앙 정렬 Align Center, 우측 정렬 Align Right, 상단 정렬 Align Top, 세로 중앙 정렬 Align Middle, 하단 정렬 Align Bottom** 이 있습니다.
 
 .. image:: resource/iu_manual_canvas_context_multi_align.png
 
-* ``크기 Size`` : 현재 선택된 위젯들의 크기를 맞추어 주는 기능입니다. ``가로 맞춤 Match Width``, ``세로 맞춤 Match Height`` 가 있습니다.
+* ``크기 Size`` : 현재 선택된 위젯들의 크기를 맞추어 주는 기능입니다. **가로 맞춤 Match Width, 세로 맞춤 Match Height** 가 있습니다.
 
 .. image:: resource/iu_manual_canvas_context_multi_size.png
 
