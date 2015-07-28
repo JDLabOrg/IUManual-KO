@@ -42,57 +42,39 @@
 
 .. image:: resource/iu_manual_top_toolbar_tab01_text.png
 
-텍스트 탭 Text Tab
---------------
-
-텍스트 탭 메뉴를 선택하면, **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
+* ``텍스트 탭 Text Tab`` : **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
 
 
 ----------
 
 .. image:: resource/iu_manual_top_toolbar_tab02_property.png
 
-속성 탭 Property Tab
------------------
-
-속성 탭 메뉴를 선택하면, 선택한 각 위젯의 개별 속성을 변경할 수 있습니다. 각 위젯 별로 설정 가능한 항목이 다릅니다.
+* ``속성 탭 Property Tab`` : 선택한 각 위젯의 개별 속성을 변경할 수 있습니다. 각 위젯 별로 설정 가능한 항목이 다릅니다.
 
 ----------
 
 
 .. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-스타일 탭 Style Tab
-----------------
-
-스타일 탭 메뉴를 선택하면, **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
+* ``스타일 탭 Style Tab`` : 선택한 위젯의 **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
 
 ----------
 
 .. image:: resource/iu_manual_top_toolbar_tab04_transform.png
 
-트랜스폼 탭 Transform Tab
----------------
-
-트랜스폼 텝 메뉴를 선택하면, 회전 값 Rotation 값 등을 설정하여 형태를 변형시킬 수 있습니다.
+* ``트랜스폼 탭 Transform Tab`` : 선택한 위젯의 회전 값 Rotation 값 등을 설정하여 형태를 변형시킬 수 있습니다.
 
 ----------
 
 .. image:: resource/iu_manual_top_toolbar_tab05_mouse_over.png
 
-마우스-오버 탭 Mouse-Over Tab
----------------
-
-마우스 오버 텝 메뉴를 선택하면, 마우스 오버 시 변화하는 값을 설정 할 수 있습니다.
+* ``마우스-오버 탭 Mouse-Over Tab`` : 선택한 위젯이 마우스 오버 상태일 때 변화하는 값을 설정 할 수 있습니다.
 
 ----------
 
 .. image:: resource/iu_manual_top_toolbar_tab06_backend.png
 
-백엔드 탭 Back-End Tab
--------------------
-
-백엔드 탭 메뉴를 선택하면 특정 위젯에 **변수 Variables** 를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.) 
+* ``백엔드 탭 Back-End Tab`` : 선택한 위젯에 **변수 Variables** 를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.) 
 
 
 
