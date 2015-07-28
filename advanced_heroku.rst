@@ -1,4 +1,4 @@
-
+.. _헤로쿠 튜토리얼 참고 : http://tutorial.iueditor.org/tuto02-magazine-part3.html
 
 헤로쿠 Heroku
 ============
@@ -6,40 +6,9 @@
 
 .. image:: resource/iu_manual_advanced_heroku.png
 
-상단 툴바에서 에딧/시나리오 버튼을 클릭하면 시나리오 모드로 진입합니다. 
+프로젝트 화면에서, ⇧⌘H 키를 누르면 위와 같은 헤로쿠 관리 창이 뜹니다. 헤로쿠 관리 패널에서는 유저 개개인의 계정으로 접속하여, 아이유에디터에서 헤로쿠 서버로 업로드를 할 수 있어, 아이유에디터로 만든 웹사이트를 서버에서 바로 볼 수 있는 매우 편리한 기능입니다.
 
-**수정 이력 Revision History / 프로젝트 워크플로우 Project Workflow / 화면 정의 Screen Definition** 페이지로 구분되며, 우측의 ``도큐먼트 빌드 Document Build`` 버튼을 실행하여 **HTML 시나리오 문서** 를 제작할 수 있습니다.
-
-
-----------
+`헤로쿠 튜토리얼 참고`_
 
 
-개정 이력 Revision History
------------------------
-
-.. image:: resource/scenario/ic_SB_revision.png
-
-
-현재 프로젝트에 대한 개정 이력을 작성 / 수정합니다.
-
-
-----------
-
-프로젝트 워크플로우 Project Workflow
--------------------------------
-
-.. image:: resource/scenario/ic_SB_workflow.png
-
-현재 프로젝트내 각 페이지 사이에 걸린 링크들의 경로를 보여줍니다.
-
-
-
-----------
-
-화면 정의 Screen Definition
--------------------------------
-
-.. image:: resource/scenario/ic_SB_screen.png
-
-페이지 스트럭쳐에서 선택된 페이지의 상세 화면 정의를 작성할 수 있습니다. 
 
