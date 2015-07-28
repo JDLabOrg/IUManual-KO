@@ -18,6 +18,12 @@
 .. image:: resource/iu_manual_panel_export_widget.png
 
 
+* ``Customize Viewport Size`` : 커스텀파일의 뷰포트를 원하는 사이즈로 조정합니다.
+* ``Name`` : 커스텀 파일의 이름을 입력합니다.
+* ``New Group`` : 커스텀 파일의 그룹을 입력합니다.
+* ``Export Directory`` : 커스텀 파일을 내보낼 경로를 설정합니다.
+* ``Description`` : 커스텀 파일에 설명을 입력합니다.
+
 
 ----------
 
