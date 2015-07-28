@@ -120,7 +120,7 @@ html_context = {
 	'css_files':[
 		'http://media.readthedocs.org/css/sphinx_rtd_theme.css',
 		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
-		'https://github.com/JDLabOrg/IUManual-KO/blob/master/custom/css/my_theme.css',
+		'https://github.com/JDLabOrg/IUManual-KO/releases/download/manual/my_theme.css',
 	],
 }
 
