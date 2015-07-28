@@ -122,8 +122,8 @@ html_context = {
 		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
 		'custom/css/my_theme.css',
 	],
-	}
-]}
+}
+
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
