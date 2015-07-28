@@ -1,4 +1,4 @@
-.. _시나리오 모드 : ./advanced_scenario_mode.html
+.. _시나리오 모드 Scenario Mode : ./advanced_scenario_mode.html
 
 
 상단 툴바 Top Toolbar
