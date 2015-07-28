@@ -1,4 +1,10 @@
 .. _Go To Widget Property: ./widget_basic.html
+.. _1) 위젯 : #widget
+.. _2) 포지션 : #position
+.. _3) 프레임 : #frame
+.. _4) 정렬 : #align
+.. _5) 배경컬러 : #background-color
+
 
 
 중앙 툴바 Middle Toolbar
@@ -6,7 +12,7 @@
 
 .. image:: resource/iu_manual_middle_toolbar.png
 
-중앙 툴바는 스테이지 바로 상단에 위치하며, **1)위젯 2)포지션 3)높이/너비 4)정렬 5)배경컬러** 영역으로 구분됩니다.
+중앙 툴바는 스테이지 바로 상단에 위치하며, `1) 위젯`_ `2) 포지션`_ `3) 프레임`_ `4) 정렬`_ `5) 배경컬러`_ 영역으로 구분됩니다.
 
 ----------
 
