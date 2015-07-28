@@ -1,9 +1,15 @@
+.. _스트럭쳐 : #structure
+.. _페이지 : #pages
+.. _컴포지션 : #compositions
+
 
 
 네비게이션 Navigation
 ==========
 
 .. image:: resource/iu_manual_navigation.png
+
+네비게이션 영역은 캔버스 바로 좌측에 위치하며, `스트럭쳐`_ / `페이지`_ / `컴포지션`_ 영역으로 구분됩니다.
 
 
 ----------
