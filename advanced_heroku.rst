@@ -1,7 +1,7 @@
 .. _헤로쿠 튜토리얼 참고 : http://tutorial.iueditor.org/tuto02-magazine-part3.html
 
-헤로쿠 Heroku
-============
+헤로쿠 관리 Heroku Management
+==========================
 
 
 .. image:: resource/iu_manual_advanced_heroku.png
