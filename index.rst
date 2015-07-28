@@ -56,6 +56,7 @@ IUEditor Manual
    panel_memo
    panel_custom_code
    panel_import_widget
+   panel_export_widget
    
    
 .. toctree::
