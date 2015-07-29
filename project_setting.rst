@@ -1,7 +1,7 @@
-.. _디폴트 Default : #default
-.. _메타 Meta : #meta
-.. _빌드 Build : #build
-.. _장고 Django : #django
+.. _디폴트 Default : #id2
+.. _메타 Meta : #id3
+.. _빌드 Build : #id4
+.. _장고 Django : #id5
 .. _장고 프로젝트 : ./project_type.html#django-project
 
 
@@ -72,4 +72,8 @@
 
 * ``Django Build Path`` : 빌드 실행 시 생성되는 장고 폴더의 경로를 설정합니다.
 * ``Django Resource Path`` : 빌드 실행 시 생성되는 장고 리소스 폴더의 경로를 설정합니다.
-* ``Django Resource Prefix`` : 프로젝트가 
+* ``Django Resource Prefix`` : 장고 프로젝트가 사용할 리소스 폴더의 경로를 설정합니다.
+* ``Runserver after build`` : 빌드 실행 이후에 로컬호스트 서버 실행 여부를 설정합니다.
+* ``Django Port`` : 장고 프로젝트가 사용할 로컬호스트 서버의 포트를 설정합니다.
+* ``Python Interpreter Path`` : 장고 프로젝트가 사용하는 파이썬 인터프리터의 경로를 설정합니다.
+* ``Django Manage.py Path`` : 장고 프로젝트가 사용하는 Manage.py 파일의 경로를 설정합니다.
