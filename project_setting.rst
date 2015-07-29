@@ -5,7 +5,7 @@
 .. _장고 프로젝트 : ./project_type.html#django-project
 
 
-셋팅 Project Setting
+프로젝트 셋팅 Project Setting
 =======================
 
 프로젝트 > 프로젝트 셋팅 메뉴를 실행하거나 ⇧⌘P 키를 실행하면 프로젝트 셋팅 패널이 보여집니다. `디폴트 Default`_ , `메타 Meta`_ , `빌드 Build`_ , `장고 Django`_ 탭 메뉴를 눌러 각 항목의 내용을 추가하거나 수정할 수 있습니다.
