@@ -13,11 +13,10 @@
 ----------
 
 
-디폴트 Default
-------------
-
 .. image:: resource/iu_manual_project_setting_01default.png
 
+디폴트 Default
+------------
 
 * ``Project Title`` : 브라우져에서 보여질 프로젝트의 타이틀을 입력합니다.
 * ``Favicon`` : 파비콘 이미지를 설정합니다. 리소스로 불러들여온 후에 사용이 가능합니다.
@@ -29,10 +28,11 @@
 -------------
 
 
+.. image:: resource/iu_manual_project_setting_02meta.png
+
 메타 Meta
 ------------
 
-.. image:: resource/iu_manual_project_setting_02meta.png
 
 * ``Meta Image`` : 메타이미지를 설정합니다. 외부경로 (URL)만 입력 가능합니다.
 * ``Author`` : 메타데이타에 포함될 제작자의 이름을 입력합니다.
@@ -46,10 +46,11 @@
 ------------
 
 
+.. image:: resource/iu_manual_project_setting_03build.png
+
 빌드 Build
 ------------
 
-.. image:: resource/iu_manual_project_setting_03build.png
 
 * ``Build Path`` : 빌드 실행 시 생성되는 폴더의 경로를 설정합니다.
 * ``Build Resource Path`` : 빌드 실행 시 생성되는 리소스 폴더의 경로를 설정합니다.
@@ -63,10 +64,10 @@
 ------------
 
 
+.. image:: resource/iu_manual_project_setting_04django.png
+
 장고 Django
 ------------
-
-.. image:: resource/iu_manual_project_setting_04django.png
 
 .. note :: 장고 셋팅은 `장고 프로젝트`_ 에서만 설정 가능합니다.
 
