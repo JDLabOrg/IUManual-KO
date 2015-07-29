@@ -58,7 +58,14 @@ IUEditor Manual
    panel_import_widget
    panel_export_widget
    
+.. toctree::
+   :maxdepth: 2
+   :caption: 프로젝트 Project
    
+   project_type
+   project_setting
+
+
 .. toctree::
    :maxdepth: 2
    :caption: 시트 Sheet
