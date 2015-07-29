@@ -21,8 +21,10 @@
 ----------
 
 
-클립아트 불러오기 Import Clipart
---------------------------
+클립아트 불러오기 Import Clipart 
+---------------------------
+
+아이유에디터에서 제공하는 클립아트를 불러올 수 있습니다.
 
 .. image:: resource/iu_manual_panel_resource_clipart.png
 
