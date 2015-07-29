@@ -1,6 +1,5 @@
-.. _상세 정보 :#widget-group-list
 .. _커스텀 위젯 리스트 : #custom-widget-list
-.. _커스텀 위젯 정보 영역 : #widget-info
+.. _커스텀 위젯 정보 : #custom-widget-info
 
 
 
@@ -8,7 +7,7 @@
 위젯 불러오기 패널 Import Widget Panel
 ==================================
 
-위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Custom Widget** 항목을 실행하면 등장합니다. 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget** 파일을 캔버스에 추가할 때 사용됩니다. **그리드 뷰 / 테이블 뷰** 2가지 뷰가 지원되며, 우측에는 커스텀 위젯의 `상세 정보`_ 가 보여집니다. 테이블 뷰 하단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다. 
+위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Custom Widget** 항목을 실행하면 등장합니다. 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget** 파일을 캔버스에 추가할 때 사용됩니다. **그리드 뷰 / 테이블 뷰** 2가지 뷰가 지원되며, 우측에는 `커스텀 위젯 정보`_ 가 보여집니다. 테이블 뷰 하단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다. 
 
 .. image:: resource/iu_manual_panel_import_widget.png
 
