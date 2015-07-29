@@ -1,6 +1,6 @@
 
 
-프로젝트 종류 Project Type
+타입 선택 Project Type
 =======================
 
 .. image:: resource/icon_IU_128x128.png
