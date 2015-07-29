@@ -8,3 +8,8 @@
 
 .. image:: resource/iu_manual_panel_memo.png
 
+* ``Show / Hide Table Toggle Button`` : 현재 페이지에서 추가된 모든 메모를 볼 수 있는 테이블 뷰를 숨김 / 보임 시킬수 있는 토글 버튼 입니다.
+* ``Title`` : 타이틀을 입력합니다.
+* ``Memo`` : 내용을 입력합니다.
+
+.. note:: 메모 테이블 뷰에서는 각 메모의 **넘버 / 타이틀 / 내용** 을 수정할 수 있습니다.

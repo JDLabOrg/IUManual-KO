@@ -1,4 +1,4 @@
-.. _임포트 클립아트 Import Clipart : #import-clipart
+.. _임포트 클립아트 Import Clipart : #id1
 
 
 
