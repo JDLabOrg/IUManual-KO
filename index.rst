@@ -101,7 +101,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 부록 Appendix
    
-   appenddix_templates
-   appenddix_shortcut
-   appenddix_dict
+   appendix_templates
+   appendix_shortcut
+   appendix_dict
    
