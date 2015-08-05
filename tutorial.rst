@@ -1,8 +1,8 @@
-.. _튜토리얼 사이트 가기 : http://tutorial.iueditor.org
-.. _Tutorial 101 - 블로그 스타일 웹페이지 만들기 : http://tutorial.iueditor.org/tuto01-blog.html
-.. _Tutorial 201 - 반응형 매거진 뷰 만들기 Part1 - 디자인 : http://tutorial.iueditor.org/tuto02-magazine.html
-.. _Tutorial 202 - 반응형 매거진 뷰 만들기 Part2 - 미디어쿼리 : http://tutorial.iueditor.org/tuto02-magazine-part2.html
-.. _Tutorial 203 - 반응형 매거진 뷰 만들기 Part3 - Heroku : http://tutorial.iueditor.org/tuto02-magazine-part3.html
+.. _튜토리얼 사이트 가기 : http://tutorial.iueditor.org/ko/
+.. _Tutorial 101 - 블로그 스타일 웹페이지 만들기 : http://tutorial.iueditor.org/ko/tuto01-blog.html
+.. _Tutorial 201 - 반응형 매거진 뷰 만들기 Part1 - 디자인 : http://tutorial.iueditor.org/ko/tuto02-magazine.html
+.. _Tutorial 202 - 반응형 매거진 뷰 만들기 Part2 - 미디어쿼리 : http://tutorial.iueditor.org/ko/tuto02-magazine-part2.html
+.. _Tutorial 203 - 반응형 매거진 뷰 만들기 Part3 - Heroku : http://tutorial.iueditor.org/ko/tuto02-magazine-part3.html
 
 
 
