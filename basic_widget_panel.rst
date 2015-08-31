@@ -35,5 +35,5 @@ CUSTOM WIDGETS 탭에서는 위젯 불러오기로 불러온 커스텀 위젯들
 * ``검색 영역 Search Field`` : 커스텀 위젯을 이름이나 태그로 검색합니다.
 * ``확대/축소 버튼 Zoom in/Zoom out Button`` : 커스텀 위젯의 섬네일을 확대/축소 합니다.
 
-`Go To Manage Custom Widgets Panel`_ 커스텀 위젯 불러오기에 대해 알아보기
+`Go To Manage Custom Widgets Panel`_  커스텀 위젯 불러오기에 대해 알아보기
 
