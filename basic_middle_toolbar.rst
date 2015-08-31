@@ -2,7 +2,7 @@
 .. _포지션 : #position
 .. _프레임 : #frame
 .. _정렬 : #align
-.. _배경컬러 : #background-color
+.. _배경컬러 : #background/color
 .. _위젯 보기/감추기 버튼 : #show/Hide-widget-button
 
 
@@ -56,7 +56,7 @@
 ----------
 
 
-배경컬러 Background Color
+배경컬러 Background/Color
 -----------------------
 
 선택된 요소의 배경색을 선택하거나 투명값으로 설정할수 있습니다. 
@@ -70,6 +70,6 @@
 
 버튼을 눌러 오른쪽에 위젯 패널을 보이게 하고 숨깁니다. 위젯 패널에는 아이유에디터에서 사용 가능한 모든 위젯들이 보여집니다. 기본적으로 **박스 / 텍스트 / 이미지** 위젯을 제공하며, 다양한 위젯을 지원합니다. +커스텀 위젯
 
-`Go To Widget Propertyyyy`_
+`Go To Widget Property`_
 
 
