@@ -3,7 +3,7 @@
 .. _프레임 : #frame
 .. _정렬 : #align
 .. _배경컬러 : #background-color
-.. _위젯 보기/감추기 버튼 : #Show/Hide Widget Button
+.. _위젯 보기/감추기 버튼 : #show/Hide widget button
 
 
 
