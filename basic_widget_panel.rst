@@ -1,7 +1,7 @@
 .. _Go To Widget Property: ./widget_basic.html
 .. _아이유 위젯: #iu-widgets
 .. _커스텀 위젯: #custom-widgets
-.. _위젯 관리 패널: ./panel_widget_import.html 
+.. _위젯 관리 패널: ./panel_management_widget.html 
 **이 페이지는 작성중입니다.**
 
 
