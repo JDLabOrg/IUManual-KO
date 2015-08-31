@@ -34,6 +34,7 @@ IUEditor Manual
    
    basic_top_toolbar
    basic_middle_toolbar
+   basic_widget_panel
    basic_navigation
    basic_canvas
    
