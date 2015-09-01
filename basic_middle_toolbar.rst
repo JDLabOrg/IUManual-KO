@@ -1,4 +1,4 @@
-.. _Go To Widget Property: ./widget_basic.html
+.. _Go To Widget Panel: ./basic_widget_panel.html
 .. _포지션 : #position
 .. _프레임 : #frame
 .. _정렬 : #align
@@ -70,6 +70,6 @@
 
 버튼을 눌러 오른쪽에 위젯 패널을 보이게 하고 숨깁니다. 위젯 패널에는 아이유에디터에서 사용 가능한 모든 위젯들 보여집니다.  IU WIDGETS탭과 CUSTOM WIDGETS탭으로 나뉘어 있습니다. 
 
-`Go To Widget Property`_
+`Go To Widget Panel`_
 
 
