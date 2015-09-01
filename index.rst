@@ -34,6 +34,7 @@ IUEditor Manual
    
    basic_top_toolbar
    basic_middle_toolbar
+   basic_widget_panel
    basic_navigation
    basic_canvas
    
@@ -54,7 +55,7 @@ IUEditor Manual
    panel_event
    panel_memo
    panel_custom_code
-   panel_import_widget
+   panel_management_widget
    panel_export_widget
    
 .. toctree::
