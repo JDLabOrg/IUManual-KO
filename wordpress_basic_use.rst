@@ -1,4 +1,4 @@
-워드프레스 기본 사용 Wordpress basic use
+워드프레스 기본 사용 Wordpress Basic Usage
 ==========
 
 소개 Introduction
@@ -6,54 +6,27 @@
 
 IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습니다.
 
-(캡처: new project > wordpress, wordpress widgets group)
+(캡처: new project > wordpress)
+* New Project > Wordpress 에서 원하는 템플릿을 선택합니다.
+(캡처: wordpress widgets group)
+* 우측하단 Wordpress 위젯들을 활용해 테마에 필요한 요소들을 삽입할 수 있습니다.
+
+---------
+
+페이지 구성 ?? of Pages
+-------------
+* Index
+* Single
+* 404
+
+참고(note?): https://yoast.com/wordpress-theme-anatomy/
 
 
+-------------
 
-* ``팝업 추가 버튼 Add New Popup Button`` : 새로운 팝업을 추가합니다.
+설정 Setting
+--------------
 
-----------
-
-
-
-페이지 Pages
------------
-
-프로젝트에서 사용되는 모든 페이지들을 관리하는 패널입니다. 새로운 **페이지/폴더를 생성** 하거나 **삭제** 할 수 있습니다. 또한 페이지 설정을 통해 페이지의 레이아웃이나 정보를 변경할 수 있습니다. 페이지에 추가된 요소들의 이름은 사용자가 원하는 이름으로 수정가능합니다.
-
-* ``커스템 페이지 추가 버튼 Add New Custom Page Button`` : 새로운 템플릿 페이지를 추가합니다.
-* ``페이지 추가 버튼 Add New Page Button`` : 새로운 페이지를 추가합니다.
-* ``그룹 추가 버튼 Add New Group Button`` : 새로운 페이지 그룹을 추가합니다.
-* ``삭제 버튼 Delete Button`` : 선택된 페이지나 그룹을 삭제합니다.
-
-페이지에 마우스 오버시 해당 페이지의 설정을 할 수 있습니다. 페이지 레이아웃이나 기타 해당하는 페이지의 속성을 정합니다.
-
-----------
-
-
-컴포지션 Compositions
--------------------
-
-임포트 위젯이나 헤더, 푸터, 사이드바로 임포트할 컴포지션을 관리하는 패널입니다. 새로운 컴포지션/폴더를 생성하거나 삭제할 수 있습니다.
-
-
-* ``커스텀 컴포지션 추가 버튼 Add New Custom Composition Button`` : 새로운 커스텀 컴포지션을 추가합니다.
-* ``컴포지션 추가 버튼 Add New Page Button`` : 새로운 컴포지션을 추가합니다.
-* ``그룹 추가 버튼 Add New Group Button`` : 새로운 컴포지션 그룹을 추가합니다.
-* ``삭제 버튼 Delete Button`` : 선택된 컴포지션이나 그룹을 삭제합니다.
-
+* Build path
 
 ----------
-
-
-참고사항 References
-----------------
-
-*위젯/파일/그룹 이름 수정*
-
-각 선택된 셀에서 엔터/탭 키를 이용하여 수정모드로 들어갈 수 있습니다. 페이지/컴포지션에서 기본이름으로 정해진 페이지/컴포지션은 이름을 수정할 수 없습니다. 그밖에도 아래에 이름에 사용할 수 없는 단어들이 나열되어 있습니다.
-
-*네이밍에 사용할 수 없는 단어*
-
-.. note:: id / ifdef / default - 이 단어들은 네이밍에 사용할 수 없습니다.
-
