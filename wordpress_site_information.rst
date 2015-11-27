@@ -14,6 +14,7 @@
 ----------
 
 사이트 부제 Site description
+------------
 
 (캡처: Site description widget in widget bar)
 (캡처: Site description in header)
