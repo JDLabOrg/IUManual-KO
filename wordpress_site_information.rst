@@ -19,4 +19,3 @@
 (캡처: Site description in header)
 
 * wp-admin에서 설정한 site description 항목이 출력됩니다.
-
