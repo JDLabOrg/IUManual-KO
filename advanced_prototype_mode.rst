@@ -1,68 +1,69 @@
 
 
 
-Prototype Mode
+프로토타입 모드 Prototype Mode
 =======================
 
 .. image:: resource/iu_manual_advanced_prototype_mode.png
 
-In Top toolbar, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
+상단 툴바에서 ``Mode Switch Button``을 눌러 **Prototype Mode**로 전환할 수 있습니다.
 
-Prototype Mode offers `Revision History`_ / `Project Workflow`_ / `Node Definition`_ page. You can refresh scenario by clicking ``Refresh Workflow Button`` and can build **HTML Scenario** by clicking ``Build Senario Button`` . And ``Refresh Thumbnail`` button updates page thumbnails contained in workflow and page list.
+여러명이 하나의 프로젝트를 같이 작업할 때, 프로토타입 모드에서 프로젝트와 관련된 히스토리와 워크플로우, 메모 등을 공유하고 관리할 수 있습니다.
+프로토타입 모드는 `Revision History`_ / `Project Workflow`_ / `Node Definition`_ 세가지 페이지를 제공합니다. ``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Senario``버튼은 프로토타입 문서를 **HTML Prototpye**으로 빌드합니다. ``Refresh Thumbnail``버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
 
 
 ----------
 
-Revision History
+히스토리 Revision History
 -------------------------------
  
 .. image:: resource/scenario/ic_SB_revision.png
 
 
-Displays **Revision History** about current project. You can add or change history.
+프로젝트의 **히스토리 Revision History** 를 보여줍니다. 히스토리를 변경하거나 추가할 수 있습니다.
 
 
-* ``Add New Date Button`` : Create new editable row field in table.
-* ``Remove Date Button`` : Delete selected row from table.
+* ``Add New Date Button`` : 히스토리 테이블에 새 히스토리를 추가합니다.
+* ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
 ----------
 
-Project Workflow
+워크플로우 Project Workflow
 -------------------------------
 
 .. image:: resource/scenario/ic_SB_workflow.png
 
-Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. Press delete key to delete selected node.
+프로젝트의 **워크플로우 Workflow**를 보여줍니다. 섬네일을 드래그 앤 드롭 하여 노드를 추가할 수 있습니다. Delete키를 눌러 선택된 노드를 지울 수 있습니다.
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_thumbnail.png
-* ``Default thumbnails`` : List of page thumbnails contained in project.
-* ``Custom thumbnails`` : List of page thumbnails captured in editor mode using **Page Capture Button** in toolbar.
+* ``Default thumbnails`` : 프로젝트에 포함된 페이지들의 섬네일 목록.
+* ``Custom thumbnails`` : **Page Capture** 버튼으로 캡쳐된 페이지들의 섬네일 목록.
 
-.. note:: Thumbnails will be added by **Page Capture** button in **Editor Mode**.
+.. note:: 커스텀 섬네일은 **Editor Mode**에서 툴바의 **Page Capture**를 눌러 추가할 수 있습니다.
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_workflow.png
-* ``Rectangle Button`` : Add square dialog below the selected node.
-* ``Rhombus Button`` : Add diamond dialog below the selected node.
+* ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
+* ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.
 
 
-* ``Inward Label`` : Add label on top of the selected node.
-* ``Outward Label`` : Add label below of the selected node.
+* ``Inward Label`` : 선택된 노드 위에 표시되는 텍스트를 입력합니다.
+* ``Outward Label`` : 선택된 노드 아래에 표시되는 텍스트를 입력합니다.
 
 
 
 
 ----------
 
-Node Definition
+개별 화면 정의 Node Definition
 -------------------------------
 
 .. image:: resource/scenario/ic_SB_screen.png
 
-Displays **Node Definition** about selected page. You can add or change content in screen description or exception area. Double-clicking thumbnails on canvas also displays **Node Definition**.
+각 페이지의 **개별 화면 정의 Node Definition** 화면을 보여줍니다. 화면 정의 Screen description과 기타사항 Exception area에 내용을 추가하고 편집할 수 있습니다. **워크플로우**화면에서 섬네일을 더블클릭 해도 **개별 화면 정의 Node Definition** 로 넘어갑니다.
 
-* ``Memo img area`` : Select img from resource panel to replace numburing on screenshot area.
-* ``Add Memo Button`` : Create new editable row field in table.
-* ``Delete Button`` : Delete selected momo in table.
+* ``메모 이미지 추가 영역`` : 리소스 패널에서 메모 넘버링을 대체할 이미지를 선택합니다.
+* ``Add Memo Button`` : 메모 테이블에 새 메모를 추가합니다.
+* ``Delete Button`` : 메모 테이블에서 선택된 메모를 지웁니다.
 
-By clicking screenshot area selected memo's number will apeaar.
+스크린샷 영역을 클릭하면 클릭한 지점에 메모를 표시할 수 있습니다.
