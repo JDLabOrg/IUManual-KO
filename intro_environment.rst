@@ -2,7 +2,7 @@
 구동환경 Environment
 =================
 
-.. image:: resource/os_x_yosemite.jpg
+.. image:: resource/os_x_el_capitan.jpg
 
 
 
