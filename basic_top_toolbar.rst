@@ -38,16 +38,14 @@
 탭 메뉴 Tab Menu
 -------------
 
-상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 **텍스트 / 속성 / 스타일 / 트랜스폼 / 마우스-오버 / 백엔드** 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다. 
+상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 **스타일 / 속성 / 텍스트 / 트랜스폼 / 마우스-오버 / 링크** 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다. 
 
 
 ----------
 
+.. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-.. image:: resource/iu_manual_top_toolbar_tab01_text.png
-
-* ``텍스트 탭 Text Tab`` : **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
-
+* ``스타일 탭 Style Tab`` : 선택한 위젯의 **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
 
 ----------
 
@@ -57,10 +55,9 @@
 
 ----------
 
+.. image:: resource/iu_manual_top_toolbar_tab01_text.png
 
-.. image:: resource/iu_manual_top_toolbar_tab03_style.png
-
-* ``스타일 탭 Style Tab`` : 선택한 위젯의 **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
+* ``텍스트 탭 Text Tab`` : **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
 
 ----------
 
@@ -78,7 +75,7 @@
 
 .. image:: resource/iu_manual_top_toolbar_tab06_backend.png
 
-* ``백엔드 탭 Back-End Tab`` : 선택한 위젯에 **변수 Variables** 를 설정할 수 있습니다. (장고 Django 프로젝트일 때만 가능합니다.) 
+* ``링크 탭 Link Tab`` : 선택한 위젯에 ** 링크 Hyperlink** 를 설정할 수 있습니다. 
 
 
 
