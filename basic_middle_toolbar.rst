@@ -12,10 +12,18 @@
 
 .. image:: resource/iu_manual_middle_toolbar.png
 
-중앙 툴바는 캔버스 바로 상단에 위치하며, `포지션`_ / `프레임`_ / `정렬`_ / `배경컬러`_ / `위젯 보기 버튼`_ 영역으로 구분됩니다.
+중앙 툴바는 캔버스 바로 상단에 위치하며, `페이지 캡쳐`_ / `포지션`_ / `프레임`_ / `배경컬러`_ / `위젯 보기 버튼`_ 영역으로 구분됩니다.
 
 ----------
 
+
+페이지 캡쳐 Page Capture 
+-------------
+
+현재 페이지를 캡쳐하여 **프로토타입 모드 Prototype Mode** 의 커스텀 섬네일에 추가합니다.
+
+
+----------
 
 
 포지션 Position
@@ -24,9 +32,14 @@
 선택된 요소의 포지션을 설정합니다. (단위를 % 로 바꿀 경우, x/y 값은 드래그로 변경되지 않으며 w/h 값 역시 드래그로 변경되지 않습니다.)
 
 
+* ``포지션 Position`` : 위젯의 포지션을 **Absolute, Relative, Fixed** 중 한 가지로 설정합니다.
+* ``서브 포지션 Sub Position`` : 위젯의 포지션 기준을 무엇으로 할 지 서브 포지션을 설정합니다. 
+* ``정렬 버튼 Align Button`` : 위젯을 가운데로 맞춥니다. 여러위젯을 선택하여 정렬할 수 있습니다.
+* ``포지션 속성 설정 팝업 Position setting popup`` : 요소의 포지션 가운데 고정 Fixed Center Position, 오버플로우 Overflow, z-index 속성을 변경할 수 있습니다.
+
 * ``x 좌표 입력필드 & 스텝퍼 X position input field & Stepper`` : 요소의 x 좌표를 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
 * ``y 좌표 입력필드 & 스텝퍼 Y position input field & Stepper`` : 요소의 y 좌표를 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
-* ``포지션 속성 설정 팝업 Position setting popup`` : 요소의 포지션 Position, 오버플로우 Overflow, z-index 속성을 변경할 수 있습니다.
+
 
 
 ----------
@@ -42,15 +55,6 @@
 * ``Height 값 입력필드 & 스텝퍼 Height value input field & Stepper`` : 요소의 height 값을 직접 입력하거나, 스텝퍼를 이용하여 1px 씩 조절합니다. px 또는 % 로 단위를 변경할 수 있습니다.
 * ``최소/최대 크기 설정 팝업 Min/Max-width & Min/Max-height setting popup`` : 요소의 최소/최대 높이 또는 너비를 설정할 수 있습니다.
 
-
-
-----------
-
-
-정렬 Align
----------
-
-선택된 요소를 가운데로 고정 시킬수 있습니다. 포지션 옵션이 Relative인 요소는 가로 정렬만 가능합니다. 
 
 
 ----------
