@@ -44,7 +44,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # The encoding of source files.
-source_encoding = 'euc-kr'
+#source_encoding = 'euc-kr'
 
 # The master toctree document.
 master_doc = 'index'
