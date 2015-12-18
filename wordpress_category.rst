@@ -3,7 +3,7 @@
 
 워드프레스의 post, page와 같은 하나의 아티클을 표현합니다. 구성요소로 제목, 본문, 썸네일, 날짜, 저자 등을 포함할 수 있습니다.
 
-아티클 위젯 Article Widget
+기본 사용 Basic Usage
 ----------------
 
 (캡처: Article widget in widget bar)
@@ -12,7 +12,7 @@
 
 ------------
 
-아티클 제목 Article Title
+카테고리 레이블 Category Label
 ------------
 
 (캡처: Article title widget in widget bar)
@@ -24,7 +24,7 @@
 
 ------------
 
-아티클 본문 Article Body
+카테고리 리스트 Category List
 ------------
 
 (캡처: article body widget in widget bar)
@@ -39,7 +39,7 @@
 
 ------------
 
-아티클 요소 Article Element
+카테고리 경로 Category Path
 ------------
 
 (캡처: article element widget in widget bar)
