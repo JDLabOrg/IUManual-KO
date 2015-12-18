@@ -1,4 +1,11 @@
-.. _시나리오 모드 Scenario Mode : ./advanced_scenario_mode.html
+.. _환경설정 Preference: ./preference.html
+.. _프로젝트 셋팅 Project Setting: ./project_setting.html
+.. _서버 업로드 Upload to Server: ./advanced_server.html
+.. _헤로쿠 관리 패널 Heroku Management: ./advanced_heroku.html
+.. _이벤트 패널 Event Panel: ./panel_event.html
+.. _리소스 패널 Resource Panel: ./panel_resource.html
+.. _메모 패널 Memo Panel: ./panel_memo.html
+.. _커스텀 위젯 관리 패널 Manage Custom Widgets Panel: ./panel_management_widget.html
 
 
 메뉴 Menu
@@ -18,7 +25,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 
 * ``About IUEditor`` : 사용자 IUEditor의 버젼 정보를 보여줍니다.
 * ``License`` : 사용자 IUEditor의 라이센스 정보를 보여줍니다. 라이센스 키를 입력하거나 라이센스 페이지를 방문할 수 있습니다.
-* ``Preference`` : 사용자 IUEditor의 환경설정 창을 엽니다. (링크)
+* ``Preference`` : 사용자 IUEditor의 ``환경설정 Preference``_ 창을 엽니다. 
 
 ----------
 
@@ -49,9 +56,9 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 
 * ``Build`` : 프로젝트를 브라우저로 빌드합니다. 상단툴바의 빌드실행버튼과 동일한 기능입니다.
 * ``Build Clean`` : 빌드 데이터를 지웁니다. 빌드에 오류가 있을 때 문제를 해결할 수 있습니다.
-* ``Project Setting`` : 프로젝트 셋팅 패널을 띄웁니다. (링크)
-* ``Upload to Server`` : 서버 업로드 패널을 띄웁니다. (링크)
-* ``Upload to Heroku`` : 헤로쿠 관리 패널을 띄웁니다. (링크)
+* ``Project Setting`` : ``프로젝트 셋팅 Project Setting``_ 패널을 띄웁니다. 
+* ``Upload to Server`` : ``서버 업로드 Upload to Server``_ 패널을 띄웁니다. 
+* ``Upload to Heroku`` : ``헤로쿠 관리 Heroku Management``_ 패널을 띄웁니다. 
 * ``Reresh Page`` : 페이지를 새로고침 합니다. 캔버스에 오류가 있을 때 문제를 해결할 수 있습니다.
 
 ----------
@@ -80,10 +87,10 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 .. image:: resource/iu_manual_basic_menu_window.png
 
 
-* ``Event`` : 이벤트 패널을 보여줍니다. (링크)
-* ``Resource`` : 리소스 패널을 보여줍니다. (링크)
-* ``Memo`` : 메모 패널을 보여줍니다. (링크)
-* ``Manage Custom Widgets`` : 커스텀 위젯 관리 패널을 보여줍니다. (링크)
+* ``Event`` : ``이벤트 패널 Event Panel``_ 을 보여줍니다. 
+* ``Resource`` : ``리소스 패널 Resource Panel``_ 을 보여줍니다.
+* ``Memo`` : ``메모 패널 Memo Panel``_ 을 보여줍니다.
+* ``Manage Custom Widgets`` : ``커스텀 위젯 관리 패널 Manage Custom Widgets Panel``_ 을 보여줍니다.
 
 ----------
 
