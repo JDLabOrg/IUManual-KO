@@ -44,15 +44,17 @@ IUEditor Manual
    :caption: 고급 기능 Advanced Feature
    
    advanced_developer_mode
-   advanced_scenario_mode
    advanced_prototype_mode
+   advanced_scenario_mode
    advanced_heroku
+   advanced_server
    
    
 .. toctree::
    :maxdepth: 2
    :caption: 패널 Panel
       
+   project_setting
    panel_resource
    panel_event
    panel_memo
@@ -61,10 +63,9 @@ IUEditor Manual
    
 .. toctree::
    :maxdepth: 2
-   :caption: 프로젝트 Project
+   :caption: 프로젝트 타입 Project Type
    
    project_type
-   project_setting
 
 
 .. toctree::
@@ -97,7 +98,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 환경설정 Preference
    
-   Preference
+   preference
    
 
 .. toctree::
