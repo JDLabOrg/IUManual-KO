@@ -21,6 +21,19 @@
 ----------
 
 
+위젯 추가 Add Widget
+---------------------
+
+* ``IUBox (⌘1)`` : 캔버스에 추가하기 위해 IUBox위젯을 선택합니다.
+* ``IUText (⌘2)`` : 캔버스에 추가하기 위해 IUText위젯을 선택합니다.
+* ``IUImage (⌘3)`` : 캔버스에 추가하기 위해 IUImage위젯을 선택합니다.
+* ``IUStatic Image (⌘4)`` : 캔버스에 추가하기 위해 IUStatic Image위젯을 선택합니다.
+* ``IUCell (⌘5)`` : 캔버스에 추가하기 위해 IUCell위젯을 선택합니다.
+
+
+----------
+
+
 위젯 사용 Widget Control
 ---------------------
 
@@ -39,13 +52,24 @@
 
 * ``Zoom In (⌘+)`` : 스페이지를 확대합니다.
 * ``Zoom Out (⌘-)`` : 스테이지를 축소합니다.
+* ``Widget Panel (⌘↵)`` : 위젯 패널을 보여주고 감춥니다.
 * ``Event Panel (⇧⌘E)`` : 이벤트 패널을 보여줍니다.
 * ``Resource Panel (⇧⌘R)`` : 리소스 패널을 보여줍니다.
 * ``Memo (⇧⌘M)`` : 메모 패널을 보여줍니다.
-* ``Custom Code (⇧⌘C)`` : 커스텀 코드 패널을 보여줍니다.
 
 
 ----------
+
+
+모드 변경 Mode Switch
+----------------------------
+
+* ``에디터 모드 Editor Mode (⌘[)`` : 에디터 모드 Editor Mode로 전환합니다.
+* ``개발자 모드 Developer Mode (⌘])`` : 개발자 모드 Developer Mode로 전환합니다.
+* ``프로토타입 모드 Prototype Mode (⌘\)`` : 프로토타입 모드 Prototype Mode로 전환합니다.
+
+----------
+
 
 
 캔버스 뷰 관리 Canvas View Management
