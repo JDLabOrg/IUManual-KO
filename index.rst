@@ -97,7 +97,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 환경설정 Preference
    
-   Preference
+   preference
    
 
 .. toctree::
