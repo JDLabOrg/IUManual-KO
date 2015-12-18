@@ -43,6 +43,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 고급 기능 Advanced Feature
    
+   advanced_developer_mode
    advanced_scenario_mode
    advanced_prototype_mode
    advanced_heroku
