@@ -11,7 +11,7 @@
 상단 툴바에서 ``Mode Switch Button`` 을 눌러 **Prototype Mode** 로 전환할 수 있습니다.
 
 여러명이 하나의 프로젝트를 같이 작업할 때, 프로토타입 모드에서 프로젝트와 관련된 히스토리와 워크플로우, 메모 등을 공유하고 관리할 수 있습니다.
-프로토타입 모드는 `히스토리 Revision History`_ / `워크플로우 Project Workflow`_ / `화면 정의 Node Definition`_ 세가지 페이지를 제공합니다. ``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Senario`` 버튼은 프로토타입 문서를 **HTML Prototpye** 으로 빌드합니다. ``Refresh Thumbnail`` 버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
+프로토타입 모드는 `히스토리 Revision History`_ / `워크플로우 Project Workflow`_ / `화면 정의 Node Description`_ 세가지 페이지를 제공합니다. ``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Senario`` 버튼은 프로토타입 문서를 **HTML Prototpye** 으로 빌드합니다. ``Refresh Thumbnail`` 버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
 
 
 ----------
