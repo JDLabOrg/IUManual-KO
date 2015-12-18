@@ -30,7 +30,6 @@
 
 .. image:: resource/wordpress/iu_manual_wordpress_article_body_full.png
 .. image:: resource/wordpress/iu_manual_wordpress_article_body_excerpt.png
-(캡처: article body (excerpt) in index.php | article body (full) in single.php)
 
 * 해당 아티클의 본문이 출력됩니다.
 * 아티클 위젯 하위에 삽입되어야 동작합니다.
