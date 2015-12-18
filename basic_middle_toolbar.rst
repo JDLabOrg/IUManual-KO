@@ -1,4 +1,5 @@
 .. _Go To Widget Panel: ./basic_widget_panel.html
+.. _페이지 캡쳐 : #Page Capture
 .. _포지션 : #position
 .. _프레임 : #frame
 .. _정렬 : #align
