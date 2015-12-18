@@ -53,12 +53,12 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 패널 Panel
       
+   project_setting
    panel_resource
    panel_event
    panel_memo
    panel_management_widget
    panel_export_widget
-   project_setting
    
 .. toctree::
    :maxdepth: 2
