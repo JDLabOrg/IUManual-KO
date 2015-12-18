@@ -4,6 +4,8 @@
 메뉴 Menu
 ==========================
 
+.. image:: resource/iu_manual_basic_menu.png
+
 IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 ----------
 
@@ -45,7 +47,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 .. image:: resource/iu_manual_basic_menu_project.png
 
 
-* ``Build`` : 프로젝트를 브라우저로 빌드합니다.
+* ``Build`` : 프로젝트를 브라우저로 빌드합니다. 상단툴바의 빌드실행버튼과 동일한 기능입니다.
 * ``Build Clean`` : 빌드 데이터를 지웁니다. 빌드에 오류가 있을 때 문제를 해결할 수 있습니다.
 * ``Project Setting`` : 프로젝트 셋팅 패널을 띄웁니다. (링크)
 * ``Upload to Server`` : 서버 업로드 패널을 띄웁니다. (링크)
@@ -68,7 +70,6 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 * ``Ruler`` : 스테이지에 룰러 요소를 보여줍니다.
 * ``Guide`` : 설정해 놓은 가이드라인을 보여줍니다.
 * ``Tracing`` : 이미지 트레이싱 기능을 on/off 합니다.
-* ``Enter Full Screen`` : IUEditor작업영역을 전체화면으로 바꿉니다.
 
 ----------
 
