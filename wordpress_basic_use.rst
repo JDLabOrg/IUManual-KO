@@ -22,6 +22,8 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 -------------
 * Index
 * Single
+* Archive
+* Category
 * 404
 
 참고(note?): https://yoast.com/wordpress-theme-anatomy/

@@ -56,7 +56,6 @@ IUEditor Manual
    panel_resource
    panel_event
    panel_memo
-   panel_custom_code
    panel_management_widget
    panel_export_widget
    
