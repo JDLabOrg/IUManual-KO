@@ -51,7 +51,7 @@ Angular JS프로젝트 Angular JS Project
 사용가능한 메뉴는 디폴트 프로젝트와 동일합니다.
 
 
-.. image:: resource/iu_manual_project_new_anvularjs.png
+.. image:: resource/iu_manual_project_new_angularjs.png
 
 -------------
 
