@@ -32,6 +32,7 @@ IUEditor Manual
    :maxdepth: 2
    :caption: 기본 기능 Basic Feature
    
+   basic_menu
    basic_top_toolbar
    basic_middle_toolbar
    basic_widget_panel
