@@ -25,7 +25,7 @@ IUEditor의 사용환경을 설정합니다.
 
 * ``세이브 옵션 Project Save Option`` : Minimize Data 체크시 프로젝트의 json파일을 압축합니다. 
 * ``컴파일 옵션 Compile Option`` : 
-``Export HTML ID Option`` : HTML ID를 모든 위젯에 기본으로 생성되도록 할 것인지, 선택된 위젯만 HTML ID를 만들 것인지 선택합니다.
+* - ``Export HTML ID Option`` : HTML ID를 모든 위젯에 기본으로 생성되도록 할 것인지, 선택된 위젯만 HTML ID를 만들 것인지 선택합니다.
      ``Name on Structure`` : 
 * ``Resource Copy Option`` : 
 * ``Widget Option`` :
