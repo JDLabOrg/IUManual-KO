@@ -8,7 +8,7 @@
 =======================
 
 
-.. image:: resource/iu_manual_advanced_developer_mode.png
+.. image:: resource/iu_manual_developer_mode.png
 
 상단 툴바에서 ``모드 변경 버튼`` 을 클릭하면 개발자 모드로 전환할 수 있습니다. 
  
