@@ -58,13 +58,13 @@ IUEditor Manual
    panel_memo
    panel_management_widget
    panel_export_widget
+   project_setting
    
 .. toctree::
    :maxdepth: 2
-   :caption: 프로젝트 Project
+   :caption: 프로젝트 타입 Project Type
    
    project_type
-   project_setting
 
 
 .. toctree::
