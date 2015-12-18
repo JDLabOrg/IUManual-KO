@@ -82,6 +82,7 @@ IUEditor Manual
    widget_basic
    widget_complex
    widget_programming
+   widget_wordpress
    
  
   
@@ -94,9 +95,9 @@ IUEditor Manual
    
 .. toctree::
    :maxdepth: 2
-   :caption: 튜토리얼 Tutorials
+   :caption: 환경설정 Preference
    
-   tutorial
+   Preference
    
 
 .. toctree::
@@ -106,4 +107,5 @@ IUEditor Manual
    appendix_templates
    appendix_shortcut
    appendix_dict
+   tutorial
    
