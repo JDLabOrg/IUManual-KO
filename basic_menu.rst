@@ -1,7 +1,7 @@
 .. _환경설정 Preference: ./preference.html
 .. _프로젝트 셋팅 Project Setting: ./project_setting.html
 .. _서버 업로드 Upload to Server: ./advanced_server.html
-.. _헤로쿠 관리 패널 Heroku Management: ./advanced_heroku.html
+.. _헤로쿠 관리 Heroku Management: ./advanced_heroku.html
 .. _이벤트 패널 Event Panel: ./panel_event.html
 .. _리소스 패널 Resource Panel: ./panel_resource.html
 .. _메모 패널 Memo Panel: ./panel_memo.html
