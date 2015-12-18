@@ -3,7 +3,7 @@
 
 워드프레스의 post, page와 같은 하나의 아티클을 표현합니다. 구성요소로 제목, 본문, 썸네일, 날짜, 저자 등을 포함할 수 있습니다.
 
-기본 사용 Basic Usage
+카테고리 위젯 Category Widget
 ----------------
 
 (캡처: Article widget in widget bar)
