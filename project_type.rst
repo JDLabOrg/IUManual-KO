@@ -41,6 +41,21 @@
 
 .. image:: resource/iu_manual_project_new_django.png
 
+-------------
+
+Angular JS프로젝트 Angular JS Project
+-----------------------
+
+백엔드가 연결되는 프로젝트 타입입니다. **파일 > 새 프로젝트** 를 실행하여 새 프로젝트 창을 열어 선택할 수 있습니다.
+
+사용가능한 메뉴는 디폴트 프로젝트와 동일합니다.
 
 
+.. image:: resource/iu_manual_project_new_anvularjs.png
 
+-------------
+
+워드프레스 프로젝트 Wordpress Project
+-----------------------
+
+워드프레스 연결되는 프로젝트 타입입니다. 개발중인 프로젝트 타입입니다.
