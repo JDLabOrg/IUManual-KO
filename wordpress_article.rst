@@ -6,7 +6,7 @@
 아티클 위젯 Article Widget
 ----------------
 
-(캡처: Article widget in widget bar)
+.. image:: resource/wordpress/iu_manual_wordpress_article.png
 
 * 아티클 구성요소들을 포함 
 * 삽입된 하나의 아티클 위젯은 사이트 적용시 페이지 문맥에 따라 단독으로(single.php), 혹은 반복되어 리스트(index.php,  archive.php 등)로 출력됩니다.
