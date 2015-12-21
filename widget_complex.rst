@@ -136,7 +136,6 @@ Youtube : http://youtu.be/영상주소
 
 
 
-
 .. image:: resource/widget/IUSimpleTabView.png
 
 심플 탭  Simple Tab View
@@ -145,30 +144,6 @@ Youtube : http://youtu.be/영상주소
 .. image:: resource/iu_manual_prop_complex_IUSimpleTabView.png
 
 탭 뷰 위젯입니다. 탭 뷰 위젯보다 구조가 단순합니다.
-탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다. 
-
-
-
-**속성**
-
-* 하위요소 : -
-* 링크 : -
-* 스크롤 애니메이터 : -
-* 배경이미지 : -
-* 백엔드 엘립시스 : -
-
-----------
-
-
-
-.. image:: resource/widget/IUTabView.png
-
-탭 뷰 Tab View
-----------
-
-.. image:: resource/iu_manual_prop_complex_IUTabView.png
-
-탭 뷰 위젯입니다.
 탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다. 
 
 
