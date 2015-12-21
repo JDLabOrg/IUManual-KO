@@ -21,7 +21,7 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 
 페이지 구성 ?? of Pages
 -------------
-.. image:: resource/wordpress_page.png
+.. image:: resource/iu_manual_wordpress_page.png
 * Index
 * Single
 * Archive
