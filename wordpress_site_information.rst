@@ -15,7 +15,7 @@
 ------------
 
 
-.. image:: resource/widget/SiteDescription.png
+.. image:: resource/widget/WPSiteDescription.png
 사이트 부제 Site description
 ------------
 
