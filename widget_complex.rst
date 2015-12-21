@@ -112,15 +112,15 @@ Youtube : http://youtu.be/영상주소
 
 
 
-.. image:: resource/widget/IUMovie.png
+.. image:: resource/widget/IUTable.png
 
-비디오클립 Video Clip
+테이블 Table
 ----------
 
-.. image:: resource/iu_manual_prop_complex_IUMovie.png
+.. image:: resource/iu_manual_prop_complex_IUTable.png
 
-비디오클립 위젯입니다.
-라이브러리에 추가 된 영상을 불러올수 있습니다. (.mp4 지원) 
+테이블 위젯입니다.
+캔버스에 간단한 표를 그릴 수 있습니다.
 
 
 
@@ -130,10 +130,33 @@ Youtube : http://youtu.be/영상주소
 * 링크 : 가능
 * 스크롤 애니메이터 : 가능
 * 배경이미지 : 가능
-* 백엔드 엘립시스 : 불가능
+* 백엔드 엘립시스 : 가능
 
 ----------
 
+
+
+.. image:: resource/widget/IUSimpleTabView.png
+
+심플 탭  Simple Tab View
+----------
+
+.. image:: resource/iu_manual_prop_complex_IUSimpleTabView.png
+
+탭 뷰 위젯입니다. 탭 뷰 위젯보다 구조가 단순합니다.
+탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다. 
+
+
+
+**속성**
+
+* 하위요소 : -
+* 링크 : -
+* 스크롤 애니메이터 : -
+* 배경이미지 : -
+* 백엔드 엘립시스 : -
+
+----------
 
 
 
