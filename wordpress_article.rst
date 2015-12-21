@@ -5,7 +5,6 @@
 
 
 .. image:: resource/widget/WPArticle.png
-
 아티클 위젯 Article Widget
 ----------------
 
@@ -19,7 +18,6 @@
 
 
 .. image:: resource/widget/WPArticleTitle.png
-
 아티클 제목 Article Title
 ------------
 
@@ -33,7 +31,6 @@
 
 
 .. image:: resource/widget/WPArticleBody.png
-
 아티클 본문 Article Body
 ------------
 
@@ -51,7 +48,6 @@
 
 
 .. image:: resource/widget/WPArticleElement.png
-
 아티클 요소 Article Element
 ------------
 
