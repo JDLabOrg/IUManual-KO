@@ -58,7 +58,7 @@
 이미지 Image
 ----------
 
-.. image:: resource/iu_manual_prop_basic_IUImage.png
+.. image:: resource/iu_manual_prop_basic_IUFloatingImage.png
 
 이미지 위젯입니다.
 라이브러리에 추가한 이미지를 선택하거나, 이미지 URL을 직접 입력해 불러올수 있습니다.
@@ -85,7 +85,7 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 
 .. image:: resource/iu_manual_prop_basic_IUImage.png
 
-이미지 위젯입니다.
+스태틱 이미지 위젯입니다.
 라이브러리에 추가한 이미지를 선택하거나, 이미지 URL을 직접 입력해 불러올수 있습니다.
 Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈에 맞춰 위젯 사이즈가 자동으로 변경됩니다.
 
