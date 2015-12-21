@@ -3,6 +3,8 @@
 
 워드프레스의 post, page와 같은 하나의 아티클을 표현합니다. 구성요소로 제목, 본문, 썸네일, 날짜, 저자 등을 포함할 수 있습니다.
 
+
+.. image:: resource/widget/WPPageLink.png
 페이지 링크 Page Link
 ----------------
 
@@ -12,6 +14,8 @@
 
 ------------
 
+
+.. image:: resource/widget/WPTab.png
 태그 블록 Tag Block
 ------------
 
