@@ -53,9 +53,34 @@
 
 
 
-.. image:: resource/widget/IUImage.png
+.. image:: resource/widget/IUFloatingImage.png
 
 이미지 Image
+----------
+
+.. image:: resource/iu_manual_prop_basic_IUImage.png
+
+이미지 위젯입니다.
+라이브러리에 추가한 이미지를 선택하거나, 이미지 URL을 직접 입력해 불러올수 있습니다.
+Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈에 맞춰 위젯 사이즈가 자동으로 변경됩니다.
+위젯영역 내에서 이미지의 사이즈와 정렬상태을 변경할 수 있습니다. 
+
+
+**속성**
+
+* 하위요소 : 불가능
+* 링크 : 가능
+* 스크롤 애니메이터 : 가능
+* 배경이미지 : 불가능
+* 백엔드 엘립시스 : 불가능
+
+----------
+
+
+
+.. image:: resource/widget/IUImage.png
+
+스태틱 이미지 Static Image
 ----------
 
 .. image:: resource/iu_manual_prop_basic_IUImage.png
@@ -71,10 +96,9 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 * 링크 : 가능
 * 스크롤 애니메이터 : 가능
 * 배경이미지 : 가능
-* 백엔드 엘립시스 : 불가능
+* 백엔드 엘립시스 : 가능
 
 ----------
-
 
 
 
