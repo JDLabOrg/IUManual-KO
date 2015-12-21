@@ -2,6 +2,7 @@
 ==========
 
 
+.. image:: resource/widget/WPSiteTitle.png
 사이트 제목 Site Title
 ----------------
 
@@ -13,6 +14,8 @@
 
 ------------
 
+
+.. image:: resource/widget/SiteDescription.png
 사이트 부제 Site description
 ------------
 
