@@ -17,7 +17,7 @@
 ------------
 
 
-.. image:: resource/widget/WPArticleTitle.png
+.. image:: resource/widget/WPArticleSubject.png
 아티클 제목 Article Title
 ------------
 
