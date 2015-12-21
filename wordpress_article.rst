@@ -3,6 +3,9 @@
 
 워드프레스의 post, page와 같은 하나의 아티클을 표현합니다. 구성요소로 제목, 본문, 썸네일, 날짜, 저자 등을 포함할 수 있습니다.
 
+
+.. image:: resource/widget/WPArticle.png
+
 아티클 위젯 Article Widget
 ----------------
 
@@ -14,6 +17,9 @@
 
 ------------
 
+
+.. image:: resource/widget/WPArticleTitle.png
+
 아티클 제목 Article Title
 ------------
 
@@ -24,6 +30,9 @@
 * Property 탭에서 Link 여부를 선택할 수 있습니다.
 
 ------------
+
+
+.. image:: resource/widget/WPArticleBody.png
 
 아티클 본문 Article Body
 ------------
@@ -39,6 +48,9 @@
 
 
 ------------
+
+
+.. image:: resource/widget/WPArticleElement.png
 
 아티클 요소 Article Element
 ------------
