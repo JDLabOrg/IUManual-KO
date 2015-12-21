@@ -137,7 +137,7 @@ Youtube : http://youtu.be/영상주소
 
 
 
-.. image:: resource/widget/IUTabView.png
+.. image:: resource/widget/IUSimpleTabView.png
 
 심플 탭  Simple Tab View
 ----------
