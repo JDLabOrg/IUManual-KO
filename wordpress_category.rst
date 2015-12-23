@@ -17,9 +17,9 @@
 ------------
 
 (캡처: Label type selection in property tab)
-(캡처: Category label in pubished wordpress)
+(캡처: Category label in published wordpress)
 
-* 특정 아티클(post/page)이 소속된 카테고리가 출력됩니다.
+* 특정 아티클(post/page)이 소속된 카테고리가 한 번 출력됩니다.
 * 아티클 위젯 하위에 삽입되어야 정상 동작합니다.
 
 ------------
@@ -29,11 +29,8 @@
 (캡처: List type selection in property tab)
 (캡처: Category list in pubished wordpress - iu_wp_tech)
 
-* 현 페이지에 포함된 카테고리 리스트를 출력합니다.
-* 반드시 아티클 위젯 하위에 삽입되어야 동작합니다.
-* Property 탭의 Type에서 본문의 전체(full)/일부(excerpt) 출력여부를 선택할 수 있습니다.
-  * 일부(excerpt)만 출력하도록 선택한 경우, 출력 길이를 단어수 단위로 정할 수 있습니다. (기본값: 55)
-* Property 탭에서 Link 여부를 선택할 수 있습니다.
+* 현 페이지에 포함된 상위 카테고리 리스트를 출력합니다.
+* 프로퍼티 탭의 Sample Repeat 설정에 따라 에디터에 반복되어 출력됩니다.
 
 
 ------------
