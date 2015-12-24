@@ -8,6 +8,8 @@
 
 (캡처: Category widget in widget bar)
 
+.. image:: resource/wordpress/iu_manual_wordpress_category_widget.png
+
 * 카테고리를 출력하기 위해 사용되는 위젯입니다.
 * 세가지 타입(레이블, 리스트, 경로) 중 선택할 수 있으며, 출력형태가 달라집니다.
 
@@ -16,8 +18,8 @@
 카테고리 레이블 Category Label
 ------------
 
-(캡처: Label type selection in property tab)
-(캡처: Category label in published wordpress)
+.. image:: resource/wordpress/iu_manual_wordpress_category_label_property.png
+.. image:: resource/wordpress/iu_manual_wordpress_category_label.png
 
 * 특정 아티클(post/page)이 소속된 카테고리가 한 번 출력됩니다.
 * 아티클 위젯 하위에 삽입되어야 정상 동작합니다.
@@ -26,8 +28,9 @@
 
 카테고리 리스트 Category List
 ------------
-(캡처: List type selection in property tab)
-(캡처: Category list in pubished wordpress - iu_wp_tech)
+
+.. image:: resource/wordpress/iu_manual_wordpress_category_list_property.png
+.. image:: resource/wordpress/iu_manual_wordpress_category_list.png
 
 * 현 페이지에 포함된 상위 카테고리 리스트를 출력합니다.
 * 프로퍼티 탭의 Sample Repeat 설정에 따라 에디터에 반복되어 출력됩니다.
@@ -38,9 +41,7 @@
 카테고리 경로 Category Path
 ------------
 
-(캡처: article element widget in widget bar)
-(캡처: article element (thumbnail) in index.php | article element (author) in single.php | article element (date) in single.php)
+.. image:: resource/wordpress/iu_manual_wordpress_category_path_property.png
+.. image:: resource/wordpress/iu_manual_wordpress_category_path.png
 
-* 해당 아티클의 선택된 구성요소(썸네일/저자/기록날짜)가 출력됩니다.
-* 반드시 아티클 위젯 하위에 삽입되어야 동작합니다.
-* Property 탭에서 Link 여부를 선택할 수 있습니다.
+* 현재 아티클이 포함된 카테고리의 경로를 나타냅니다.
