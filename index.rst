@@ -67,6 +67,12 @@ IUEditor Manual
    :caption: 프로젝트 타입 Project Type
    
    project_type
+   wordpress_basic_use
+   wordpress_site_information
+   wordpress_article
+   wordpress_category
+   wordpress_comment
+   wordpress_etc
 
 
 .. toctree::
