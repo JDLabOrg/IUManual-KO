@@ -6,8 +6,6 @@
 카테고리 위젯 Category Widget
 ----------------
 
-(캡처: Category widget in widget bar)
-
 .. image:: resource/wordpress/iu_manual_wordpress_category_widget.png
 
 * 카테고리를 출력하기 위해 사용되는 위젯입니다.
