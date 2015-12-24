@@ -43,9 +43,9 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 설정 Setting
 --------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_basic_use_buildpath.png
+.. image:: resource/wordpress/iu_manual_wordpress_basic_use_buildsetting.png
 
-**프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 **⇧⌘P** 키를 입력해 프로젝트 셋팅 패널을 열고, `워드프레스 Wordpress`_ 탭을 선택해 워드프레스 관련 설정을 변경할 수 있습니다.
+**프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 **⇧⌘P** 키를 입력해 프로젝트 셋팅 패널을 열고, 워드프레스 Wordpress 탭을 선택해 워드프레스 관련 설정을 변경할 수 있습니다.
 
 * Wordpress theme Build Path: 생성된 테마 파일들을 출력할 경로입니다. 경로끝에 $AppName을 입력해 프로젝트명으로 최종 경로를 만들 수 있습니다.
 * Wordpress Resource Path: 이미지, CSS 등 테마 파일의 리소스가 저장될 로컬 경로입니다.
