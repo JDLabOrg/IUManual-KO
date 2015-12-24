@@ -15,7 +15,7 @@
 ------------
 
 
-.. image:: resource/widget/WPTab.png
+.. image:: resource/widget/WPTag.png
 태그 블록 Tag Block
 ------------
 
