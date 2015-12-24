@@ -13,7 +13,7 @@ IUEditor Manual
 * IUEditor Facebook Page (Korean): https://www.facebook.com/iueditor
 
 
-.. note:: 아이유에디터는 현재 개인용 그리고 비상업적 용도에 한하여 누구나 무료로 사용하실 수 있습니다. (2015년 9월 30일 까지)
+.. note:: 아이유에디터는 현재 개인용 그리고 비상업적 용도에 한하여 누구나 무료로 사용하실 수 있습니다. (최대 5페이지)
 
 
 
