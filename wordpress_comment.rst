@@ -20,7 +20,6 @@
 ------------
 
 .. image:: resource/wordpress/iu_manual_wordpress_comment_element.png
-.. image:: resource/wordpress/iu_manual_wordpress_comment_element_type.png
 
 * 코멘트 위젯 하위에 삽입되어야 합니다.
 * 프로퍼티탭의 타입 목록에서 코멘트 본문, 아바타, 작성자명, 날짜, 이메일, 주소 등으로 설정할 수 있습니다.
@@ -30,7 +29,7 @@
 코멘트 입력폼 Comment Input Form
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_comment_element_type.png
+.. image:: resource/wordpress/iu_manual_wordpress_comment_input_form.png
 
 * 코멘트 입력 폼과 구성요소들을 표시합니다.
 * 반드시 아티클 위젯 하위에 삽입되어야 동작합니다.
