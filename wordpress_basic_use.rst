@@ -12,8 +12,6 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 
 * New Project > Wordpress 에서 원하는 템플릿을 선택합니다.
 
-(교체)
-
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_widgetgroup.png
 
 * 우측하단 Wordpress 위젯들을 활용해 테마에 필요한 요소들을 삽입할 수 있습니다.
@@ -22,8 +20,6 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 
 페이지 구성 Anatomy of Pages
 -------------
-(교체)
-
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_theme_anatomy.png
 
 
