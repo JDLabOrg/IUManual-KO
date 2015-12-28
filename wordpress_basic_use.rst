@@ -1,7 +1,7 @@
 워드프레스: 기본 사용 Wordpress: Basic Usage
 ==========
 
-
+.. Note:: 워드프레스 동영상 튜토리얼 https://www.youtube.com/playlist?list=PLWlO_EZgRC0aLLZ-oe_yMqdEaV4KdM5-l/
 
 소개 Introduction
 -----------
