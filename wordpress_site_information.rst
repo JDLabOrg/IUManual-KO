@@ -1,4 +1,4 @@
-워드프레스: 사이트 정보 Wordpress: Site Information
+워드프레스: 사이트 정보 WordPress: Site Information
 ==========
 
 
