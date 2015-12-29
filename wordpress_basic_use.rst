@@ -36,7 +36,7 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 
 -------------
 
-설정 Setting
+설정 Settings
 --------------
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_buildsetting.png
