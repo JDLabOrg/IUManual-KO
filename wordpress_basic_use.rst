@@ -45,7 +45,7 @@ IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습�
 
 * ``Wordpress theme Build Path``: 생성된 테마 파일들을 출력할 경로입니다. 경로끝에 $AppName을 입력해 프로젝트명으로 최종 경로를 만들 수 있습니다.
 * ``Wordpress Resource Path``: 이미지, CSS 등 테마 파일의 리소스가 저장될 로컬 경로입니다.
-* ``Wordpress User Source Path``: 사용자가 추가로 삽입한 CSS, JSS 파일들이 저장될 로컬 경로입니다.
+* ``Wordpress User Source Path``: 사용자가 추가로 삽입한 CSS, JS 파일들이 저장될 로컬 경로입니다.
 * ``Wordpress Resource Prefix``: 웹 상에서 Resource Path에 접근하는 URL 경로입니다.
 * ``Wordpress User Source Prefix``: 웹 상에서 User Source Path에 접근하는 URL 경로입니다.
 
