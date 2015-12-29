@@ -1,4 +1,4 @@
-워드프레스: 카테고리 Wordpress: Category
+워드프레스: 카테고리 WordPress: Category
 ==========
 
 워드프레스의 특정 아티클 혹은 아티클 목록의 카테고리를 출력합니다.
