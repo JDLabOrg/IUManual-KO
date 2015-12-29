@@ -1,4 +1,4 @@
-워드프레스: 기타 Wordpress: Etc
+워드프레스: 기타 WordPress: Etc
 ==========
 
 .. image:: resource/widget/WPPageLink.png
