@@ -106,7 +106,7 @@ IUEditor Manual
    :caption: 환경설정 Preference
    
    preference
-   
+   preference_custom_template
 
 .. toctree::
    :maxdepth: 2
