@@ -17,7 +17,8 @@
 
 내부에서 템플릿 리스트 구조는 plist 파일을 통하여 이루어지며 구조는 아래와 같습니다.
 
-`plist 구조`_ 
+
+**plist 구조**
 
 .. image:: resource/iu_manual_preference_custom_plist.png
 
@@ -28,7 +29,8 @@
 * ``5. previewLink`` : preview 버튼을 누르면 연결되는 화면입니다. 이미지 파일 혹은 실제 페이지로 구성되어 있습니다. 
 
 
-`Project type`_
+
+**Project type**
 
 * ``0`` : default project
 * ``1`` : django project
