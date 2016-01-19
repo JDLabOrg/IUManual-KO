@@ -15,6 +15,8 @@ IUEditor의 사용환경을 설정합니다.
 
 * ``탭 메뉴 Select Tab Menu`` : 탭메뉴를 상단 툴바에서 보이도록 할 지 선택합니다.
 * ``가이드 라인 색 Guide Line Color`` : 가이드라인 색상을 변경합니다. (가이드라인 보기 : View > Guide ⌘;)
+* ``Custom Template List URL`` : 새 프로젝트 템플릿 목록에 커스텀 템플릿을 적용하기 위해 plist URL을 입력합니다.
+
 
 -------------
 
