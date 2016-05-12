@@ -125,7 +125,7 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 
 .. image:: resource/widget/IUIconButton.png
 
-셀 Cell
+아이콘 버튼 Icon Button
 ----------
 
 .. image:: resource/iu_manual_prop_basic_IUIconButton.png
