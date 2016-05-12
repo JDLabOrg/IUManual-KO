@@ -123,3 +123,25 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 ----------
 
 
+.. image:: resource/widget/IUIconButton.png
+
+아이콘 버튼 Icon Button
+----------
+
+.. image:: resource/iu_manual_prop_basic_IUIconButton.png
+
+셀 위젯에 이미지를 추가할 수 있는 아이콘 버튼 위젯입니다. 이미지와 텍스트가 자동으로 중앙정렬 되고, 이미지의 크기, 위치 좌우배치 등을 변경할 수 있습니다.
+
+
+**속성**
+
+* 하위요소 : 불가능
+* 링크 : 가능
+* 스크롤 애니메이터 : 가능
+* 배경이미지 : 가능
+* 백엔드 엘립시스 : 가능
+
+----------
+
+
+
