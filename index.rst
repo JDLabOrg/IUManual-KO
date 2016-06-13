@@ -1,4 +1,3 @@
-.. _한글 매뉴얼 PDF 다운받기: .http://iueditor.org/download/IUEditorManualKo.pdf
 
 ===============
 IUEditor Manual
@@ -7,7 +6,7 @@ IUEditor Manual
 .. image:: resource/iueditor-facebook-ad-img-A03.png
 
 환영합니다! **아이유에디터** 공식 메뉴얼입니다. 
-`한글 매뉴얼 PDF 다운받기`_
+* 한글 매뉴얼 PDF 다운받기 : http://iueditor.org/download/IUEditorManualKo.pdf
 
 프로그램은 아래 홈페이지에서 다운받아 주세요.
 
