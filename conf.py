@@ -113,15 +113,12 @@ html_theme_options = {
 
 # Add any paths that contain custom themes here, relative to this directory.
 
-html_theme_path = ["sphinx_rtd_theme"]
+# html_theme_path = ["sphinx_rtd_theme"]
 
-html_context = {
-	'css_files':[
-		'//media.readthedocs.org/css/sphinx_rtd_theme.css',
-		'//media.readthedocs.org/css/readthedocs-doc-embed.css',
-		'//tutorial.iueditor.org/manual/css/my_theme.css',
-	],
-}
+# html_context = {
+#	'css_files':[
+#	],
+#}
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
@@ -145,7 +142,7 @@ html_context = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['manual']
 
-html_style = 'css/my_theme.css' 
+# html_style = 'css/my_theme.css'
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
