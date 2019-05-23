@@ -115,10 +115,11 @@ html_theme_options = {
 
 # html_theme_path = ["sphinx_rtd_theme"]
 
-# html_context = {
-#	'css_files':[
-#	],
-#}
+html_context = {
+	'css_files':[
+		'//tutorial.iueditor.org/manual/css/my_theme.css',
+	],
+}
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
