@@ -15,10 +15,6 @@ IUEditor Manual
 * IUEditor Facebook Page (Korean): https://www.facebook.com/iueditor
 
 
-.. note:: 아이유에디터는 현재 개인용 그리고 비상업적 용도에 한하여 누구나 무료로 사용하실 수 있습니다. (최대 5페이지)
-
-
-
 ---------
 
 
@@ -48,7 +44,7 @@ IUEditor Manual
 
    advanced_developer_mode
    advanced_prototype_mode
-   
+
 
 .. toctree::
    :maxdepth: 2
