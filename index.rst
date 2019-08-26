@@ -48,9 +48,7 @@ IUEditor Manual
 
    advanced_developer_mode
    advanced_prototype_mode
-   advanced_heroku
-   advanced_server
-
+   
 
 .. toctree::
    :maxdepth: 2
