@@ -52,10 +52,3 @@ Angular JS프로젝트 Angular JS Project
 
 
 .. image:: resource/iu_manual_project_new_angularjs.png
-
--------------
-
-워드프레스 프로젝트 Wordpress Project
------------------------
-
-워드프레스 테마를 편집할 수 있는 프로젝트 타입입니다. 빌드타입을 Wordpress로 선택하면워드프레스 테마로 빌드됩니다.
