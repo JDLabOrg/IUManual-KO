@@ -1,12 +1,10 @@
 프로젝트 타입 Project Type
 ================================
 
-.. image:: resource/icon_IU_128x128.png
-
--------------
-
 디폴트 프로젝트 Default Project
 -------------------------------------
+
+.. image:: resource/icon_IU_128x128.png
 
 백엔드가 연결되지 않는 프로젝트 타입입니다. **파일 > 새 프로젝트** 를 실행하여 새 프로젝트 창을 열어 선택할 수 있습니다.
 
@@ -27,8 +25,6 @@
 .. note :: 빈 레이아웃 프로젝트를 선택 시, 새 프로젝트 창 하단에서 프로젝트의 기본 너비를 설정할 수 있습니다.
 
 
--------------
-
 .. _Django_Project:
 
 장고 프로젝트 Django Project
@@ -41,7 +37,6 @@
 
 .. image:: resource/iu_manual_project_new_django.png
 
--------------
 
 Angular JS프로젝트 Angular JS Project
 --------------------------------------------

@@ -3,14 +3,13 @@
 
 **프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 **⇧⌘P** 키를 실행하면 프로젝트 셋팅 패널이 보여집니다. :ref:`디폴트 Default<Default>` , :ref:`메타 Meta<Meta>`, :ref:`빌드 Build<Build>`, :ref:`장고 Django<Django>` 탭 메뉴를 눌러 각 항목의 내용을 추가하거나 수정할 수 있습니다.
 
-----------
-
-.. thumbnail:: resource_new/proj_setting_default.png
 
 .. _Default:
 
 디폴트 Default
 --------------------------
+
+.. thumbnail:: resource_new/proj_setting_default.png
 
 * ``Project Title`` : 브라우져에서 보여질 프로젝트의 타이틀을 입력합니다.
 * ``Favicon`` : 파비콘 이미지를 설정합니다. 리소스로 불러들여온 후에 사용이 가능합니다.
@@ -18,17 +17,12 @@
 
 .. note :: Project Default Width 는 프로젝트 생성 이후에는 변경이 불가능합니다.
 
-
--------------
-
-
-.. thumbnail:: resource_new/proj_setting_meta.png
-
 .. _Meta:
 
 메타 Meta
 ------------
 
+.. thumbnail:: resource_new/proj_setting_meta.png
 
 * ``Meta Image`` : 메타이미지를 설정합니다. 외부경로 (URL)만 입력 가능합니다.
 * ``Author`` : 메타데이타에 포함될 제작자의 이름을 입력합니다.
@@ -39,16 +33,12 @@
 * ``Facebook App ID`` : 메타데이타에 포함될 페이스북 앱 아이디를 입력합니다.
 
 
-------------
-
-
-.. thumbnail:: resource_new/proj_setting_build.png
-
 .. _Build:
 
 빌드 Build
 ------------
 
+.. thumbnail:: resource_new/proj_setting_build.png
 
 * ``Build Path`` : 빌드 실행 시 생성되는 폴더의 경로를 설정합니다.
 * ``Build Resource Path`` : 빌드 실행 시 생성되는 리소스 폴더의 경로를 설정합니다.
@@ -58,16 +48,12 @@
 
 .. note :: 프로젝트가 사용하는 주소가 루트 패스 root path 가 아닐 경우, 리소스 프리픽스와 링크 프리픽스 경로를 수정해야 합니다.
 
-
-------------
-
-
-.. thumbnail:: resource_new/proj_setting_django.png
-
 .. _Django:
 
 장고 Django
 ------------
+
+.. thumbnail:: resource_new/proj_setting_django.png
 
 .. note :: 장고 셋팅은 :ref:`장고 프로젝트<Django_Project>` 에서만 설정 가능합니다.
 
