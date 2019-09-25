@@ -7,9 +7,10 @@
 ----------
 
 
+.. _IU_Widgets:
+
 아이유 위젯 IU Widgets
 ---------------------
-.. _IU_Widgets:
 
 .. thumbnail:: resource_new/widget_basic.png
 
@@ -20,9 +21,10 @@ IU WIDGETS 탭에서는 아이유에디터에서 사용 가능한 모든 위젯�
 ----------
 
 
+.. _Custom_Widgets:
+
 커스텀 위젯 Custom Widgets
 ---------------------------
-.. _Custom_Widgets:
 
 .. thumbnail:: resource_new/widget_custom.png
 
