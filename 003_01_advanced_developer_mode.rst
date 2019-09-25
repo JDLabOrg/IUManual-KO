@@ -1,18 +1,12 @@
-.. _HTML ID : #HTML ID
-.. _커스텀 코드 : #Custom Code
-
-
-
-
 개발자 모드 Developer Mode
 =======================
 
 
-.. image:: resource_new/advanced_dev.png
+.. thumbnail:: resource_new/advanced_dev.png
 
 상단 툴바에서 ``모드 변경 버튼`` 을 클릭하면 개발자 모드로 전환할 수 있습니다.
 
-개발자모드로 바꾸면 오른쪽에 **코드 패널** 이 나타납니다. `HTML ID`_ / `커스텀 코드 Custom Code`_ 영역으로 구분됩니다.
+개발자모드로 바꾸면 오른쪽에 **코드 패널** 이 나타납니다. :ref:`HTML ID` / :ref:`커스텀 코드 Custom Code<Custom_Code>` 영역으로 구분됩니다.
 
 
 ----------
@@ -27,6 +21,7 @@ HTML ID
 
 ----------
 
+.. _Custom_Code:
 
 커스텀 코드 Custom Code
 -----------------------
