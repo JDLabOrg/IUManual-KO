@@ -13,7 +13,7 @@
 ----------
 
 
-.. image:: resource/iu_manual_project_setting_01default.png
+.. image:: resource_new/proj_setting_dafault.png
 
 디폴트 Default
 ------------
@@ -28,7 +28,7 @@
 -------------
 
 
-.. image:: resource/iu_manual_project_setting_02meta.png
+.. image:: resource_new/proj_setting_meta.png
 
 메타 Meta
 ------------
@@ -46,7 +46,7 @@
 ------------
 
 
-.. image:: resource/iu_manual_project_setting_03build.png
+.. image:: resource_new/proj_setting_build.png
 
 빌드 Build
 ------------
@@ -54,7 +54,7 @@
 
 * ``Build Path`` : 빌드 실행 시 생성되는 폴더의 경로를 설정합니다.
 * ``Build Resource Path`` : 빌드 실행 시 생성되는 리소스 폴더의 경로를 설정합니다.
-* ``Resource Prefix`` : 프로젝트가 사용할 리소스 폴더의 경로를 설정합니다. 
+* ``Resource Prefix`` : 프로젝트가 사용할 리소스 폴더의 경로를 설정합니다.
 * ``Link Prefix`` : 프로젝트가 사용할 링크의 경로를 설정합니다.
 * ``HTML Port`` : 프로젝트가 사용할 로컬호스트 서버의 포트를 설정합니다.
 
@@ -64,7 +64,7 @@
 ------------
 
 
-.. image:: resource/iu_manual_project_setting_04django.png
+.. image:: resource_new/proj_setting_django.png
 
 장고 Django
 ------------

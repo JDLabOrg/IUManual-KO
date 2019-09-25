@@ -3,7 +3,7 @@
 IUEditor Manual
 ===============
 
-.. image:: resource/iueditor-facebook-ad-img-A03.png
+.. image:: resource_new/index_hero_img.png
 
 환영합니다! **아이유에디터** 공식 메뉴얼입니다.
 

@@ -7,7 +7,7 @@
 네비게이션 Navigation
 ==========
 
-.. image:: resource/iu_manual_navigation.png
+.. image:: resource_new/basic_nav.png
 
 네비게이션 영역은 캔버스 바로 좌측에 위치하며, `스트럭쳐`_ / `페이지`_ / `컴포지션`_ 영역으로 구분됩니다.
 
@@ -69,4 +69,3 @@
 *네이밍에 사용할 수 없는 단어*
 
 .. note:: id / ifdef / default - 이 단어들은 네이밍에 사용할 수 없습니다.
-

@@ -8,7 +8,7 @@
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_01scr.png
+.. image:: resource_new/panel_event_scroll.png
 
 스크롤 애니메이터 Scroll Animator
 --------
@@ -23,7 +23,7 @@
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_02var.png
+.. image:: resource_new/panel_event_variable.png
 
 베리에이블 Variable
 ----------------
@@ -43,7 +43,7 @@
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_03receiver.png
+.. image:: resource_new/panel_event_receiver.png
 
 리시버 Receiver
 -------------
@@ -60,8 +60,4 @@
 
 * ``Animation Effect`` : Receiver 위젯이 보여질 때 나타나는 애니메이션 효과 입니다.
 
-* ``Duration`` : Animation Effect가 실행되서 끝날 때 까지의 시간입니다. 예를 들어, 3.0s를 입력하면 Animation Effect가 3초동안 실행됩니다. 
-
-
-
-
+* ``Duration`` : Animation Effect가 실행되서 끝날 때 까지의 시간입니다. 예를 들어, 3.0s를 입력하면 Animation Effect가 3초동안 실행됩니다.

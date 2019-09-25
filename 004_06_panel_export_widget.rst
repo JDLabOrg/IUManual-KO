@@ -17,9 +17,9 @@
 * 페이지를 선택하여 컨택스트 메뉴 > `페이지 내보내기 Export Page`_ 실행
 * 컴포지션을 선택하여 컨텍스트 메뉴 > `컴포지션 내보내기 Export Composition`_ 실행
 
-하여 불러올 수 있습니다. 
+하여 불러올 수 있습니다.
 
-.. image:: resource/iu_manual_panel_export_widget.png
+.. image:: resource_new/panel_export_widget.png
 
 
 * ``Customize Viewport Size`` : 커스텀파일의 뷰포트를 원하는 사이즈로 조정합니다.

@@ -9,7 +9,7 @@
 메뉴 Menu
 ==========================
 
-.. image:: resource/iu_manual_basic_menu.png
+.. image:: resource_new/mac_menu_bar_blk.png
 
 IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 ----------
@@ -18,7 +18,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 아이유에디터 IUEditor
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_iueditor.png
+.. image:: resource_new/iueditor.png
 
 
 * ``About IUEditor`` : 사용자 IUEditor의 버젼 정보를 보여줍니다.
@@ -30,7 +30,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 파일 File
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_file.png
+.. image:: resource_new/file.png
 
 
 * ``New Project`` : 새 프로젝트 만들기 창을 띄웁니다.
@@ -48,7 +48,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 프로젝트 Project
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_project.png
+.. image:: resource_new/project.png
 
 
 * ``Build`` : 프로젝트를 브라우저로 빌드합니다. 상단툴바의 빌드실행버튼과 동일한 기능입니다.
@@ -62,7 +62,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 뷰 View
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_view.png
+.. image:: resource_new/view.png
 
 
 * ``ZoomOut`` : 캔버스를 확대합니다.
@@ -79,7 +79,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 창 Window
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_window.png
+.. image:: resource_new/window.png
 
 
 * ``Event`` : `이벤트 패널 Event Panel`_ 을 보여줍니다.
@@ -93,7 +93,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 지원 Help
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_help.png
+.. image:: resource_new/help.png
 
 
 * ``Search`` : IUEditor의 기능을 검색합니다.
