@@ -18,7 +18,8 @@
   * ``빌드 실행 버튼`` : 현재 스테이지에 있는 요소들을 기준으로 HTML/CSS/JS 파일을 생성합니다. 빌드 생성 전 아이유 프로젝트를 로컬에 저장해야만 빌드가 가능합니다.
   * ``서버 중지 버튼`` : 로컬 호스트 서버를 중지합니다.
   * ``빌드 타입 설정 버튼`` : 빌드를 실행할 타입을 설정합니다. 생성한 프로젝트 타입에 따라 옵션이 달라집니다.
-  * ``디자인 / 디벨롭 / 프로토타입 모드 변경 버튼`` : 프로그램 기본 설정은 **디자인 모드 Design Mode** 입니다. 이 버튼을 눌러 디자인 모드 Design Mode, :doc:`디벨롭 모드 Develop Mode<003_01_advanced_developer_mode>`, :doc:`프로토타입 모드 Prototype Mode<003_02_advanced_prototype_mode>`로 각각 변경할 수 있습니다.
+  * ``디자인 / 디벨롭 / 프로토타입 모드 변경 버튼`` : 프로그램 기본 설정은 **디자인 모드 Design Mode** 입니다.
+    이 버튼을 눌러 디자인 모드 Design Mode, :doc:`디벨롭 모드 Develop Mode<003_01_advanced_developer_mode>`, :doc:`프로토타입 모드 Prototype Mode<003_02_advanced_prototype_mode>`로 각각 변경할 수 있습니다.
 
 
 .. _Tab_Menu:
