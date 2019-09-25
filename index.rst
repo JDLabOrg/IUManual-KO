@@ -35,7 +35,7 @@ IUEditor Manual
    002_03_basic_middle_toolbar
    002_04_basic_widget_panel
    002_05_basic_navigation
-   002_05_basic_canvas
+   002_06_basic_canvas
 
 
 .. toctree::
