@@ -1,25 +1,16 @@
-.. _Go To Widget Panel: ./basic_widget_panel.html
-.. _페이지 캡쳐 : #Page Capture
-.. _포지션 : #position
-.. _프레임 : #frame
-.. _정렬 : #align
-.. _배경컬러 : #background-color
-.. _위젯 보기 버튼 : #show-widget-button
-
-
-
 중앙 툴바 Middle Toolbar
 ====================
 
-.. image:: resource_new/mid_toolbar.png
+.. thumbnail:: resource_new/mid_toolbar.png
 
-중앙 툴바는 캔버스 바로 상단에 위치하며,  `페이지 캡쳐`_ / `포지션`_ / `프레임`_ / `배경컬러`_ / `위젯 보기 버튼`_ 영역으로 구분됩니다.
+중앙 툴바는 캔버스 바로 상단에 위치하며,  :ref:`페이지 캡쳐<Page_Capture>` / :ref:`포지션<Position>` / :ref:`프레임<Frame>` / :ref:`배경컬러<Background_Color>` / :ref:`위젯 보기 버튼<Show_Widget_Button>` 영역으로 구분됩니다.
 
 ----------
 
 
 페이지 캡쳐 Page Capture
--------------
+-----------------------
+.. _Page_Capture:
 
 현재 페이지를 캡쳐하여 **프로토타입 모드 Prototype Mode** 의 커스텀 섬네일에 추가합니다.
 
@@ -28,7 +19,8 @@
 
 
 포지션 Position
--------------
+---------------
+.. _Position:
 
 선택된 요소의 포지션을 설정합니다. (단위를 % 로 바꿀 경우, x/y 값은 드래그로 변경되지 않으며 w/h 값 역시 드래그로 변경되지 않습니다.)
 
@@ -47,7 +39,8 @@
 
 
 프레임 Frame
-----------
+------------
+.. _Frame:
 
 선택된 요소의 높이와 너비값을 설정합니다.
 
@@ -63,6 +56,7 @@
 
 배경컬러 Background Color
 -----------------------
+.. _Background_Color:
 
 선택된 요소의 배경색을 선택하거나 투명값으로 설정할수 있습니다.
 
@@ -71,8 +65,9 @@
 
 
 위젯 보기 버튼 Show Widget Button
-----------
+----------------------------------
+.. _Show_Widget_Button:
 
 버튼을 눌러 오른쪽에 위젯 패널을 보이게 하고 숨깁니다. 위젯 패널에는 아이유에디터에서 사용 가능한 모든 위젯들 보여집니다.  IU WIDGETS탭과 CUSTOM WIDGETS탭으로 나뉘어 있습니다.
 
-`Go To Widget Panel`_
+:doc:`Go To Widget Panel<002_04_basic_widget_panel>`.
