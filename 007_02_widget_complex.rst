@@ -114,8 +114,8 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 
 .. image:: resource/widget/IUMovie.png
 
-Video Clip
-----------
+비디오 클립 Video Clip
+---------------------
 
 .. image:: resource_new/video_clip.png
 
