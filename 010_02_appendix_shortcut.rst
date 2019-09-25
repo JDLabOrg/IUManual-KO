@@ -1,13 +1,8 @@
-
 단축키 Shortcut
 =================
 
 단축키에 대한 설명입니다.
 
-
-
-
-----------
 
 
 프로젝트 관리 Project Management
@@ -16,8 +11,6 @@
 * ``Project Setting (⇧⌘P)`` : 프로젝트 설정 창을 보여줍니다.
 * ``Refresh (⇧⌘F)`` : 현재 페이지를 다시 불러옵니다.
 * ``Import Custom Widget (⇧⌘W)`` : 커스텀 위젯 패널을 불러옵니다.
-
-----------
 
 
 위젯 추가 Add Widget
@@ -30,7 +23,6 @@
 * ``IUCell (⌘5)`` : 캔버스에 추가하기 위해 IUCell위젯을 선택합니다.
 
 
-----------
 
 
 위젯 사용 Widget Control
@@ -42,8 +34,6 @@
 * ``Duplicate (⌘D)`` : 선택한 위젯을 동일한 레벨에 복제합니다.
 * ``Redo (⇧⌘Z)`` : 언두한 기능을 다시 실행합니다.
 
-
-----------
 
 
 뷰 관리 View Management
@@ -57,8 +47,6 @@
 * ``Memo (⇧⌘M)`` : 메모 패널을 보여줍니다.
 
 
-----------
-
 
 모드 변경 Mode Switch
 ----------------------------
@@ -66,8 +54,6 @@
 * ``에디터 모드 Editor Mode (⌘[)`` : 에디터 모드 Editor Mode로 전환합니다.
 * ``개발자 모드 Developer Mode (⌘])`` : 개발자 모드 Developer Mode로 전환합니다.
 * ``프로토타입 모드 Prototype Mode (⌘\)`` : 프로토타입 모드 Prototype Mode로 전환합니다.
-
-----------
 
 
 

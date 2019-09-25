@@ -21,14 +21,11 @@ Input 요소를 감싸주는 <form> 태그 위젯입니다. 따라서, Input 요
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-.. image:: resource/widget/PGTextField.png
 
 인풋 텍스트 Input Text
 ----------------------------
+
+.. image:: resource/widget/PGTextField.png
 
 .. thumbnail:: resource_new/input_text.png
 
@@ -44,14 +41,11 @@ Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있�
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-.. image:: resource/widget/PGTextView.png
 
 인풋 패러그래프 텍스트 Input Paragraph Text
 ---------------------------------------------
+
+.. image:: resource/widget/PGTextView.png
 
 .. thumbnail:: resource_new/input_paragraph.png
 
@@ -68,15 +62,11 @@ Form 위젯에 추가하여 사용자로부터 텍스트를 입력받을수 있�
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-.. image:: resource/widget/PGSelect.png
 
 셀렉트 Select
 ----------------
+
+.. image:: resource/widget/PGSelect.png
 
 .. thumbnail:: resource_new/select.png
 
@@ -94,14 +84,11 @@ Form 위젯에 추가하여 사용자로부터 특정 값을 입력받을수 있
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-.. image:: resource/widget/PGHTML.png
 
 HTML (Hyper Text Markup Language)
 ----------------------------------------
+
+.. image:: resource/widget/PGHTML.png
 
 .. thumbnail:: resource_new/html.png
 
@@ -119,15 +106,12 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-.. image:: resource/widget/PGCollection.png
 
 콜렉션 Collection
 -----------------
+
+.. image:: resource/widget/PGCollection.png
 
 .. thumbnail:: resource_new/collection.png
 
@@ -144,14 +128,12 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-.. image:: resource/widget/PGPageLinkSet.png
 
 페이지 넘버 셋 Page Number Set
 --------------------------------
+
+.. image:: resource/widget/PGPageLinkSet.png
 
 .. thumbnail:: resource_new/page_numb.png
 
@@ -168,15 +150,12 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-.. image:: resource/widget/PGCheckBox.png
 
 체크박스 Checkbox
 -----------------
+
+.. image:: resource/widget/PGCheckBox.png
 
 .. thumbnail:: resource_new/checkbox.png
 
@@ -194,16 +173,11 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-
-.. image:: resource/widget/PGRadioButton.png
 
 라디오 버튼 Radio Button
 -----------------------------
+
+.. image:: resource/widget/PGRadioButton.png
 
 .. thumbnail:: resource_new/radio_btn.png
 
@@ -221,15 +195,11 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-.. image:: resource/widget/PGButton.png
 
 버튼 Button
 ---------------
+
+.. image:: resource/widget/PGButton.png
 
 .. thumbnail:: resource_new/button.png
 
@@ -246,16 +216,12 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-
-.. image:: resource/widget/PGFileUpload.png
 
 파일 업로드 File Upload
 ------------------------------
+
+.. image:: resource/widget/PGFileUpload.png
 
 .. thumbnail:: resource_new/file_upload.png
 
@@ -273,15 +239,12 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-.. image:: resource/widget/PGSwitch.png
 
 스위치 Switch
 -------------------
+
+.. image:: resource/widget/PGSwitch.png
 
 .. thumbnail:: resource_new/switch.png
 
@@ -298,16 +261,12 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-
-.. image:: resource/widget/PGFlipSwitch.png
 
 플립 스위치 Flip Switch
 -----------------------------
+
+.. image:: resource/widget/PGFlipSwitch.png
 
 .. thumbnail:: resource_new/flip_switch.png
 
@@ -325,16 +284,11 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-
-.. image:: resource/widget/PGSlide.png
 
 슬라이더 Slider
 --------------------------
+
+.. image:: resource/widget/PGSlide.png
 
 .. thumbnail:: resource_new/slider.png
 
@@ -352,17 +306,11 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-
-
-.. image:: resource/widget/PGRangeSlide.png
 
 레인지 슬라이더 Range Slider
 --------------------------------
+
+.. image:: resource/widget/PGRangeSlide.png
 
 .. thumbnail:: resource_new/range_slider.png
 

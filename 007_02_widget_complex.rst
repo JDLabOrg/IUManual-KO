@@ -1,10 +1,10 @@
 복합 위젯 Complex Widget
 ================================
 
-.. image:: resource/widget/IUTransition.png
-
 트랜지션 Transition
 -------------------
+
+.. image:: resource/widget/IUTransition.png
 
 .. image:: resource_new/transition.png
 
@@ -21,14 +21,11 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-.. image:: resource/widget/IUCarousel.png
 
 캐러젤 Carousel
 ---------------
+
+.. image:: resource/widget/IUCarousel.png
 
 .. image:: resource_new/carousel.png
 
@@ -44,14 +41,12 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-.. image:: resource/widget/IUGoogleMap.png
 
 구글맵 Google Map
 ----------------------
+
+.. image:: resource/widget/IUGoogleMap.png
 
 .. image:: resource_new/google_map.png
 
@@ -72,15 +67,11 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-.. image:: resource/widget/IUWebMovie.png
 
 웹무비 WebMovie
 --------------------
+
+.. image:: resource/widget/IUWebMovie.png
 
 .. image:: resource_new/vimeo_youtube.png
 
@@ -103,14 +94,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-.. image:: resource/widget/IUMovie.png
 
 비디오 클립 Video Clip
 -------------------------
+
+.. image:: resource/widget/IUMovie.png
 
 .. image:: resource_new/video_clip.png
 
@@ -126,14 +114,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * Background Image : Valid
 * Backend Ellipsis : Invalid
 
-----------
-
-
-
-.. image:: resource/widget/IUTable.png
 
 테이블 Table
 ------------
+
+.. image:: resource/widget/IUTable.png
 
 .. image:: resource_new/table.png
 
@@ -150,14 +135,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 가능
 
-----------
-
-
-
-.. image:: resource/widget/IUSimpleTabView.png
 
 심플 탭  Simple Tab View
 -----------------------------
+
+.. image:: resource/widget/IUSimpleTabView.png
 
 .. image:: resource_new/simple_tab_view.png
 
@@ -174,14 +156,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : -
 * 백엔드 엘립시스 : -
 
-----------
-
-
-
-.. image:: resource/widget/IUTabView.png
 
 탭 뷰 Tab View
 --------------
+
+.. image:: resource/widget/IUTabView.png
 
 .. image:: resource_new/tab_view.png
 
@@ -198,14 +177,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : -
 * 백엔드 엘립시스 : -
 
-----------
-
-
-
-.. image:: resource/widget/IUCollapsible.png
 
 컬랩시블 Collapsible
 --------------------
+
+.. image:: resource/widget/IUCollapsible.png
 
 .. image:: resource_new/collapsible.png
 
@@ -222,15 +198,11 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : -
 * 백엔드 엘립시스 : -
 
-----------
-
-
-
-
-.. image:: resource/widget/IUImport.png
 
 임포트 Import
 ------------------
+
+.. image:: resource/widget/IUImport.png
 
 .. image:: resource_new/import.png
 
@@ -249,16 +221,12 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-
-.. image:: resource/widget/IUTweetButton.png
 
 트위터 공유 버튼 Tweet Share Button
 ----------------------------------------
+
+.. image:: resource/widget/IUTweetButton.png
 
 .. image:: resource_new/twt_share.png
 
@@ -275,21 +243,16 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-.. image:: resource/widget/IUFBLike.png
 
 페이스북 좋아요 버튼 Facebook Like Button
 -----------------------------------------------
+
+.. image:: resource/widget/IUFBLike.png
 
 .. image:: resource_new/fb_like.png
 
 현재 페이지를 페이스북으로 공유할 수 있는 페이스북 위젯입니다.
 Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으나 크기는 조정되지 않습니다.
-
 
 
 **속성**
@@ -300,16 +263,11 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-
-.. image:: resource/widget/IUCenterBox.png
 
 센터박스 Centered Box
 -------------------------
+
+.. image:: resource/widget/IUCenterBox.png
 
 .. image:: resource_new/center_box.png
 
@@ -329,15 +287,11 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 * 배경이미지 : 가능
 * 백엔드 엘립시스 : 불가능
 
-----------
-
-
-
-
-.. image:: resource/widget/IUProgressBar.png
 
 프로그레스 바 Progress Bar
 ---------------------------------------
+
+.. image:: resource/widget/IUProgressBar.png
 
 .. image:: resource_new/progress_bar.png
 
@@ -354,16 +308,12 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-
-
-.. image:: resource/widget/IUSVG.png
 
 SVG (Scalable Vector Graphics)
 -------------------------------------
+
+.. image:: resource/widget/IUSVG.png
 
 .. image:: resource_new/svg.png
 

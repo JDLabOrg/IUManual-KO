@@ -1,10 +1,10 @@
 기본 위젯 Basic Widget
 ============================
 
-.. image:: resource/widget/IUBox.png
-
 박스 Box
 ----------
+
+.. image:: resource/widget/IUBox.png
 
 .. image:: resource_new/box.png
 
@@ -26,14 +26,11 @@
        <iframe width="560" height="315" src="https://www.youtube.com/embed/_D5d3eKYFMw" frameborder="0" allowfullscreen></iframe>
     </div>
 
-----------
-
-
-
-.. image:: resource/widget/IUText.png
 
 텍스트 Text
 ---------------------
+
+.. image:: resource/widget/IUText.png
 
 .. image:: resource_new/text.png
 
@@ -56,14 +53,11 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/zhllW9hdtm4" frameborder="0" allowfullscreen></iframe>
     </div>
 
-----------
-
-
-
-.. image:: resource/widget/IUFloatingImage.png
 
 이미지 Image
 -------------------
+
+.. image:: resource/widget/IUFloatingImage.png
 
 .. image:: resource_new/img.png
 
@@ -81,14 +75,12 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 * 배경이미지 : 불가능
 * 백엔드 엘립시스 : 불가능
 
-----------
 
-
-
-.. image:: resource/widget/IUImage.png
 
 스태틱 이미지 Static Image
 ------------------------------
+
+.. image:: resource/widget/IUImage.png
 
 .. image:: resource_new/static_img.png
 
@@ -111,14 +103,11 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
         <iframe width="560" height="315" src="https://www.youtube.com/embed/RHax9vtH91I" frameborder="0" allowfullscreen></iframe>
     </div>
 
--------------
-
-
-
-.. image:: resource/widget/IUCell.png
 
 셀 Cell
 ----------
+
+.. image:: resource/widget/IUCell.png
 
 .. image:: resource_new/cell.png
 
@@ -139,13 +128,11 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
        <iframe width="560" height="315" src="https://www.youtube.com/embed/l4XBFTpfmSM" frameborder="0" allowfullscreen></iframe>
     </div>
 
-----------
-
-
-.. image:: resource/widget/IUIconButton.png
 
 아이콘 버튼 Icon Button
 ---------------------------
+
+.. image:: resource/widget/IUIconButton.png
 
 .. image:: resource_new/img_text.png
 
