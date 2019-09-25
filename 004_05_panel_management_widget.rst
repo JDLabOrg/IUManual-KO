@@ -24,6 +24,7 @@
 패널 좌측에는 커스텀 위젯의 그룹 리스트가 보여집니다.
 각 그룹을 선택하면, 그룹에 해당되는 커스텀 위젯들만 :ref:`커스텀 위젯 리스트 Custom Widget List<Custom_Widget_List>`에서 볼 수 있습니다.
 
+
 .. _Custom_Widget_List:
 
 커스텀 위젯 리스트 Custom Widget List
@@ -34,6 +35,7 @@
 * ``Import`` : 커스텀 위젯 파일을 불러옵니다.
 * ``Refresh`` : 리스트를 새로고침 합니다.
 * ``Open Folder`` : 커스텀 위젯 파일 폴더로 이동합니다.
+
 
 .. _Custom_Widget_Information:
 
