@@ -1,7 +1,5 @@
-
-
 기본 위젯 Basic Widget
-============
+============================
 
 -----------
 
@@ -38,7 +36,7 @@
 .. image:: resource/widget/IUText.png
 
 텍스트 Text
-----------
+---------------------
 
 .. image:: resource_new/text.png
 
@@ -68,7 +66,7 @@
 .. image:: resource/widget/IUFloatingImage.png
 
 이미지 Image
-----------
+-------------------
 
 .. image:: resource_new/img.png
 
@@ -93,7 +91,7 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 .. image:: resource/widget/IUImage.png
 
 스태틱 이미지 Static Image
-------------------------
+------------------------------
 
 .. image:: resource_new/static_img.png
 
@@ -150,7 +148,7 @@ Fit widget size to image size 버튼을 누르면 불러온 이미지 사이즈�
 .. image:: resource/widget/IUIconButton.png
 
 아이콘 버튼 Icon Button
-----------------------
+---------------------------
 
 .. image:: resource_new/img_text.png
 
