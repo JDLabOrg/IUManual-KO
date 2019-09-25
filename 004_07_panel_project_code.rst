@@ -11,7 +11,9 @@
 HTML
 ----------------
 
-.. code:: html
+.. code-block:: html
+  :emphasize-lines: 2,4
+  :linenos:
 
   <head>
      <!-- start : your code -->
@@ -23,7 +25,9 @@ HTML
 Back-end
 ---------------
 
-.. code:: html
+.. code-block:: html
+  :emphasize-lines: 1,4,6
+  :linenos:
 
   <!-- page head custom code for back-end : your code -->
   <!DOCTYPE html>
