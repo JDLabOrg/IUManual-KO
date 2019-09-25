@@ -18,8 +18,8 @@
 
 프로젝트의 **히스토리 Revision History** 를 보여줍니다. 히스토리를 변경하거나 추가할 수 있습니다.
 
-  * ``Add New Date Button`` : 히스토리 테이블에 새 히스토리를 추가합니다.
-  * ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
+* ``Add New Date Button`` : 히스토리 테이블에 새 히스토리를 추가합니다.
+* ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
 
 
 .. _Project_Workflow:
@@ -32,20 +32,20 @@
 프로젝트의 **워크플로우 Workflow** 를 보여줍니다. 섬네일을 드래그 앤 드롭 하여 노드를 추가할 수 있습니다. Delete키를 눌러 선택된 노드를 지울 수 있습니다.
 
 
-  * ``Default thumbnails`` : 프로젝트에 포함된 페이지들의 섬네일 목록.
-  * ``Custom thumbnails`` : **Page Capture** 버튼으로 캡쳐된 페이지들의 섬네일 목록.
+* ``Default thumbnails`` : 프로젝트에 포함된 페이지들의 섬네일 목록.
+* ``Custom thumbnails`` : **Page Capture** 버튼으로 캡쳐된 페이지들의 섬네일 목록.
 
 .. note:: 커스텀 섬네일은 **Editor Mode** 에서 툴바의 **Page Capture** 를 눌러 추가할 수 있습니다.
 
 
 .. thumbnail:: resource_new/advanced_proto_workflow.png
 
-  * ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
-  * ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.
+* ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
+* ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.
 
 
-  * ``Inward Label`` : 선택된 노드 위에 표시되는 텍스트를 입력합니다.
-  * ``Outward Label`` : 선택된 노드 아래에 표시되는 텍스트를 입력합니다.
+* ``Inward Label`` : 선택된 노드 위에 표시되는 텍스트를 입력합니다.
+* ``Outward Label`` : 선택된 노드 아래에 표시되는 텍스트를 입력합니다.
 
 
 .. _Node_Definition:
