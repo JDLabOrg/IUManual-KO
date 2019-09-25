@@ -34,6 +34,9 @@
 
 
 * ``정럴 Align`` : 현재 선택된 위젯들을 정렬하는 기능입니다. **좌측 정렬 Align Left, 중앙 정렬 Align Center, 우측 정렬 Align Right, 상단 정렬 Align Top, 세로 중앙 정렬 Align Middle, 하단 정렬 Align Bottom** 이 있습니다.
+
   .. image:: resource_new/multi_widget_02.png
+  
 * ``크기 Size`` : 현재 선택된 위젯들의 크기를 맞추어 주는 기능입니다. **가로 맞춤 Match Width, 세로 맞춤 Match Height** 가 있습니다.
-    .. image:: resource_new/multi_widget_03.png
+
+  .. image:: resource_new/multi_widget_03.png
