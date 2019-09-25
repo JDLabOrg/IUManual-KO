@@ -5,7 +5,7 @@
 
 ----------
 
-.. thumbnail:: resource_new/proj_setting_dafault.png
+.. thumbnail:: resource_new/proj_setting_default.png
 
 .. _Default:
 
