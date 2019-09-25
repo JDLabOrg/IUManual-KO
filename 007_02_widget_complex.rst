@@ -286,7 +286,7 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 .. image:: resource/widget/IUFBLike.png
 
 페이스북 좋아요 버튼 Facebook Like Button
---------------------------------------
+-----------------------------------------------
 
 .. image:: resource_new/fb_like.png
 
@@ -312,7 +312,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUCenterBox.png
 
 센터박스 Centered Box
---------------------
+-------------------------
 
 .. image:: resource_new/center_box.png
 
@@ -340,7 +340,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUProgressBar.png
 
 프로그레스 바 Progress Bar
--------------------------
+---------------------------------------
 
 .. image:: resource_new/progress_bar.png
 
@@ -366,7 +366,7 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUSVG.png
 
 SVG (Scalable Vector Graphics)
-------------------------------
+-------------------------------------
 
 .. image:: resource_new/svg.png
 

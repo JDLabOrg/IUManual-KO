@@ -1,5 +1,5 @@
 프로토타입 모드 Prototype Mode
-=======================
+========================================
 
 .. thumbnail:: resource_new/advanced_proto.png
 
@@ -23,6 +23,7 @@
 
 * ``Add New Date Button`` : 히스토리 테이블에 새 히스토리를 추가합니다.
 * ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
+
 ----------
 
 .. _Project_Workflow:

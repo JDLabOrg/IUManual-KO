@@ -284,7 +284,7 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 .. image:: resource/widget/PGSwitch.png
 
 스위치 Switch
-------------
+-------------------
 
 .. thumbnail:: resource_new/switch.png
 
@@ -365,7 +365,7 @@ Default / Reset / Submit 3 가지 타입 중에 1가지를 선택해서 사용�
 .. image:: resource/widget/PGRangeSlide.png
 
 레인지 슬라이더 Range Slider
----------------------------
+--------------------------------
 
 .. thumbnail:: resource_new/range_slider.png
 

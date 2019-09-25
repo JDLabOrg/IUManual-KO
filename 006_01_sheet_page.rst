@@ -46,53 +46,66 @@
 
 
 .. image:: resource/widget/IUPage.png
+
 **Page**
 
 .. image:: resource_new/sheet_page_page.png
+
 페이지는 html 문서와 동일하며, 속성 탭에서 페이지 구조를 변경할 수 있습니다.
 
 
 .. image:: resource/widget/IUHeader.png
+
 **헤더 Header**
 
 .. image:: resource_new/sheet_page_header.png
+
 페이지의 상단에 위치하는 영역입니다. 헤더영역에는 헤더 컴포지션이나 다른 컴포지션을 임포트 할 수 있습니다.
 
 
 .. image:: resource/widget/IUPageContent.png
+
 **페이지컨텐트 Page Content**
 
 페이지의 본문 컨텐츠 영역입니다. 페이지 컨텐트 요소는 삭제 불가능하며, 하위요소로 섹션을 추가할 수 있습니다.
 
 
 .. image:: resource/widget/IUFooter.png
+
 **푸터 Footer**
 
 .. image:: resource_new/sheet_page_footer.png
+
 페이지의 하단에 위치하는 영역입니다. 푸터영역에는 푸터 컴포지션이나 다른 컴포지션을 임포트 할 수 있습니다.
 
 
 .. image:: resource/widget/IUSection.png
+
 **섹션 Section**
 
 페이지컨텐트의 하위 요소인 섹션입니다. 섹션에는 위젯을 자유롭게 추가할 수 있습니다.
 
 
 .. image:: resource/widget/IUCenterBox.png
+
 **센터박스 Centered Box**
 
 섹션이 생성되면 자동으로 추가되는 위젯요소입니다. 페이지의 요소를 가운데로 정렬시키기 위해 사용됩니다. 사이즈나 위치조절이 불가능하며, 너비는 작업중인 미디어쿼리 사이즈를 따라갑니다. 가운데 정렬이 불필요할때는 삭제해도 무관합니다.
 
 
 .. image:: resource/widget/IUPanel.png
+
 **패널 Panel**
 
 .. image:: resource_new/sheet_page_panel.png
+
 패널 그룹의 [+] 버튼을 눌러 패널을 추가합니다. 패널을 호출하려면 위젯과 링크를 생성하고 패널에 대한 링크 대상을 선택해야합니다.
 
 
 .. image:: resource/widget/IUPopUp.png
+
 **팝업 Popup**
 
 .. image:: resource_new/sheet_page_popup.png
+
 팝업 그룹의 [+] 버튼을 눌러 팝업을 추가합니다. 팝업을 호출하려면 위젯과 링크를 생성하고 팝업에 대한 링크 대상을 선택해야합니다.
