@@ -1,17 +1,10 @@
-.. _시나리오 모드 Scenario Mode : ./advanced_scenario_mode.html
-.. _커맨드 : #command
-.. _탭 메뉴 : #tab-menu
-.. _스테이지 : #stage
-
-
-
 상단 툴바 Top Toolbar
 ==================
 
 
 .. image:: resource_new/top_toolbar.png
 
-상단 툴바는 `커맨드`_ / `탭 메뉴`_ / `스테이지`_ 영역으로 구분됩니다.
+상단 툴바는 :ref:`커맨드Command` / :ref:`탭 메뉴 Tab Menu` / :ref:`스테이지 Stage` 영역으로 구분됩니다.
 
 
 ----------
@@ -28,7 +21,7 @@
 * ``빌드 실행 버튼`` : 현재 스테이지에 있는 요소들을 기준으로 HTML/CSS/JS 파일을 생성합니다. 빌드 생성 전 아이유 프로젝트를 로컬에 저장해야만 빌드가 가능합니다.
 * ``서버 중지 버튼`` : 로컬 호스트 서버를 중지합니다.
 * ``빌드 타입 설정 버튼`` : 빌드를 실행할 타입을 설정합니다. 생성한 프로젝트 타입에 따라 옵션이 달라집니다.
-* ``시나리오 / 에디트 모드 변경 버튼`` : 프로그램 기본 설정은 **에디트 모드 Edit Mode** 입니다. 이 버튼을 눌러 `시나리오 모드 Scenario Mode`_ 와 에디트 모드를 변경할 수 있습니다.
+* ``디자인 / 디벨롭 / 프로토타입 모드 변경 버튼`` : 프로그램 기본 설정은 **디자인 모드 Design Mode** 입니다. 이 버튼을 눌러 디자인 모드, :doc:`디벨롭 모드 Develop Mode<003_01_advanced_developer_mode>`, :doc:`프로토타입 모드 Prototype Mode<003_02_advanced_prototype_mode>`를 변경할 수 있습니다.
 
 
 
