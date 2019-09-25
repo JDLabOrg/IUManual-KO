@@ -2,7 +2,7 @@
 ==================
 
 
-.. image:: resource_new/top_toolbar.png
+.. thumbnail:: resource_new/top_toolbar.png
 
 상단 툴바는 :ref:`커맨드Command` / :ref:`탭 메뉴 Tab Menu` / :ref:`스테이지 Stage` 영역으로 구분됩니다.
 
@@ -10,7 +10,7 @@
 ----------
 
 
-.. image:: resource_new/command.png
+.. thumbnail:: resource_new/command.png
 
 
 커맨드Command
@@ -36,37 +36,37 @@
 
 ----------
 
-.. image:: resource_new/style_tab.png
+.. thumbnail:: resource_new/style_tab.png
 
 * ``스타일 탭 Style Tab`` : 선택한 위젯의 **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
 
 ----------
 
-.. image:: resource_new/property_tab.png
+.. thumbnail:: resource_new/property_tab.png
 
 * ``속성 탭 Property Tab`` : 선택한 각 위젯의 개별 속성을 변경할 수 있습니다. 각 위젯 별로 설정 가능한 항목이 다릅니다.
 
 ----------
 
-.. image:: resource_new/text_tab.png
+.. thumbnail:: resource_new/text_tab.png
 
 * ``텍스트 탭 Text Tab`` : **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
 
 ----------
 
-.. image:: resource_new/transform_tab.png
+.. thumbnail:: resource_new/transform_tab.png
 
 * ``트랜스폼 탭 Transform Tab`` : 선택한 위젯의 회전 값 Rotation 값 등을 설정하여 형태를 변형시킬 수 있습니다.
 
 ----------
 
-.. image:: resource_new/mouseover_tab.png
+.. thumbnail:: resource_new/mouseover_tab.png
 
 * ``마우스-오버 탭 Mouse-Over Tab`` : 선택한 위젯이 마우스 오버 상태일 때 변화하는 값을 설정 할 수 있습니다.
 
 ----------
 
-.. image:: resource_new/link_tab.png
+.. thumbnail:: resource_new/link_tab.png
 
 * ``링크 탭 Link Tab`` : 선택한 위젯에 ** 링크 Hyperlink** 를 설정할 수 있습니다.
 
@@ -75,7 +75,7 @@
 ----------
 
 
-.. image:: resource_new/stage.png
+.. thumbnail:: resource_new/stage.png
 
 
 스테이지 Stage
