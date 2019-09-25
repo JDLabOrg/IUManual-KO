@@ -1,7 +1,7 @@
 커스텀 위젯 관리 패널 Manage Custom Widgets Panel
 ======================================================
 
-위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Manage Custom Widgets** 항목을 실행하면 등장합니다. 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget**, **페이지 Page**, **컴포지션 Composition** 파일을 프로젝트에 추가할 때 사용됩니다. **그리드 뷰** 의 확대/축소 보기 모드가 지원되며, 우측에서 :ref:`커스텀 위젯 정보<Custom_Widget_Info>`를 수정할 수 있습니다. 패널 상단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다.
+위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Manage Custom Widgets** 항목을 실행하면 등장합니다. 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget**, **페이지 Page**, **컴포지션 Composition** 파일을 프로젝트에 추가할 때 사용됩니다. **그리드 뷰** 의 확대/축소 보기 모드가 지원되며, 우측에서 :ref:`커스텀 위젯 정보<Custom_Widget_Information>`를 수정할 수 있습니다. 패널 상단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다.
 
 .. thumbnail:: resource_new/panel_manage_widget.png
 
@@ -14,7 +14,7 @@
 * ``Widget Tab`` : 불러오기 한 위젯의 목록을 관리하고 내보내기 한 커스텀 위젯을 불러옵니다.
 * ``Page Tab`` : 불러오기 한 페이지의 목록을 관리하고 내보내기 한 페이지를 불러옵니다.
 * ``Composition Tab`` : 불러오기 한 컴포지션의 목록을 관리하고 내보내기 한 컴포지션을 불러옵니다.
-* ``Widget Info Toggle Button`` : :ref:`커스텀 위젯 정보<Custom_Widget_Info>`를 껐다 켤 수 있는 토글 버튼입니다.
+* ``Widget Info Toggle Button`` : :ref:`커스텀 위젯 정보<Custom_Widget_Information>`를 껐다 켤 수 있는 토글 버튼입니다.
 * ``Search Bar`` : 커스텀 위젯의 이름을 검색할 수 있습니다.
 
 
@@ -44,9 +44,9 @@
 
 ----------
 
-.. _Custom_Widget_Info:
+.. _Custom_Widget_Information:
 
-커스텀 위젯 정보 Custom Widget Info
+커스텀 위젯 정보 Custom Widget Information
 -----------------------------------
 
 패널 우측에는 선택된 커스텀 위젯의 정보가 보여집니다.
