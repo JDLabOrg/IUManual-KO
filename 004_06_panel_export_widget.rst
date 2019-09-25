@@ -3,9 +3,9 @@
 
 위젯 내보내기 패널은
 
-* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 ">" :ref:`위젯 내보내기 Export Widget<Export_Widget>` 실행
-* 페이지를 선택하여 컨택스트 메뉴 ">" :ref:`페이지 내보내기 Export Page<Export_Page>` 실행
-* 컴포지션을 선택하여 컨텍스트 메뉴 ">" :ref:`컴포지션 내보내기 Export Composition<Export_Composition>` 실행
+* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 > :ref:`위젯 내보내기 Export Widget<Export_Widget>` 실행
+* 페이지를 선택하여 컨택스트 메뉴 > :ref:`페이지 내보내기 Export Page<Export_Page>` 실행
+* 컴포지션을 선택하여 컨텍스트 메뉴 > :ref:`컴포지션 내보내기 Export Composition<Export_Composition>` 실행
 
 하여 불러올 수 있습니다.
 
@@ -41,7 +41,7 @@
 
 .. image:: resource/icon_IUP_128x128.png
 
-위 2) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀페이지이름.iup`` 파일이 생성됩니다. 이 파일은 :ref:`네비게이션 > 페이지 탭<Pages>`에서 ``커스텀 페이지 추가 버튼`` 으로 불러올 수 있습니다.
+위 2) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀페이지이름.iup`` 파일이 생성됩니다. 이 파일은 :ref:`네비게이션 ">" 페이지 탭<Pages>`에서 ``커스텀 페이지 추가 버튼`` 으로 불러올 수 있습니다.
 
 
 
@@ -54,4 +54,4 @@
 
 .. image:: resource/icon_IUC_128x128.png
 
-위 3) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀위젯이름.iuc`` 파일이 생성됩니다. 이 파일은 :ref:`네비게이션 > 컴포지션 탭<Compositions>`에서 ``커스텀 컴포지션 추가 버튼`` 으로 불러올 수 있습니다.
+위 3) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀위젯이름.iuc`` 파일이 생성됩니다. 이 파일은 :ref:`네비게이션 ">" 컴포지션 탭<Compositions>`에서 ``커스텀 컴포지션 추가 버튼`` 으로 불러올 수 있습니다.

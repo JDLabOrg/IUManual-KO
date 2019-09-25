@@ -45,7 +45,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 * ``Build Clean`` : 빌드 데이터를 지웁니다. 빌드에 오류가 있을 때 문제를 해결할 수 있습니다.
 * ``Stop`` : 빌드를 멈춥니다.
 * ``Project Setting`` : :doc:`프로젝트 셋팅 Project Setting<004_01_panel_project_setting>` 패널을 띄웁니다.
-* ``Project Code`` : :ref:`Project_Code<Project Code>` 패널을 보여줍니다.
+* ``Project Code`` : :ref:`Project Code<Page_Custom_Code>` 패널을 보여줍니다.
 * ``Refresh Page`` : 페이지를 새로고침 합니다. 캔버스에 오류가 있을 때 문제를 해결할 수 있습니다.
 
 ----------
