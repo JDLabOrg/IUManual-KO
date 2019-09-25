@@ -4,4 +4,4 @@
 
 프로젝트 코드 버튼 **Project > Project Code (⇧⌘C)** 을 눌러 페이지 커스텀 코드 패널을 불러올 수 있습니다.
 
-.. image:: resource_new/sheet_page_code.png
+.. image:: resource/capture_window/sheet_page_code.png

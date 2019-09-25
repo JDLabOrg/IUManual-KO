@@ -11,7 +11,7 @@ Image, Video 같은 사용자 리소스를 추가, 관리할 수 있습니다.
 .. note :: Supported Video File Types : mp4, ogg, webm
 
 
-.. image:: resource_new/panel_resource.png
+.. image:: resource/capture_window/panel_resource.png
 
 * ``Import Resource Button`` : 파인더를 통해 외부리소스를 불러옵니다.
 * ``Resource Type Select Button`` : 리소스 패널에 있는 파일을 **모두 보기 / 이미지 보기 / 동영상 보기** 로 필터링하여 줍니다.

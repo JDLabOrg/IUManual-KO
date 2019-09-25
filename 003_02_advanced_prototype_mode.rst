@@ -1,7 +1,7 @@
 프로토타입 모드 Prototype Mode
 ========================================
 
-.. thumbnail:: resource_new/advanced_proto.png
+.. thumbnail:: resource/capture_window/advanced_proto.png
 
 상단 툴바에서 ``Mode Switch Button`` 을 눌러 **Prototype Mode** 로 전환할 수 있습니다.
 
@@ -27,7 +27,7 @@
 워크플로우 Project Workflow
 -------------------------------
 
-.. thumbnail:: resource_new/advanced_proto_revision.png
+.. thumbnail:: resource/capture_window/advanced_proto_revision.png
 
 프로젝트의 **워크플로우 Workflow** 를 보여줍니다. 섬네일을 드래그 앤 드롭 하여 노드를 추가할 수 있습니다. Delete키를 눌러 선택된 노드를 지울 수 있습니다.
 
@@ -38,7 +38,7 @@
 .. note:: 커스텀 섬네일은 **Editor Mode** 에서 툴바의 **Page Capture** 를 눌러 추가할 수 있습니다.
 
 
-.. thumbnail:: resource_new/advanced_proto_workflow.png
+.. thumbnail:: resource/capture_window/advanced_proto_workflow.png
 
 * ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
 * ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.

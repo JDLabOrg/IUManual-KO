@@ -1,7 +1,7 @@
 메뉴 Menu
 ==========================
 
-.. image:: resource_new/mac_menu_bar_blk.png
+.. image:: resource/capture_window/mac_menu_bar_blk.png
 
 IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 ------------------------------------------------------
@@ -10,7 +10,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 아이유에디터 IUEditor
 ----------------------------
 
-.. image:: resource_new/iueditor.png
+.. image:: resource/capture_window/iueditor.png
 
 * ``About IUEditor`` : 사용자 IUEditor의 버젼 정보를 보여줍니다.
 * ``Preference`` : 사용자 IUEditor의 :doc:`환경설정 Preference<009_00_preference>` 창을 엽니다.
@@ -19,7 +19,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 파일 File
 ----------------------------
 
-.. image:: resource_new/file.png
+.. image:: resource/capture_window/file.png
 
 * ``New Project`` : 새 프로젝트 만들기 창을 띄웁니다.
 * ``Open`` : Finder에서 오픈할 프로젝트를 찾습니다.
@@ -32,7 +32,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 프로젝트 Project
 ----------------------------
 
-.. image:: resource_new/project.png
+.. image:: resource/capture_window/project.png
 
 
 * ``Build`` : 프로젝트를 브라우저로 빌드합니다. 상단툴바의 빌드실행버튼과 동일한 기능입니다.
@@ -46,7 +46,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 뷰 View
 ----------------------------
 
-.. image:: resource_new/view.png
+.. image:: resource/capture_window/view.png
 
 * ``Show Tab Bar`` : 탭바를 보여줍니다.
 * ``Show All Tabs`` : 전제 탭을 보여줍니다.
@@ -62,7 +62,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 창 Window
 ----------------------------
 
-.. image:: resource_new/window.png
+.. image:: resource/capture_window/window.png
 
 
 * ``Event`` : :doc:`이벤트 패널 Event Panel<004_03_panel_event>` 을 보여줍니다.
@@ -75,7 +75,7 @@ IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
 지원 Help
 ----------------------------
 
-.. image:: resource_new/help.png
+.. image:: resource/capture_window/help.png
 
 
 * ``Search`` : IUEditor의 기능을 검색합니다.

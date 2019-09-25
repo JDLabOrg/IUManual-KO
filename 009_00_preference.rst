@@ -7,7 +7,7 @@ IUEditor의 사용환경을 설정합니다.
 일반 General
 --------------------------
 
-.. image:: resource_new/preference_general.png
+.. image:: resource/capture_window/preference_general.png
 
 * ``탭 메뉴 Select Tab Menu`` : 탭메뉴를 상단 툴바에서 보이도록 할 지 선택합니다.
 * ``가이드 라인 색 Guide Line Color`` : 가이드라인 색상을 변경합니다. (가이드라인 보기 : View > Guide ⌘;)
@@ -18,7 +18,7 @@ IUEditor의 사용환경을 설정합니다.
 프로젝트 Project
 --------------------------
 
-.. image:: resource_new/preference_project.png
+.. image:: resource/capture_window/preference_project.png
 
 * ``세이브 옵션 Project Save Option`` : Minimize Data 체크시 프로젝트의 json파일을 압축합니다.
 * ``컴파일 옵션 Compile Option``
@@ -36,4 +36,4 @@ IUEditor의 사용환경을 설정합니다.
 
 폰트 리스트에 새 웹폰트를 추가합니다.
 
-.. image:: resource_new/preference_fonts.png
+.. image:: resource/capture_window/preference_fonts.png

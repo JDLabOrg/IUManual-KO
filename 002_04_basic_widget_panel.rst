@@ -9,7 +9,7 @@
 아이유 위젯 IU Widgets
 --------------------------------------
 
-.. thumbnail:: resource_new/widget_basic.png
+.. thumbnail:: resource/capture_window/widget_basic.png
 
 IU WIDGETS 탭에서는 아이유에디터에서 사용 가능한 모든 위젯들이 보여집니다. 기본적으로 **박스 / 텍스트 / 이미지 / 셀 위젯** 을 제공하며, 웹페이지에서 활용할 수 있는 다양한 위젯을 지원합니다. Base, Complex, Programming 그룹으로 구분되어 있습니다. **Show/Hide 버튼** 으로 각 그룹의 위젯 목록을 펼치고 접을 수 있습니다. **오른쪽 클릭** 으로 위젯의 상세정보를 확인할 수 있습니다.
 
@@ -21,7 +21,7 @@ IU WIDGETS 탭에서는 아이유에디터에서 사용 가능한 모든 위젯�
 커스텀 위젯 Custom Widgets
 ------------------------------------
 
-.. thumbnail:: resource_new/widget_custom.png
+.. thumbnail:: resource/capture_window/widget_custom.png
 
 CUSTOM WIDGETS 탭에서는 **위젯 불러오기** 로 불러온 커스텀 위젯들이 보여집니다. 커스텀 위젯이 속한 그룹명으로 구분되어 있으며 **Show/Hide** 버튼으로 각 그룹의 위젯 목록을 펼치고 접을 수 있습니다. **드래그 앤 드롭** 이나 **더블 클릭** 하여 위젯을 캔버스에 추가 할 수 있습니다. **오른쪽 클릭** 으로 커스텀 위젯의 상세정보를 확인할 수 있습니다. 상세정보는 :doc:`위젯 관리 패널<004_05_panel_management_widget>` 에서 수정할 수 있습니다.
 

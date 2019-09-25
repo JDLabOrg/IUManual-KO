@@ -1,7 +1,7 @@
 네비게이션 Navigation
 =======================
 
-.. thumbnail:: resource_new/basic_nav.png
+.. thumbnail:: resource/capture_window/basic_nav.png
 
 네비게이션 영역은 캔버스 바로 좌측에 위치하며, :ref:`스트럭쳐<Structure>` / :ref:`페이지<Pages>` / :ref:`컴포지션<Compositions>` 영역으로 구분됩니다.
 

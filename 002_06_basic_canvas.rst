@@ -1,7 +1,7 @@
 캔버스 Canvas
 ==============
 
-.. thumbnail:: resource_new/canvas.png
+.. thumbnail:: resource/capture_window/canvas.png
 
 캔버스는 아이유에디터에서 작업하는 화면을 말합니다. 위젯이나 섹션을 추가할 수 있으며, 수정한 내용이 바로바로 보여집니다.
 
@@ -9,13 +9,13 @@
 컨텍스트 메뉴 - 단일 위젯 Context Menu - Single Widget
 -----------------------------------------------------------------
 
-.. image:: resource_new/single_widget_01.png
+.. image:: resource/capture_window/single_widget_01.png
 
 위젯을 선택한 상태이거나, 캔버스 상에서 우클릭을 하면, 컨텍스트 메뉴를 호출할 수 있습니다.
 
 * ``위젯 Widget`` : 현재 마우스 포인터 위치에 있는 모든 위젯을 보여주어 선택을 손쉽게 할 수 있도록 도와줍니다.
 
-.. image:: resource_new/single_widget_02.png
+.. image:: resource/capture_window/single_widget_02.png
 
 
 * ``메모 추가 Add Memo`` : 현재 선택된 위젯에 메모를 추가할 수 있는 :doc:`메모 패널<004_04_panel_memo>` 을 불러옵니다.
@@ -28,15 +28,15 @@
 --------------------------------------------------------------------------
 
 
-.. image:: resource_new/multi_widget_01.png
+.. image:: resource/capture_window/multi_widget_01.png
 
 복수의 위젯을 선택한 상태에서 우클릭을 하면, 컨텍스트 메뉴를 호출할 수 있습니다.
 
 
 * ``정럴 Align`` : 현재 선택된 위젯들을 정렬하는 기능입니다. **좌측 정렬 Align Left, 중앙 정렬 Align Center, 우측 정렬 Align Right, 상단 정렬 Align Top, 세로 중앙 정렬 Align Middle, 하단 정렬 Align Bottom** 이 있습니다.
 
-  .. image:: resource_new/multi_widget_02.png
+  .. image:: resource/capture_window/multi_widget_02.png
   
 * ``크기 Size`` : 현재 선택된 위젯들의 크기를 맞추어 주는 기능입니다. **가로 맞춤 Match Width, 세로 맞춤 Match Height** 가 있습니다.
 
-  .. image:: resource_new/multi_widget_03.png
+  .. image:: resource/capture_window/multi_widget_03.png

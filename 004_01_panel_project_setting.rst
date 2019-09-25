@@ -9,7 +9,7 @@
 디폴트 Default
 --------------------------
 
-.. thumbnail:: resource_new/proj_setting_default.png
+.. thumbnail:: resource/capture_window/proj_setting_default.png
 
 * ``Project Title`` : 브라우져에서 보여질 프로젝트의 타이틀을 입력합니다.
 * ``Favicon`` : 파비콘 이미지를 설정합니다. 리소스로 불러들여온 후에 사용이 가능합니다.
@@ -22,7 +22,7 @@
 메타 Meta
 ------------
 
-.. thumbnail:: resource_new/proj_setting_meta.png
+.. thumbnail:: resource/capture_window/proj_setting_meta.png
 
 * ``Meta Image`` : 메타이미지를 설정합니다. 외부경로 (URL)만 입력 가능합니다.
 * ``Author`` : 메타데이타에 포함될 제작자의 이름을 입력합니다.
@@ -38,7 +38,7 @@
 빌드 Build
 ------------
 
-.. thumbnail:: resource_new/proj_setting_build.png
+.. thumbnail:: resource/capture_window/proj_setting_build.png
 
 * ``Build Path`` : 빌드 실행 시 생성되는 폴더의 경로를 설정합니다.
 * ``Build Resource Path`` : 빌드 실행 시 생성되는 리소스 폴더의 경로를 설정합니다.
@@ -53,7 +53,7 @@
 장고 Django
 ------------
 
-.. thumbnail:: resource_new/proj_setting_django.png
+.. thumbnail:: resource/capture_window/proj_setting_django.png
 
 .. note :: 장고 셋팅은 :ref:`장고 프로젝트<Django_Project>` 에서만 설정 가능합니다.
 

@@ -6,7 +6,7 @@
 **그리드 뷰** 의 확대/축소 보기 모드가 지원되며, 우측에서 :ref:`커스텀 위젯 정보 Custom Widget Information<Custom_Widget_Information>` 를 수정할 수 있습니다.
 패널 상단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다.
 
-.. thumbnail:: resource_new/panel_manage_widget.png
+.. thumbnail:: resource/capture_window/panel_manage_widget.png
 
 상단 바 Top Bar
 ----------------------------

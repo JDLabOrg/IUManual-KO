@@ -1,7 +1,7 @@
 개발자 모드 Developer Mode
 ====================================
 
-.. thumbnail:: resource_new/advanced_dev.png
+.. thumbnail:: resource/capture_window/advanced_dev.png
 
 상단 툴바에서 ``모드 변경 버튼`` 을 클릭하면 개발자 모드로 전환할 수 있습니다.
 

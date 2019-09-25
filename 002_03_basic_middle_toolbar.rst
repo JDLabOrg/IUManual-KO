@@ -1,7 +1,7 @@
 중앙 툴바 Middle Toolbar
 =====================================
 
-.. thumbnail:: resource_new/mid_toolbar.png
+.. thumbnail:: resource/capture_window/mid_toolbar.png
 
 중앙 툴바는 캔버스 바로 상단에 위치하며,  :ref:`새로고침<Refresh>` / :ref:`포지션<Position>` / :ref:`프레임<Frame>` / :ref:`배경컬러<Background_Color>` / :ref:`위젯 보기 버튼<Show_Widget_Button>` 영역으로 구분됩니다.
 
