@@ -1,7 +1,7 @@
 프로젝트 셋팅 Project Setting
 =============================
 
-**프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 **⇧⌘P** 키를 실행하면 프로젝트 셋팅 패널이 보여집니다. :ref:`디폴트 Default<Default>` , :ref:`메타 Meta<Meta>`, :ref:`빌드 Build<Build>`, :ref:`장고 Django<Django>` 탭 메뉴를 눌러 각 항목의 내용을 추가하거나 수정할 수 있습니다.
+**프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 :kbd:`⇧⌘P` 키를 실행하면 프로젝트 셋팅 패널이 보여집니다. :ref:`디폴트 Default<Default>` , :ref:`메타 Meta<Meta>`, :ref:`빌드 Build<Build>`, :ref:`장고 Django<Django>` 탭 메뉴를 눌러 각 항목의 내용을 추가하거나 수정할 수 있습니다.
 
 
 .. _Default:
