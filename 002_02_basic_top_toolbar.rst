@@ -4,7 +4,7 @@
 
 .. thumbnail:: resource_new/top_toolbar.png
 
-상단 툴바는 :ref:`커맨드 Command` / :ref:`탭 메뉴 Tab Menu` / :ref:`스테이지 Stage` 영역으로 구분됩니다.
+상단 툴바는 :ref:`커맨드 Command<Command>` / :ref:`탭 메뉴 Tab Menu` / :ref:`스테이지 Stage` 영역으로 구분됩니다.
 
 
 ----------
