@@ -9,7 +9,7 @@
 
 하여 불러올 수 있습니다.
 
-.. image:: resource_new/panel_export_widget.png
+.. thumbnail:: resource_new/panel_export_widget.png
 
 
 * ``Customize Viewport Size`` : 커스텀파일의 뷰포트를 원하는 사이즈로 조정합니다.
