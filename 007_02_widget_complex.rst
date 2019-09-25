@@ -1,7 +1,5 @@
-
-
 복합 위젯 Complex Widget
-============
+================================
 
 -----------
 
@@ -56,7 +54,7 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 .. image:: resource/widget/IUGoogleMap.png
 
 구글맵 Google Map
------------------
+----------------------
 
 .. image:: resource_new/google_map.png
 
@@ -85,7 +83,7 @@ Effect와 Duration을 설정해 다양하게 커스터마이징 가능합니다.
 .. image:: resource/widget/IUWebMovie.png
 
 웹무비 WebMovie
----------------
+--------------------
 
 .. image:: resource_new/vimeo_youtube.png
 
@@ -115,7 +113,7 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 .. image:: resource/widget/IUMovie.png
 
 비디오 클립 Video Clip
----------------------
+-------------------------
 
 .. image:: resource_new/video_clip.png
 
@@ -162,7 +160,7 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 .. image:: resource/widget/IUSimpleTabView.png
 
 심플 탭  Simple Tab View
-------------------------
+-----------------------------
 
 .. image:: resource_new/simple_tab_view.png
 
@@ -235,7 +233,7 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 .. image:: resource/widget/IUImport.png
 
 임포트 Import
-------------
+------------------
 
 .. image:: resource_new/import.png
 
@@ -263,7 +261,7 @@ Vimeo와 Youtube에 업로드 된 영상을 불러올 수 있습니다.
 .. image:: resource/widget/IUTweetButton.png
 
 트위터 공유 버튼 Tweet Share Button
---------------------------------
+----------------------------------------
 
 .. image:: resource_new/twt_share.png
 

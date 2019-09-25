@@ -1,7 +1,5 @@
-
-
 컴포지션 Composition
-============
+===================================
 
 .. image:: resource/widget/IUClass.png
 
