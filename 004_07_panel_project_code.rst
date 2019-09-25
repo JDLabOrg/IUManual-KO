@@ -4,10 +4,7 @@
 
 프로젝트 코드 버튼 **Project > Project Code** :kbd:`⇧⌘C` 을 눌러 프로젝트 코드 패널을 불러올 수 있습니다.
 
-<<<<<<< HEAD
 .. image:: resource/capture_window/panel_project_code.png
-=======
-.. image:: resource/capture_window/sheet_page_code.png
 
 해당 코드는 모든 페이지에 들어갑니다.
 
@@ -39,4 +36,3 @@ Back-end
      <!-- auto generated code by IUEditor -->
      <!-- end : your code -->
    </head>
->>>>>>> 57d74cd196641b4a92c461e32564dd810bcb5f9a
