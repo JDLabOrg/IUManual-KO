@@ -62,7 +62,7 @@
 ------------
 
 
-.. image:: resource_new/proj_setting_django.png
+.. thumbnail:: resource_new/proj_setting_django.png
 
 .. _Django:
 
