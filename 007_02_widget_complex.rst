@@ -119,7 +119,7 @@ Video Clip
 
 .. image:: resource_new/video_clip.png
 
-Video Clip widget supports MP4. You can input videos from Resource panel.
+비디오 클립 위젯입니다. 리소스 패널에서 비디오를 입력할 수 있습니다.
 
 
 
@@ -140,7 +140,7 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 테이블 Table
 ------------
 
-.. image:: resource/iu_manual_prop_complex_IUTable.png
+.. image:: resource_new/table.png
 
 테이블 위젯입니다.
 캔버스에 간단한 표를 그릴 수 있습니다.
@@ -164,7 +164,7 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 심플 탭  Simple Tab View
 ------------------------
 
-.. image:: resource/iu_manual_prop_complex_IUSimpleTabView.png
+.. image:: resource_new/simple_tab_view.png
 
 탭 뷰 위젯입니다. 탭 뷰 위젯보다 구조가 단순합니다.
 탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다.
@@ -186,9 +186,9 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 .. image:: resource/widget/IUTabView.png
 
 탭 뷰 Tab View
-----------
+--------------
 
-.. image:: resource/iu_manual_prop_complex_IUTabView.png
+.. image:: resource_new/tab_view.png
 
 탭 뷰 위젯입니다.
 탭 선택 시 각각의 탭에 연결된 탭 컨텐츠를 보여줍니다.
@@ -210,9 +210,9 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 .. image:: resource/widget/IUCollapsible.png
 
 컬랩시블 Collapsible
-----------
+--------------------
 
-.. image:: resource/iu_manual_prop_complex_IUCollapsible.png
+.. image:: resource_new/collapsible.png
 
 컬랩시블 위젯입니다.
 컬랩시블 아이템을 선택 시 컨텐츠 영역을 보여줍니다. 트랜지션 효과와 타이밍 등을 설정할 수 있습니다.
@@ -235,9 +235,9 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 .. image:: resource/widget/IUImport.png
 
 임포트 Import
-----------
+------------
 
-.. image:: resource/iu_manual_prop_complex_IUImport.png
+.. image:: resource_new/import.png
 
 
 컴포지션을 불러오는 임포트 위젯입니다.
@@ -263,9 +263,9 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 .. image:: resource/widget/IUTweetButton.png
 
 트위터 공유 버튼 Tweet Share Button
-----------
+--------------------------------
 
-.. image:: resource/iu_manual_prop_complex_IUTweetButton.png
+.. image:: resource_new/twt_share.png
 
 현재 페이지를 트위터로 공유할 수 있는 트위터 위젯입니다.
 Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니다.
@@ -288,9 +288,9 @@ Property에서 형태를 설정할수 있으나 크기는 조정되지 않습니
 .. image:: resource/widget/IUFBLike.png
 
 페이스북 좋아요 버튼 Facebook Like Button
-----------
+--------------------------------------
 
-.. image:: resource/iu_manual_prop_complex_IUFBLike.png
+.. image:: resource_new/fb_like.png
 
 현재 페이지를 페이스북으로 공유할 수 있는 페이스북 위젯입니다.
 Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으나 크기는 조정되지 않습니다.
@@ -314,9 +314,9 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUCenterBox.png
 
 센터박스 Centered Box
-----------
+--------------------
 
-.. image:: resource/iu_manual_prop_complex_IUCenterBox.png
+.. image:: resource_new/center_box.png
 
 
 페이지의 요소를 가운데로 정렬시켜주는 센터박스 위젯입니다.
@@ -342,9 +342,9 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUProgressBar.png
 
 프로그레스 바 Progress Bar
-----------
+-------------------------
 
-.. image:: resource/iu_manual_prop_complex_IUProgressBar.png
+.. image:: resource_new/progress_bar.png
 
 
 최대치 대비 현재 비율을 나타태주는 프로그레스 바를 그릴 수 있는 위젯입니다.
@@ -368,9 +368,9 @@ Property에서 공유할 URL 의 주소와 컬러 테마를 설정할수 있으�
 .. image:: resource/widget/IUSVG.png
 
 SVG (Scalable Vector Graphics)
-----------
+------------------------------
 
-.. image:: resource/iu_manual_prop_complex_IUSVG.png
+.. image:: resource_new/svg.png
 
 
 SVG를 사용할 수 있는 위젯입니다.
