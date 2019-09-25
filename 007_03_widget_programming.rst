@@ -1,9 +1,6 @@
 프로그래밍 위젯 Programming Widget
 ====================================
 
------------
-
-
 .. image:: resource/widget/PGForm.png
 
 폼 Form

@@ -1,8 +1,6 @@
 기본 위젯 Basic Widget
 ============================
 
------------
-
 .. image:: resource/widget/IUBox.png
 
 박스 Box
