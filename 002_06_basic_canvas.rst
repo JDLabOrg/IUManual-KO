@@ -17,6 +17,7 @@
 
 .. image:: resource_new/single_widget_02.png
 
+
   * ``메모 추가 Add Memo`` : 현재 선택된 위젯에 메모를 추가할 수 있는 :doc:`메모 패널<004_04_panel_memo>` 을 불러옵니다.
   * ``위젯 내보내기 Export to Widget`` : 현재 선택된 위젯을 커스텀 위젯 Custom Widget 으로 만들 수 있는 :doc:`위젯 내보내기 패널<004_06_panel_export_widget>` 을 호출합니다.
   * ``이벤트 보기 Show Event`` : 현재 선택된 위젯에 연결된 이벤트를 수정 / 추가 할 수 있는 :doc:`이벤트 패널<004_03_panel_event>` 을 불러옵니다.
