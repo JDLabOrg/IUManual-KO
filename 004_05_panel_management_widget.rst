@@ -1,7 +1,7 @@
 커스텀 위젯 관리 패널 Manage Custom Widgets Panel
 ======================================================
 
-위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Manage Custom Widgets** 항목을 실행하면 등장합니다.
+위젯 불러오기 패널은 아이유에디터 메뉴 **Project - Manage Custom Widgets** 항목을 실행하면 등장합니다.
 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget**, **페이지 Page**, **컴포지션 Composition** 파일을 프로젝트에 추가할 때 사용됩니다.
 **그리드 뷰** 의 확대/축소 보기 모드가 지원되며, 우측에서 :ref:`커스텀 위젯 정보 Custom Widget Information<Custom_Widget_Information>`를 수정할 수 있습니다.
 패널 상단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다.
