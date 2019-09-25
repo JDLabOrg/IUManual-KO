@@ -9,7 +9,7 @@
 
 페이지에는 직접적으로 위젯을 삽입할수 없습니다. 먼저 페이지 설정 버튼을 눌러 페이지 세팅 패널을 통해, 페이지의 레이아웃을 정한 후 각각 해당하는 곳에 위젯을 삽입합니다.
 
-.. image:: resource_new/sheet_page.png
+.. thumbnail:: resource_new/sheet_page.png
 
 * **Empty Layout** : 빈 레이아웃 입니다.
 * **Header + Footer** : 헤더 + 페이지 컨텐트 + 푸터로 구성되어 있습니다.
@@ -37,12 +37,13 @@
 페이지 기본 위젯 Page Default Widget
 -------------------------------------------
 
-.. image:: resource/widget/IUPage.png
 
 페이지 Page
 ~~~~~~~~~~~~~~~~~~
 
-.. image:: resource_new/sheet_page_page.png
+.. image:: resource/widget/IUPage.png
+
+.. thumbnail:: resource_new/sheet_page_page.png
 
 페이지는 html 문서와 동일하며, 속성 탭에서 페이지 구조를 변경할 수 있습니다.
 
@@ -51,7 +52,7 @@
 
 .. image:: resource/widget/IUHeader.png
 
-.. image:: resource_new/sheet_page_header.png
+.. thumbnail:: resource_new/sheet_page_header.png
 
 페이지의 상단에 위치하는 영역입니다. 헤더영역에는 헤더 컴포지션이나 다른 컴포지션을 임포트 할 수 있습니다.
 
@@ -69,13 +70,14 @@
 
 .. image:: resource/widget/IUFooter.png
 
-.. image:: resource_new/sheet_page_footer.png
+.. thumbnail:: resource_new/sheet_page_footer.png
 
 페이지의 하단에 위치하는 영역입니다. 푸터영역에는 푸터 컴포지션이나 다른 컴포지션을 임포트 할 수 있습니다.
 
 
 섹션 Section
 ~~~~~~~~~~~~~~~~~~~~
+
 .. image:: resource/widget/IUSection.png
 
 페이지컨텐트의 하위 요소인 섹션입니다. 섹션에는 위젯을 자유롭게 추가할 수 있습니다.
@@ -93,9 +95,9 @@
 
 .. image:: resource/widget/IUPanel.png
 
-.. image:: resource_new/sheet_page_panel.png
+.. thumbnail:: resource_new/sheet_page_panel.png
 
-패널 그룹의 [+] 버튼을 눌러 패널을 추가합니다. 패널을 호출하려면 위젯과 링크를 생성하고 패널에 대한 링크 대상을 선택해야합니다.
+패널 그룹의 :kbd:`+` 버튼을 눌러 패널을 추가합니다. 패널을 호출하려면 위젯과 링크를 생성하고 패널에 대한 링크 대상을 선택해야합니다.
 
 
 팝업 Popup
@@ -103,6 +105,6 @@
 
 .. image:: resource/widget/IUPopUp.png
 
-.. image:: resource_new/sheet_page_popup.png
+.. thumbnail:: resource_new/sheet_page_popup.png
 
-팝업 그룹의 [+] 버튼을 눌러 팝업을 추가합니다. 팝업을 호출하려면 위젯과 링크를 생성하고 팝업에 대한 링크 대상을 선택해야합니다.
+팝업 그룹의 :kbd:`+` 버튼을 눌러 팝업을 추가합니다. 팝업을 호출하려면 위젯과 링크를 생성하고 팝업에 대한 링크 대상을 선택해야합니다.
