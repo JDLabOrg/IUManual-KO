@@ -1,7 +1,5 @@
-
-
 이벤트 패널 Event Panel
-====================
+=====================
 
 이벤트 패널은 아이유에디터 메뉴 View > Event 항목을 활성화 시키면 등장합니다. 스크롤 애니메이터, 베리에이블 트리거 같은 이벤트를 추가할 수 있습니다.
 
@@ -11,7 +9,8 @@
 .. image:: resource_new/panel_event_scroll.png
 
 스크롤 애니메이터 Scroll Animator
---------
+------------------------------
+
 세로로 긴 웹페이지를 스크롤 하게 될 경우, 선택한 요소들에 대한 애니메이션 이벤트를 추가합니다. 스크롤 애니메이터는 해당요소가 브라우저 중앙에 근접할수록 After값에 가까워집니다. 그래서 페이지를 스크롤해서 해당 요소에 포커싱 될 때 Before 값에서 After 값으로 조정됩니다.
 
 
@@ -26,7 +25,7 @@
 .. image:: resource_new/panel_event_variable.png
 
 베리에이블 Variable
-----------------
+------------------
 
 선택된 위젯에 특정액션이 발생되도록 (롤오버 or 클릭) 변수값과 옵션을 설정합니다.
 
@@ -46,13 +45,13 @@
 .. image:: resource_new/panel_event_receiver.png
 
 리시버 Receiver
--------------
+---------------
 
 트리거메뉴에서 정의한 변수가 Equation의 조건과 일치하게 될 경우, 리시버가 설정된 위젯을 보여줍니다.
 
 * ``Variable Name`` : 현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Receiver Widget 리스트를 볼 수 있습니다. 예를 들어, a라는 Variable을 선택하면 a==1, aa==1, 1==abc와 같은 a가 포함된 Equation을 갖는 위젯들을 보여줍니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
 
-* ``Receiver Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Receiver Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 Eqation에서 삭제하면 Receiver Widget 리스트에서 삭제 됩니다.
+* ``Receiver Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Receiver Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 Equation에서 삭제하면 Receiver Widget 리스트에서 삭제 됩니다.
 
 * ``Equation`` : Trigger에서 지정한 변수에 대한 조건식을 지정합니다. 예시) a==1
 
