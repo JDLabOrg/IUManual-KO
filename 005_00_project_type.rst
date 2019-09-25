@@ -13,9 +13,9 @@
 .. image:: resource/iu_manual_project_new_default.png
 
 
-* ``Empty Page (Header / Footer)`` : 빈 레이아웃 (헤더 + 페이지 컨텐트 + 푸터)  프로젝트를 생성합니다.
-* ``Empty Page (Header)`` : 빈 레이아웃 (헤더 + 페이지 컨텐트) 프로젝트를 생성합니다.
-* ``Empty Page (Blank)`` : 빈 레이아웃 (페이지 컨텐트) 프로젝트를 생성합니다.
+* ``Empty Page (Header / Footer)`` : **빈 레이아웃 (헤더 + 페이지 컨텐트 + 푸터)** 프로젝트를 생성합니다.
+* ``Empty Page (Header)`` : **빈 레이아웃 (헤더 + 페이지 컨텐트)** 프로젝트를 생성합니다.
+* ``Empty Page (Blank)`` : **빈 레이아웃 (페이지 컨텐트)** 프로젝트를 생성합니다.
 
 * ``IUPro`` : IUPro 템플릿 프로젝트를 생성합니다.
 * ``Paper`` : IUPaper 템플릿 프로젝트를 생성합니다.
