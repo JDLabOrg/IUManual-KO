@@ -4,7 +4,7 @@
 .. image:: resource_new/mac_menu_bar_blk.png
 
 IUEditor 메뉴 바 Menu Bar 에 대한 설명입니다.
-----------
+------------------------------------------------------
 
 
 아이유에디터 IUEditor
