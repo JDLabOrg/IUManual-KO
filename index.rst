@@ -51,6 +51,7 @@ IUEditor Manual
    :caption: 패널 Panel
 
    004_01_panel_project_setting
+   004_07_panel_custom_code
    004_02_panel_resource
    004_03_panel_event
    004_04_panel_memo

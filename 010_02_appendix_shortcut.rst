@@ -56,7 +56,6 @@
 * ``프로토타입 모드 Prototype Mode`` :kbd:`⌘\` : 프로토타입 모드 Prototype Mode로 전환합니다.
 
 
-
 캔버스 뷰 관리 Canvas View Management
 -------------------------------------------
 
