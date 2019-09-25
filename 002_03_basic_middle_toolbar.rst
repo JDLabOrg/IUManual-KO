@@ -1,5 +1,5 @@
 중앙 툴바 Middle Toolbar
-====================
+=====================================
 
 .. thumbnail:: resource_new/mid_toolbar.png
 

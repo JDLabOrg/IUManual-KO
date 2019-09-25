@@ -3,9 +3,9 @@
 
 위젯 내보내기 패널은
 
-* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 > :ref:`위젯 내보내기 Export Widget<Export_Widget>` 실행
-* 페이지를 선택하여 컨택스트 메뉴 > :ref:`페이지 내보내기 Export Page<Export_Page>` 실행
-* 컴포지션을 선택하여 컨텍스트 메뉴 > :ref:`컴포지션 내보내기 Export Composition<Export_Composition>` 실행
+* 스트럭쳐나 캔버스에서 특정 위젯을 선택하여 컨텍스트 메뉴 ">" :ref:`위젯 내보내기 Export Widget<Export_Widget>` 실행
+* 페이지를 선택하여 컨택스트 메뉴 ">" :ref:`페이지 내보내기 Export Page<Export_Page>` 실행
+* 컴포지션을 선택하여 컨텍스트 메뉴 ">" :ref:`컴포지션 내보내기 Export Composition<Export_Composition>` 실행
 
 하여 불러올 수 있습니다.
 
@@ -29,7 +29,6 @@
 .. image:: resource/icon_IUW_128x128.png
 
 위 1) 상황에서 내보내기 Export 기능을 실행 하면, 로컬디스크에는 ``커스텀위젯이름.iuw`` 파일이 생성됩니다. 이 파일은 :doc:`위젯 불러오기 패널<004_05_panel_management_widget>`에서 불러온 후에 사용 가능합니다.
-
 
 
 

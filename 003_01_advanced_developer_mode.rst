@@ -1,5 +1,5 @@
 개발자 모드 Developer Mode
-=======================
+====================================
 
 
 .. thumbnail:: resource_new/advanced_dev.png
