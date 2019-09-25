@@ -28,9 +28,7 @@
 페이지 커스텀 코드 Page Custom Code
 -------------------------------------
 
-페이지 커스텀 코드 버튼을 눌러 페이지 커스텀 코드 패널을 불러올 수 있습니다.
-
-.. image:: resource_new/sheet_page_code.png
+.. image:: resource_new/page_code.png
 
 * **Page Header Custom Code** : 페이지 헤더 Header 부분에 추가할 커스텀 코드를 입력합니다.
 * **Page Header Custom Code for Backend** : 페이지 헤더 Header 부분에 추가할 백엔드 커스텀 코드를 입력합니다.
