@@ -30,17 +30,29 @@
 상단 툴 바 중앙에 위치한 탭 메뉴 영역에서는 **스타일 / 속성 / 텍스트 / 트랜스폼 / 마우스-오버 / 링크** 탭 메뉴가 있습니다. 각 탭 메뉴를 선택하면, 상단 툴바 하단의 프로퍼티 패널에 보여집니다.
 
 * ``스타일 탭 Style Tab`` : 선택한 위젯의 **라운딩 / 보더 / 박스 쉐도우 / 투명도 / 배경 이미지** 등을 설정할 수 있습니다.
+
   .. thumbnail:: resource_new/style_tab.png
+
 * ``속성 탭 Property Tab`` : 선택한 각 위젯의 개별 속성을 변경할 수 있습니다. 각 위젯 별로 설정 가능한 항목이 다릅니다.
+
   .. thumbnail:: resource_new/property_tab.png
+
 * ``텍스트 탭 Text Tab`` : **폰트 패밀리 / 두께 / 크기 / 컬러 / 행간 / 자간 / 제목 텍스트 / 정렬** 등을 설정할 수 있습니다.
+
   .. thumbnail:: resource_new/text_tab.png
+
 * ``트랜스폼 탭 Transform Tab`` : 선택한 위젯의 회전 값 Rotation 값 등을 설정하여 형태를 변형시킬 수 있습니다.
+
   .. thumbnail:: resource_new/transform_tab.png
+
 * ``마우스-오버 탭 Mouse-Over Tab`` : 선택한 위젯이 마우스 오버 상태일 때 변화하는 값을 설정 할 수 있습니다.
+
   .. thumbnail:: resource_new/mouseover_tab.png
-* ``링크 탭 Link Tab`` : 선택한 위젯에 ** 링크 Hyperlink** 를 설정할 수 있습니다.
+
+* ``링크 탭 Link Tab`` : 선택한 위젯에 **링크 Hyperlink** 를 설정할 수 있습니다.
+
   .. thumbnail:: resource_new/link_tab.png
+
 
 .. _Stage:
 
