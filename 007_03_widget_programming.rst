@@ -183,7 +183,7 @@ IUEditor에 원하는 위젯이 없을 경우 직접 HTML 코드를 작성해서
 체크박스 Checkbox
 -----------------
 
-.. thumbnail:: resource_new/check_box.png
+.. thumbnail:: resource_new/checkbox.png
 
 
 체크박스 위젯입니다.
