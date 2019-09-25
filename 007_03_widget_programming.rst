@@ -1,15 +1,15 @@
 프로그래밍 위젯 Programming Widget
 ====================================
 
-.. image:: resource/widget/PGForm.png
-
 폼 Form
 ----------
+
+.. image:: resource/widget/PGForm.png
 
 .. thumbnail:: resource_new/form.png
 
 폼 위젯입니다.
-Input 요소를 감싸주는 <form> 태그 위젯입니다. 따라서, Input 요소를 추가하기 전에 필수로 생성해야 합니다.
+Input 요소를 감싸주는 :code:`<form>` 태그 위젯입니다. 따라서, Input 요소를 추가하기 전에 필수로 생성해야 합니다.
 폼 위젯을 먼저 만들고 그 안에 Input 위젯을 넣어주세요.
 
 

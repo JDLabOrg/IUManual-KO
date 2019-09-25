@@ -24,7 +24,7 @@
 선택된 위젯에 특정액션이 발생되도록 (롤오버 or 클릭) 변수값과 옵션을 설정합니다.
 
   * ``Variable Name`` : 현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Triggered Widget 리스트를 볼 수 있습니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
-  * ``Triggered Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Triggered Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 New Variable Name에서 삭제하면 Triggered Widget 리스트에서 삭제 됩니다.
+  * ``Triggered Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Triggered Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, :kbd:`delete` 키(키보드)를 누르거나 New Variable Name에서 삭제하면 Triggered Widget 리스트에서 삭제 됩니다.
   * ``New Variable Name`` : 트리거의 변수값을 설정합니다. ID나 Name과 같은 역할을 합니다.
   * ``Value Count`` : 트리거의 초기값과, 최대 몇 개의 리시버를 가질지 최대값을 설정합니다.
   * ``Trigger Action`` : 마우스오버 또는 클릭 시 트리거가 동작하도록 설정합니다.
@@ -37,11 +37,11 @@
 
 트리거메뉴에서 정의한 변수가 Equation의 조건과 일치하게 될 경우, 리시버가 설정된 위젯을 보여줍니다.
 
-  * ``Variable Name`` : 현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Receiver Widget 리스트를 볼 수 있습니다. 예를 들어, a라는 Variable을 선택하면 a==1, aa==1, 1==abc와 같은 a가 포함된 Equation을 갖는 위젯들을 보여줍니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
+  * ``Variable Name`` : 현재 페이지에 설정 된 모든 Variable 리스트를 보여줍니다. row를 클릭하면 해당 Variable을 사용하는 Receiver Widget 리스트를 볼 수 있습니다. 예를 들어, a라는 Variable을 선택하면 :code:`a==1, aa==1, 1==abc` 와 같은 :code:`a` 가 포함된 Equation을 갖는 위젯들을 보여줍니다. Variable을 사용하는 Widget이 없으면 Variable Name 리스트에서 삭제 됩니다.
 
-  * ``Receiver Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Receiver Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, delete키(키보드)를 누르거나 Equation에서 삭제하면 Receiver Widget 리스트에서 삭제 됩니다.
+  * ``Receiver Widget`` : Variable Name 에서 선택한 Variable을 사용하는 Receiver Widget 리스트를 보여줍니다. row를 클릭하면 해당 위젯으로 포커스가 이동합니다. row를 선택한 후, :kbd:`delete` 키(키보드)를 누르거나 Equation에서 삭제하면 Receiver Widget 리스트에서 삭제 됩니다.
 
-  * ``Equation`` : Trigger에서 지정한 변수에 대한 조건식을 지정합니다. 예시) a==1
+  * ``Equation`` : Trigger에서 지정한 변수에 대한 조건식을 지정합니다. 예시) :code:`a==1`
 
   * ``Scroll Location`` : Receiver 위젯의 Equation이 만족했을 때, 위젯이 보여지는 스크롤 위치를 지정하는 옵션입니다. 옵션을 지정하면 Start와 End사이에 스크롤이 위치했을 때에만 보여지고, 옵션을 지정하지 않으면 스크롤 위치와 상관없이 보여지게 됩니다.
 
