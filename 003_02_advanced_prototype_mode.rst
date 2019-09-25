@@ -42,6 +42,7 @@
 
 
 .. thumbnail:: resource_new/advanced_proto_workflow.png
+
 * ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
 * ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.
 
