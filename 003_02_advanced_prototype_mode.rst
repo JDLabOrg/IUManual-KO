@@ -1,20 +1,18 @@
-.. 히스토리 : #History
-.. 워크플로우 : #Project Workflow
-.. 화면 정의 : #Node Description
-
-
 프로토타입 모드 Prototype Mode
 =======================
 
-.. image:: resource_new/advanced_proto.png
+.. thumbnail:: resource_new/advanced_proto.png
 
 상단 툴바에서 ``Mode Switch Button`` 을 눌러 **Prototype Mode** 로 전환할 수 있습니다.
 
 여러명이 하나의 프로젝트를 같이 작업할 때, 프로토타입 모드에서 프로젝트와 관련된 히스토리와 워크플로우, 메모 등을 공유하고 관리할 수 있습니다.
-프로토타입 모드는 `히스토리 Revision History`_ / `워크플로우 Project Workflow`_ / `화면 정의 Node Description`_ 세가지 페이지를 제공합니다. ``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Senario`` 버튼은 프로토타입 문서를 **HTML Prototpye** 으로 빌드합니다. ``Refresh Thumbnail`` 버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
+프로토타입 모드는 :ref:`히스토리 Revision History<Revision_History>` / :ref:`워크플로우 Project Workflow<Project_Workflow>` / :ref:`화면 정의 Node Description<Node_Definition>` 세가지 페이지를 제공합니다.
+``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Scenario`` 버튼은 프로토타입 문서를 **HTML Prototype** 으로 빌드합니다. ``Refresh Thumbnail`` 버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
 
 
 ----------
+
+.. _Revision_History:
 
 히스토리 Revision History
 -------------------------------
@@ -27,10 +25,12 @@
 * ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
 ----------
 
+.. _Project_Workflow:
+
 워크플로우 Project Workflow
 -------------------------------
 
-.. image:: resource_new/advanced_proto_revision.png
+.. thumbnail:: resource_new/advanced_proto_revision.png
 
 프로젝트의 **워크플로우 Workflow** 를 보여줍니다. 섬네일을 드래그 앤 드롭 하여 노드를 추가할 수 있습니다. Delete키를 눌러 선택된 노드를 지울 수 있습니다.
 
@@ -41,7 +41,8 @@
 .. note:: 커스텀 섬네일은 **Editor Mode** 에서 툴바의 **Page Capture** 를 눌러 추가할 수 있습니다.
 
 
-.. image:: resource_new/advanced_proto_workflow.png
+.. thumbnail:: resource_new/advanced_proto_workflow.png
+
 * ``Rectangle Button`` : 선택된 노드 아래에 사각형 다이어그램을 추가합니다.
 * ``Rhombus Button`` : 선택된 노드 아래에 다이아몬드 다이어그램을 추가합니다.
 
@@ -53,6 +54,8 @@
 
 
 ----------
+
+.. _Node_Definition:
 
 개별 화면 정의 Node Definition
 -------------------------------
