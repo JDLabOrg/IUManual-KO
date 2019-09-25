@@ -10,21 +10,17 @@
 ``Refresh Workflow`` 버튼은 워크플로우를 초기 상태로 리셋 시킵니다. ``Build Scenario`` 버튼은 프로토타입 문서를 **HTML Prototype** 으로 빌드합니다. ``Refresh Thumbnail`` 버튼을 누르면 워크플로우와 페이지 리스트에 있는 페이지 섬네일들을 최신상태로 업데이트 시킵니다.
 
 
-----------
 
 .. _Revision_History:
 
 히스토리 Revision History
 -------------------------------
 
-
 프로젝트의 **히스토리 Revision History** 를 보여줍니다. 히스토리를 변경하거나 추가할 수 있습니다.
-
 
 * ``Add New Date Button`` : 히스토리 테이블에 새 히스토리를 추가합니다.
 * ``Remove Date Button`` : 히스토리 테이블에서 선택된 히스토리를 지웁니다.
 
-----------
 
 .. _Project_Workflow:
 
@@ -52,10 +48,6 @@
 * ``Outward Label`` : 선택된 노드 아래에 표시되는 텍스트를 입력합니다.
 
 
-
-
-----------
-
 .. _Node_Definition:
 
 개별 화면 정의 Node Definition
@@ -65,8 +57,8 @@
 
 각 페이지의 **개별 화면 정의 Node Definition** 화면을 보여줍니다. 화면 정의 Screen description과 기타사항 Exception area에 내용을 추가하고 편집할 수 있습니다. **워크플로우** 화면에서 섬네일을 더블클릭 해도 **개별 화면 정의 Node Definition** 로 넘어갑니다.
 
-* ``메모 이미지 추가 영역`` : 리소스 패널에서 메모 넘버링을 대체할 이미지를 선택합니다.
-* ``Add Memo Button`` : 메모 테이블에 새 메모를 추가합니다.
-* ``Delete Button`` : 메모 테이블에서 선택된 메모를 지웁니다.
+  * ``메모 이미지 추가 영역`` : 리소스 패널에서 메모 넘버링을 대체할 이미지를 선택합니다.
+  * ``Add Memo Button`` : 메모 테이블에 새 메모를 추가합니다.
+  * ``Delete Button`` : 메모 테이블에서 선택된 메모를 지웁니다.
 
 스크린샷 영역을 클릭하면 클릭한 지점에 메모를 표시할 수 있습니다.
