@@ -207,12 +207,11 @@ latex_elements = {
 #'pointsize': '10pt',
 
 # Additional stuff for the LaTeX preamble.
-# korean pdf https://github.com/solidity-korea/solidity-docs-kr/issues/54
-'preamble': '',join((
-  '\usepackage[utf8x]{inputenc}',
-  '\documentclass{article}',
-  '\usepackage{kotex}',
-  ))
+# 'preamble': ''
+  
+# http://seonho.kim/2016/03/26/core-logic-%ED%95%9C%EA%B8%80-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC/
+  'inputenc': '\\usepackage{kotex}',
+  'babel': '\\usepackage[english]{babel}'
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
